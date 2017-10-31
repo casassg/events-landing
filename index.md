@@ -1,8 +1,8 @@
 ---
 title: Home
 layout: base
-og: assets/img/og.png
-description: HackCU events
+og: assets/img/localhackday.png
+description: HackCU community webpage. Check all our workshops and events coming up!
 ---
 
 
