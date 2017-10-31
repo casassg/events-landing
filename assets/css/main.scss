@@ -1,19 +1,39 @@
 ---
 ---
 
+@font-face {
+    font-family: Biko;
+    src: url('../fonts/Biko_Regular.otf');
+}
+
+html { height: 100%; width: 100% }
+
 body {
     background-color: #EFEAE4;
-    font-family: "Roboto", Helvetica, sans-serif;
+    background-color: rgba(236, 240, 241,1.0);
+    padding: 15px 0px;
+    font-family: "Biko", Helvetica, sans-serif;
+    font-size: 1.6em;
+    min-height: 100%;
+    width: 100%;
 }
 
 div.panel {
-    -webkit-box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    /*-webkit-box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
     -moz-box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
-    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);*/
+    box-shadow: 1px 1px 3px 1px rgba(0,0,0,.08);
     -webkit-border-radius: 0;
     -moz-border-radius: 0;
     border-radius: 0;
-    height: 280px;
+    min-height: 280px;
+    transition: .1s;
+    -webkit-transition: .1s;
+    -moz-transition: .1s;
+    border: 2px solid transparent;
+    .panel-body {
+        padding: 10px;
+    }
 
     .until {
         position: absolute;
@@ -21,6 +41,17 @@ div.panel {
         right: 40px;
         font-style: italic;
     }
+
+    &:hover {
+        transition: .1s;
+        -webkit-transition: .1s;
+        -moz-transition: .1s;
+        border: 2px solid rgba(52, 73, 94,0.6);
+    }
+}
+
+.events .col-sm-4 {
+    margin: 10px;
 }
 
 a.event-url {
@@ -38,13 +69,16 @@ a.event-url {
         object-fit: cover;
         height: 100px;
         width: 100%;
+        &.white {
+            filter: brightness(85%);
+        }
     }
 
     h3 {
         position: absolute;
-        top: 50px;
+        top: 42px;
         z-index: 10;
-        padding-left: 5px;
+        padding: 10px;
 
         &.white{
             color: white;
@@ -58,5 +92,11 @@ a.event-url {
 
 .dl-horizontal dt {
     width: 60px;
+}
+
+.calendar {
+    display: block;
+    width: 300px;
+    font-size: 1.2em;
 }
 
