@@ -34,6 +34,8 @@ description: HackCU community webpage. Check all our workshops and events coming
                     </a>
                 </div>
             {% endfor %}
+            <a href="https://calendar.google.com/calendar/r?cid=webcal://hackcu.github.io/community/calendars/events.ics" target="_blank">Add events to Google Calendar</a>
         </div>
     </div>
+
 </section>
