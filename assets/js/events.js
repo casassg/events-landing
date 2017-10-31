@@ -8,7 +8,7 @@ $(function(){
 		date = moment(date, "YYYY-MM-DD h:mm a");
 		until.html(date.fromNow());
 		if (date.isBefore(moment())){
-			event.addClass('past');
+			event.parent().addClass('past');
 		}
 	})
 })

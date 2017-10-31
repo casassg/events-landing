@@ -48,6 +48,13 @@ div.panel {
         -moz-transition: .1s;
         border: 2px solid rgba(52, 73, 94,0.6);
     }
+
+    &.past {
+        color: rgba(0,0,0,.3);
+        .panel-heading {
+            color: rgba(0,0,0,.3);
+        }
+    }
 }
 
 .events .col-sm-4 {
@@ -64,6 +71,7 @@ a.event-url {
 
 .panel-heading {
     padding: 0;
+    
     img {
         position: relative; 
         object-fit: cover;
