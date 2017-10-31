@@ -1,15 +1,14 @@
 - name: Introduction to Git/GitHub
   white-text: True
-  line: Learn how to use Git from its basics. Pizza and GitHub swag will be provided
+  line: Learn how to use Git from its basics. Pizza and GitHub swag provided.
   date: 2017-10-25 5:30 PM 
   end-date: 2017-10-25 7:30 PM 
-  location: Wolf Law 230
+  location: Wolf Law 206
   url: https://www.facebook.com/events/147776512500472/
 
 - name: Local Hack Day
   white-text: True
-  image-url: assets/img/localhackday.png
-  line: It's local hack day
+  line: 12 hour hack day. Bringing together the local hacker community to celebrate building awesome technology.
   date: 2017-12-2 8:00 AM 
   end-date: 2017-12-2 9:15 PM 
   location: Idea Forge

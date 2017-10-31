@@ -19,23 +19,15 @@ description: HackCU community webpage. Check all our workshops and events coming
                                 <h3 {% unless event.white-text == null %} class="white"{% endunless %} >{{event.name}}</h3>
                             </div>
                             <div class="panel-body event" data-date="{{ event.date }}">                                
-                                <p></p>
-                                <dl class="dl-horizontal">
-                                  <dt>What?</dt>
-                                  <dd>{{event.line}}</dd>
-                                  <dt>When?</dt>
-                                  <dd>{{event.date | date_to_long_string }}</dd>
-                                  <dt>Where?</dt>
-                                  <dd>{{event.location}}</dd>
-                                </dl>
-                                <small class="until"></small>
+                                <p>{{event.line}}</p>
+                                <small class="bottom">{{event.date |  date: "%-d %B %Y" }} at {{event.location}}</small>
                             </div>
                         </div>
                     </a>
                 </div>
             {% endfor %}
         </div>
-        <a class="btn btn-primary calendar" href="https://calendar.google.com/calendar/r?cid=webcal://events.hackcu.org/calendars/events.ics" target="_blank">Add events to Google Calendar</a>
+        <a class="btn btn-primary calendar" href="https://calendar.google.com/calendar/r?cid=webcal://{{site.domain}}/calendars/events.ics" target="_blank">Add events to Google Calendar</a>
     </div>
 
 </section>

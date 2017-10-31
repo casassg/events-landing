@@ -1,6 +1,8 @@
 ---
 ---
 
+@import "mixins";
+
 @font-face {
     font-family: Biko;
     src: url('../fonts/Biko_Regular.otf');
@@ -19,35 +21,43 @@ body {
 }
 
 div.panel {
-    /*-webkit-box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
-    -moz-box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
-    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);*/
-    box-shadow: 1px 1px 3px 1px rgba(0,0,0,.08);
-    -webkit-border-radius: 0;
-    -moz-border-radius: 0;
-    border-radius: 0;
-    min-height: 280px;
-    transition: .1s;
-    -webkit-transition: .1s;
-    -moz-transition: .1s;
-    border: 2px solid transparent;
+    @include box-shadow(1px 5px 8px 1px rgba(0,0,0,.08));
+    @include border-radius(0);
+    height: 230px;
+    position: relative;
+    top: 0;
+    @include transition(all .1s linear);
+    border: 0;
     .panel-body {
         padding: 10px;
+        height: 90px;
+        overflow: fade;
+
+        p {
+            overflow: fade;
+            text-align: justify;
+        }
     }
 
-    .until {
-        position: absolute;
-        bottom: 30px;
-        right: 40px;
+    .bottom {
         font-style: italic;
+        position: absolute;
+        width: 100%;
+        text-align: right;
+        margin-left: -20px;
+        bottom: 10px;
     }
+
+
 
     &:hover {
-        transition: .1s;
-        -webkit-transition: .1s;
-        -moz-transition: .1s;
-        border: 2px solid rgba(52, 73, 94,0.6);
+        position: relative;
+        top: 4px;
+        box-shadow: 1px 1px 3px 1px rgba(0,0,0,.08);
+
     }
+
+
 
     &.past {
         color: rgba(0,0,0,.3);
@@ -67,6 +77,10 @@ a.event-url {
     &:hover {
         text-decoration: none;
     }
+
+    &:active{
+        text-decoration: none;
+    }
 }
 
 .panel-heading {
@@ -78,14 +92,15 @@ a.event-url {
         height: 100px;
         width: 100%;
         &.white {
-            filter: brightness(85%);
+            filter: brightness(75%);
         }
     }
 
     h3 {
         position: absolute;
-        top: 42px;
+        top: 0px;
         z-index: 10;
+        text-transform: uppercase;
         padding: 10px;
 
         &.white{
