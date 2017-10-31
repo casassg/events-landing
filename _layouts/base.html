@@ -6,7 +6,8 @@
     <link rel="stylesheet" href="assets/css/main.css">
     <meta name="theme-color" content="#494949">
     <meta name="author" content="{{ site.author }}">
-    <link rel="icon" type="image/x-icon" href="assets/favicon.ico"/>
+    <link rel="icon" type="image/x-icon" href="favicon.ico"/>
+    <link rel="icon" href="favicon.png" type="image/png">
     <meta name="description" content="{{ page.description }}">
 
 
@@ -37,7 +38,9 @@
 
 
 <body>
+{% include header.html %}
 {{content}}
+{% include footer.html %}
 
 <script src="https://code.jquery.com/jquery-3.1.1.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.19.1/moment.min.js"></script>
