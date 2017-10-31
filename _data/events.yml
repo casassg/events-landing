@@ -2,14 +2,16 @@
   white-text: True
   line: Learn how to use Git from its basics. Pizza and GitHub swag will be provided
   date: 2017-10-25 5:30 PM 
+  end-date: 2017-10-25 7:30 PM 
   location: Wolf Law 230
   url: https://www.facebook.com/events/147776512500472/
 
-- name: 
+- name: Local Hack Day
   white-text: True
   image-url: assets/img/localhackday.png
   line: It's local hack day
   date: 2017-12-2 8:00 AM 
+  end-date: 2017-12-2 8:00 PM 
   location: Idea Forge
   url: https://local.hackcu.org
 
