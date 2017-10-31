@@ -1,0 +1,17 @@
+- name: Introduction to Git/GitHub
+  white-text: True
+  line: Learn how to use Git from its basics. Pizza and GitHub swag will be provided
+  date: 2017-10-25 5:30 PM 
+  location: Wolf Law 230
+  url: https://www.facebook.com/events/147776512500472/
+
+- name: 
+  white-text: True
+  image-url: assets/img/localhackday.png
+  line: It's local hack day
+  date: 2017-12-2 8:00 AM 
+  location: Idea Forge
+  url: https://local.hackcu.org
+
+
+

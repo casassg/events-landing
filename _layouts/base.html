@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">
+    <link rel="stylesheet" href="assets/css/main.css">
+    <meta name="theme-color" content="#494949">
+    <meta name="author" content="{{ site.author }}">
+    <link rel="icon" type="image/x-icon" href="assets/favicon.ico"/>
+    <meta name="description" content="{{ page.description }}">
+
+
+    <!--FACEBOOK DESCRIPTION -->
+    <meta property="og:title" content="{{ page.title }} | {{ site.name }}"/>
+    <meta property="og:site_name" content="{{ site.name }}"/>
+    <meta property="og:description" content="{{ page.description }}"/>
+    <!-- <meta property="og:image" content="{{ page.og }}"> -->
+	<!-- <meta property="og:image:secure_url" content="{{ page.og }}"> -->
+	<!-- <meta property="og:url" content=""> -->
+
+    <!--TWITTER DESCRIPTION -->
+	<meta name="twitter:card" content="summary_large_image">
+    {% unless site.twitter  == null %}
+        <meta name="twitter:site" content="@{{ site.twitter }}">
+        <meta name="twitter:creator" content="@{{ site.twitter }}">
+    {% endunless %}
+	<meta name="twitter:title" content="{{ site.name }}">
+	<meta name="twitter:description" content="{{ site.description }}">
+	<!-- <meta name="twitter:image" content="{{ page.og }}"> -->
+
+
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
+
+    <title>{{ page.title }} | {{ site.name }}</title>
+</head>
+
+
+<body>
+{{content}}
+
+<script src="https://code.jquery.com/jquery-3.1.1.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.19.1/moment.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"
+            integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa"
+            crossorigin="anonymous"></script>
+<script src="assets/js/events.js"></script>
+
+{% unless site.ga == null  %}
+    <script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+      ga('create', '{{ site.ga }}', 'auto');
+      ga('send', 'pageview');
+    </script>
+{% endunless %}
+</body>
+</html>
