@@ -24,7 +24,7 @@ description: HackCU community webpage. Check all our workshops and events coming
                                   <dt>What?</dt>
                                   <dd>{{event.line}}</dd>
                                   <dt>When?</dt>
-                                  <dd>{{event.date}}</dd>
+                                  <dd>{{event.date | date_to_long_string }}</dd>
                                   <dt>Where?</dt>
                                   <dd>{{event.location}}</dd>
                                 </dl>
@@ -35,7 +35,7 @@ description: HackCU community webpage. Check all our workshops and events coming
                 </div>
             {% endfor %}
         </div>
-        <a class="btn btn-primary calendar" href="https://calendar.google.com/calendar/r?cid=webcal://hackcu.github.io/community/calendars/events.ics" target="_blank">Add events to Google Calendar</a>
+        <a class="btn btn-primary calendar" href="https://calendar.google.com/calendar/r?cid=webcal://events.hackcu.org/calendars/events.ics" target="_blank">Add events to Google Calendar</a>
     </div>
 
 </section>
