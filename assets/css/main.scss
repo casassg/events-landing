@@ -4,10 +4,10 @@
 @import "mixins";
 
 $background-color: rgba(236, 240, 241,1.0);
-$accent-color: #165E33;
-// $accent-color: #4C246A;
-$events-color:#AA504A;
-// $events-color:#AA761F;
+// $accent-color: #165E33;
+$accent-color: #4C246A;
+// $events-color:#AA504A;
+$events-color:#AA761F;
 
 @font-face {
     font-family: Biko;
@@ -74,7 +74,7 @@ section.events{
             display: none;
             right: 0px;
             z-index: 10;
-            background: rgba(darken($events-color,30%), .99);
+            background: rgba(darken($events-color,20%), .99);
             color: white;
             padding: 5px;
             padding-left: 10px;
@@ -94,15 +94,16 @@ section.events{
         .panel-heading {
             padding: 0;
             height: 100px;
+            background-color: darken($accent-color,5%);
             
             img {
                 position: relative; 
                 object-fit: cover;
                 height: 100px;
                 width: 100%;
-                filter: grayscale(20%);
-                &.white {
-                    filter: brightness(75%) grayscale(20%);
+                filter: brightness(75%) grayscale(20%);
+                &.light_background {
+                    filter: grayscale(20%);
                 }
             }
 
@@ -112,9 +113,11 @@ section.events{
                 z-index: 10;
                 text-transform: uppercase;
                 padding: 10px;
+                color: white;
 
-                &.white{
-                    color: white;
+
+                &.light_background{
+                    color: black;
                 }
             }
         }
@@ -131,22 +134,8 @@ section.events{
 
 
 
-        &.past {
-            color: rgba(0,0,0,.8);
-
-            .past-text {
-                display: inline;
-            }
-            .panel-heading {
-                color: rgba(0,0,0,.8);
-
-                h3 {
-                    &.white{
-                        color: rgba(255,255,255,.8);
-                    }
-                }
-            }
-
+        &.past .past-text{ 
+            display: inline;
         }
     }
 
