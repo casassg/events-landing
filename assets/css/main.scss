@@ -102,17 +102,15 @@ div.panel {
 a.event-url {
     color: black;
 
-    &:hover {
+    &:hover, &:active, &:focus {
         text-decoration: none;
     }
 
-    &:active{
-        text-decoration: none;
-    }
 }
 
 .panel-heading {
     padding: 0;
+    height: 100px;
     
     img {
         position: relative; 
