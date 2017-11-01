@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">
-    <link rel="stylesheet" href="assets/css/main.css">
+    <link rel="stylesheet" href="assets/css/main.css?_={{ site.time |  date: "%s" }}">
     <meta name="theme-color" content="#494949">
     <meta name="author" content="{{ site.author }}">
     <link rel="icon" type="image/x-icon" href="favicon.ico"/>
@@ -47,7 +47,7 @@
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"
             integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa"
             crossorigin="anonymous"></script>
-<script src="assets/js/events.js"></script>
+<script src="assets/js/events.js?_={{ site.time |  date: "%s" }}"></script>
 
 {% unless site.ga == null  %}
     <script>
