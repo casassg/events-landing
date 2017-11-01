@@ -4,6 +4,7 @@ author: HackCU
 twitter: hackcu
 fb: hackcu
 domain: events.hackcu.org
+ga: UA-109088240-1
 
 sass:
     sass_dir: assets/_sass
