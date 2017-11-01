@@ -21,7 +21,7 @@ description: Find all of HackCU's events in one place.
                             </div>
                             <div class="panel-body event" data-date="{{ event.date }}">                                
                                 <p>{{event.line}}</p>
-                                <small class="bottom">{{event.date |  date: "%a %-d %b %Y" }} at {{event.location}}</small>
+                                <small class="bottom">{{event.date |  date: "%a %-d %b %Y" }} {% unless event.location == null or event.date == null  %}at{% endunless %} {{event.location}}</small>
                             </div>
                         </div>
                     </a>

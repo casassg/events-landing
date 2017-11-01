@@ -23,7 +23,7 @@ DTSTART:19701101T020000
 RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
-{% for post in site.data.events %}BEGIN:VEVENT
+{% for post in site.data.events %}{% unless post.date == null %}BEGIN:VEVENT
 DTSTART;TZID=America/Denver:{{ post.date | date: "%Y%m%dT%H%M%S" }}
 DTEND;TZID=America/Denver:{{ post.end-date | date: "%Y%m%dT%H%M%S" }}
 DTSTAMP;TZID=America/Denver:{{ post.date | date: "%Y%m%dT%H%M%S" }}
@@ -32,4 +32,4 @@ LOCATION:{{ post.location }}
 URL:{{post.url}}
 SUMMARY:{{ post.name }}
 END:VEVENT
-{% endfor %}END:VCALENDAR
+{% endunless %}{% endfor %}END:VCALENDAR
