@@ -22,6 +22,15 @@ body {
     width: 100%;
 }
 
+
+header {
+    height: 200px;
+}
+
+footer {
+    height: 50px;
+}
+
 div.panel {
     @include box-shadow(1px 5px 8px 1px rgba(0,0,0,.19));
     @include border-radius(0);
@@ -138,7 +147,7 @@ a.event-url {
 section.events{
     background: linear-gradient( rgba(33, 150, 2434, 0.75), rgba(33, 150, 243, 0.75) ), url(../img/people.jpg) no-repeat center center/cover;
     padding-bottom: 20px;
-    min-height: 100%;
+
 }
 
 .dl-horizontal dd {
