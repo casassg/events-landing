@@ -16,8 +16,8 @@ description: Find all of HackCU's events in one place.
                         <div class="panel panel-default ">
                             <div class="panel-heading">
                                 <span class="past-text">PAST</span>
-                                {% if event.image-url %}<img class="img-responsive {% unless event.white-text == null %}white{% endunless %}" src="{{event.image-url}}">{%endif%}
-                                <h3 {% unless event.white-text == null %} class="white"{% endunless %} >{{event.name}}</h3>
+                                {% if event.image-url %}<img class="img-responsive {% unless event.light_background == null %}light_background{% endunless %}" src="{{event.image-url}}">{%endif%}
+                                <h3 {% unless event.light_background == null %} class="light_background"{% endunless %} >{{event.name}}</h3>
                             </div>
                             <div class="panel-body event" data-date="{{ event.date }}">                                
                                 <p>{{event.line}}</p>

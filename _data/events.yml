@@ -1,5 +1,5 @@
 - name: Startups2Students Fall
-  white-text: True
+  # light_background: True
   image-url: assets/img/startups2students.png
   line: Bridging the gap between students and startups
   date: 2017-10-19 6:00 PM 
@@ -15,7 +15,6 @@
   url: https://www.facebook.com/events/147776512500472/
 
 - name: Boulder Hacktoberfest
-  white-text: True
   image-url: assets/img/hacktoberfest.png
   line: Learning about open source development with professionals.
   date: 2017-10-30 5:30 PM 
@@ -24,7 +23,6 @@
   url: https://www.eventbrite.com/e/boulder-hacktoberfest-an-open-source-celebration-tickets-39026755075
 
 - name: Local Hack Day
-  white-text: True
   image-url: assets/img/flatirons.jpg
   line: 12 hour hack day. Bringing together the local hacker community to celebrate building awesome technology.
   date: 2017-12-2 8:00 AM 
@@ -34,7 +32,6 @@
 
 - name: HackCU IV
   location: TBD
-  white-text: True
   image-url: assets/img/hackcu.png
   line: Subscribe to be the first to know when applications go live.
   url: https://hackcu.org
