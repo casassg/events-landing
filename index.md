@@ -28,7 +28,7 @@ description: Find all of HackCU's events in one place.
                 </div>
             {% endfor %}
         </div>
-        <a class="btn btn-primary calendar" href="https://calendar.google.com/calendar/r?cid=webcal://{{ site.domain }}/calendars/events.ics" target="_blank">Open calendar</a>
+        <a class="btn calendar" href="https://calendar.google.com/calendar/r?cid=webcal://{{ site.domain }}/calendars/events.ics" target="_blank">Import calendar</a>
     </div>
 
 </section>

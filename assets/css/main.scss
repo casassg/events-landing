@@ -4,8 +4,10 @@
 @import "mixins";
 
 $background-color: rgba(236, 240, 241,1.0);
-$accent-color: #9D4A00;
-$events-color:#064451;
+$accent-color: #165E33;
+// $accent-color: #4C246A;
+$events-color:#AA504A;
+// $events-color:#AA761F;
 
 @font-face {
     font-family: Biko;
@@ -32,159 +34,173 @@ footer {
     height: 50px;
 }
 
-div.panel {
-    @include box-shadow(1px 5px 8px 1px rgba(0,0,0,.19));
-    @include border-radius(0);
-    height: 230px;
-    position: relative;
-    top: 0;
-    @include transition(all .1s linear);
-    border: 0;
-    .panel-body {
-        padding: 10px;
-        height: 90px;
-        overflow: fade;
 
-        p {
-            overflow: fade;
-            text-align: justify;
-        }
-    }
-
-    .bottom {
-        font-style: italic;
-        position: absolute;
-        width: 100%;
-        text-align: right;
-        margin-left: -20px;
-        bottom: 10px;
-    }
-
-
-
-    &:hover {
-        position: relative;
-        top: 1px;
-        box-shadow: 1px 1px 3px 1px rgba(0,0,0,.19);
-        filter:brightness(95%);
-
-    }
-
-
-
-    &.past {
-        color: rgba(0,0,0,.8);
-
-        .past-text {
-            display: inline;
-        }
-        .panel-heading {
-            color: rgba(0,0,0,.8);
-
-            h3 {
-                &.white{
-                    color: rgba(255,255,255,.8);
-                }
-            }
-        }
-
-    }
-}
-
-.btn {
-    @include box-shadow(0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19));
-    text-transform: uppercase;
-    @include border-radius(0);
-    position: relative;
-    top: 0;
-    @include transition(all .1s linear);
-
-    &:hover {
-        top: 1px;
-        @include box-shadow(0 1px 2px 0 rgba(0, 0, 0, 0.2), 0 1.5px 5px 0 rgba(0, 0, 0, 0.19));
-
-
-    }
-
-
-}
-
-a.event-url {
-    color: black;
-
-    &:hover, &:active, &:focus {
-        text-decoration: none;
-    }
-
-}
 
 .white-text {
     color: white;
 }
 
-.panel-heading {
-    padding: 0;
-    height: 100px;
-    
-    img {
-        position: relative; 
-        object-fit: cover;
-        height: 100px;
-        width: 100%;
-        &.white {
-            filter: brightness(75%);
-        }
-    }
 
-    h3 {
-        position: absolute;
-        top: 0px;
-        z-index: 10;
-        text-transform: uppercase;
-        padding: 10px;
-
-        &.white{
-            color: white;
-        }
-    }
-}
 
 section.events{
     background: linear-gradient( rgba($events-color, 0.75), rgba($events-color, 0.75) ), url(../img/people.jpg) no-repeat center center/cover;
     padding-bottom: 20px;
 
-}
+    h2 {
+        padding-bottom: 30px;
+    }
 
-.past-text {
-    position: absolute;
-    display: none;
-    right: 0px;
-    z-index: 10;
-    background: rgba($events-color, .99);
-    color: white;
-    padding: 5px;
-    padding-left: 10px;
+    div.panel {
+        @include box-shadow(1px 5px 8px 1px rgba(0,0,0,.19));
+        @include border-radius(0);
+        height: 230px;
+        position: relative;
+        top: 0;
+        @include transition(all .1s linear);
+        border: 0;
+        .panel-body {
+            padding: 10px;
+            height: 90px;
+            overflow: fade;
 
-    @include border-radius(0 0 0 3px);
-}
-.calendar {
-    display: block;
-    width: 300px;
-    font-size: 1.2em;
-    margin: 0 auto;
-    background-color: $accent-color;
-    border-color: $accent-color;
+            p {
+                overflow: fade;
+                text-align: justify;
+            }
+        }
 
-    &:active, &:focus{
+        .past-text {
+            position: absolute;
+            display: none;
+            right: 0px;
+            z-index: 10;
+            background: rgba($events-color, .99);
+            color: white;
+            padding: 5px;
+            padding-left: 10px;
+
+            @include border-radius(0 0 0 3px);
+        }
+
+        .bottom {
+            font-style: italic;
+            position: absolute;
+            width: 100%;
+            text-align: right;
+            margin-left: -20px;
+            bottom: 10px;
+        }
+
+        .panel-heading {
+            padding: 0;
+            height: 100px;
+            
+            img {
+                position: relative; 
+                object-fit: cover;
+                height: 100px;
+                width: 100%;
+                filter: grayscale(20%);
+                &.white {
+                    filter: brightness(75%) grayscale(20%);
+                }
+            }
+
+            h3 {
+                position: absolute;
+                top: 0px;
+                z-index: 10;
+                text-transform: uppercase;
+                padding: 10px;
+
+                &.white{
+                    color: white;
+                }
+            }
+        }
+
+
+
+        &:hover {
+            position: relative;
+            top: 1px;
+            box-shadow: 1px 1px 3px 1px rgba(0,0,0,.19);
+            filter:brightness(95%);
+
+        }
+
+
+
+        &.past {
+            color: rgba(0,0,0,.8);
+
+            .past-text {
+                display: inline;
+            }
+            .panel-heading {
+                color: rgba(0,0,0,.8);
+
+                h3 {
+                    &.white{
+                        color: rgba(255,255,255,.8);
+                    }
+                }
+            }
+
+        }
+    }
+
+    .btn {
+        @include box-shadow(0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19));
+        text-transform: uppercase;
+        @include border-radius(0);
+        position: relative;
+        top: 0;
+        @include transition(all .1s linear);
+
+        &:hover {
+            top: 1px;
+            @include box-shadow(0 1px 2px 0 rgba(0, 0, 0, 0.2), 0 1.5px 5px 0 rgba(0, 0, 0, 0.19));
+
+
+        }
+
+
+    }
+
+    a.event-url {
+        color: black;
+
+        &:hover, &:active, &:focus {
+            text-decoration: none;
+        }
+
+    }
+
+    .calendar {
+        display: block;
+        width: 300px;
+        font-size: 1.2em;
+        margin: 0 auto;
+        color: white;
         background-color: $accent-color;
-        margin-color: $accent-color;
+        border-color: $accent-color;
+
+        &:active, &:focus{
+            background-color: $accent-color;
+            margin-color: $accent-color;
+        }
+
+        &:hover{
+            background-color: lighten($accent-color, 10%);
+            margin-color: lighten($accent-color, 10%);
+        }
+
+        
     }
 
-    &:hover{
-        background-color: lighten($accent-color, 10%);
-        margin-color: lighten($accent-color, 10%);
-    }
-
-    
 }
+
+
+
 
