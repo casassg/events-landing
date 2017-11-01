@@ -74,7 +74,7 @@ section.events{
             display: none;
             right: 0px;
             z-index: 10;
-            background: rgba($events-color, .99);
+            background: rgba(darken($events-color,30%), .99);
             color: white;
             padding: 5px;
             padding-left: 10px;
