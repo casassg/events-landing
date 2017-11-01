@@ -162,8 +162,10 @@ section.events{
     z-index: 10;
     background: rgba($events-color, .99);
     color: white;
-    padding: 4px;
-    @include border-radius(0 0 0 1px);
+    padding: 5px;
+    padding-left: 10px;
+
+    @include border-radius(0 0 0 3px);
 }
 .calendar {
     display: block;
@@ -172,14 +174,17 @@ section.events{
     margin: 0 auto;
     background-color: $accent-color;
     border-color: $accent-color;
+
+    &:active, &:focus{
+        background-color: $accent-color;
+        margin-color: $accent-color;
+    }
+
     &:hover{
         background-color: lighten($accent-color, 10%);
         margin-color: lighten($accent-color, 10%);
     }
 
-    &:active{
-        background-color: $accent-color;
-        margin-color: $accent-color;
-    }
+    
 }
 
