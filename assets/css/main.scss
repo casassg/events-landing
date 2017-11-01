@@ -15,15 +15,15 @@ html { height: 100%; width: 100% }
 
 body {
     background-color: $background-color;
-    padding: 15px 0px;
+    padding: 0;
     font-family: "Biko", Helvetica, sans-serif;
     font-size: 1.6em;
-    min-height: 100%;
+    height: 100%;
     width: 100%;
 }
 
 div.panel {
-    @include box-shadow(1px 5px 8px 1px rgba(0,0,0,.08));
+    @include box-shadow(1px 5px 8px 1px rgba(0,0,0,.19));
     @include border-radius(0);
     height: 230px;
     position: relative;
@@ -55,7 +55,7 @@ div.panel {
     &:hover {
         position: relative;
         top: 1px;
-        box-shadow: 1px 1px 3px 1px rgba(0,0,0,.08);
+        box-shadow: 1px 1px 3px 1px rgba(0,0,0,.19);
         filter:brightness(95%);
 
     }
@@ -70,7 +70,7 @@ div.panel {
         &:hover {
             position: relative;
             top: 0px;
-            @include box-shadow(1px 5px 8px 1px rgba(0,0,0,.08));
+            @include box-shadow(1px 5px 8px 1px rgba(0,0,0,.19) !important);
             filter:inherit;
         }
 
@@ -95,10 +95,6 @@ div.panel {
 
 }
 
-.events .col-sm-4 {
-    margin: 10px;
-}
-
 a.event-url {
     color: black;
 
@@ -106,6 +102,10 @@ a.event-url {
         text-decoration: none;
     }
 
+}
+
+.white-text {
+    color: white;
 }
 
 .panel-heading {
@@ -133,6 +133,12 @@ a.event-url {
             color: white;
         }
     }
+}
+
+section.events{
+    background: linear-gradient( rgba(33, 150, 2434, 0.75), rgba(33, 150, 243, 0.75) ), url(../img/people.jpg) no-repeat center center/cover;
+    padding-bottom: 20px;
+    min-height: 100%;
 }
 
 .dl-horizontal dd {

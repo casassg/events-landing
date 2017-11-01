@@ -9,7 +9,7 @@ description: HackCU community webpage. Check all our workshops and events coming
 <section class="events">
     <div class="container">
         <div class="row">
-            <h2 class="text-center">Our events</h2>
+            <h2 class="text-center white-text">Our events</h2>
             {% for event in site.data.events %}               
                 <div class="col-sm-6 col-md-4">
                     <a {% unless event.url == "undefined" %} href="{{event.url}}" {% endunless %} target="_blank" class="event-url">

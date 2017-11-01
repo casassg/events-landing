@@ -5,6 +5,15 @@
   location: Wolf Law 206
   url: https://www.facebook.com/events/147776512500472/
 
+- name: Boulder Hacktoberfest
+  white-text: True
+  image-url: assets/img/hacktoberfest.png
+  line: Learning about open source development with professionals.
+  date: 2017-10-25 5:30 PM 
+  end-date: 2017-10-25 7:30 PM 
+  location: Wolf Law 206
+  url: https://www.eventbrite.com/e/boulder-hacktoberfest-an-open-source-celebration-tickets-39026755075
+
 - name: Local Hack Day
   white-text: True
   image-url: assets/img/flatirons.jpg
