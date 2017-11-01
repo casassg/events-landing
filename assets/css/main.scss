@@ -3,6 +3,9 @@
 
 @import "mixins";
 
+$background-color: rgba(236, 240, 241,1.0);
+$accent-color: #063651;
+
 @font-face {
     font-family: Biko;
     src: url('../fonts/Biko_Regular.otf');
@@ -11,8 +14,7 @@
 html { height: 100%; width: 100% }
 
 body {
-    background-color: #EFEAE4;
-    background-color: rgba(236, 240, 241,1.0);
+    background-color: $background-color;
     padding: 15px 0px;
     font-family: "Biko", Helvetica, sans-serif;
     font-size: 1.6em;
@@ -52,8 +54,9 @@ div.panel {
 
     &:hover {
         position: relative;
-        top: 4px;
+        top: 1px;
         box-shadow: 1px 1px 3px 1px rgba(0,0,0,.08);
+        filter:brightness(95%);
 
     }
 
@@ -64,7 +67,32 @@ div.panel {
         .panel-heading {
             color: rgba(0,0,0,.3);
         }
+        &:hover {
+            position: relative;
+            top: 0px;
+            @include box-shadow(1px 5px 8px 1px rgba(0,0,0,.08));
+            filter:inherit;
+        }
+
     }
+}
+
+.btn {
+    @include box-shadow(0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19));
+    text-transform: uppercase;
+    @include border-radius(0);
+    position: relative;
+    top: 0;
+    @include transition(all .1s linear);
+
+    &:hover {
+        top: 1px;
+        @include box-shadow(0 1px 2px 0 rgba(0, 0, 0, 0.2), 0 1.5px 5px 0 rgba(0, 0, 0, 0.19));
+
+
+    }
+
+
 }
 
 .events .col-sm-4 {
@@ -121,5 +149,17 @@ a.event-url {
     display: block;
     width: 300px;
     font-size: 1.2em;
+    margin: 0 auto;
+    background-color: $accent-color;
+    border-color: $accent-color;
+    &:hover{
+        background-color: lighten($accent-color, 10%);
+        margin-color: lighten($accent-color, 10%);
+    }
+
+    &:active{
+        background-color: $accent-color;
+        margin-color: $accent-color;
+    }
 }
 

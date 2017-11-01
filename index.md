@@ -9,7 +9,7 @@ description: HackCU community webpage. Check all our workshops and events coming
 <section class="events">
     <div class="container">
         <div class="row">
-            <h2>Our events</h2>
+            <h2 class="text-center">Our events</h2>
             {% for event in site.data.events %}               
                 <div class="col-sm-4">
                     <a {% unless event.url == "undefined" %} href="{{event.url}}" {% endunless %} target="_blank" class="event-url">
@@ -27,7 +27,7 @@ description: HackCU community webpage. Check all our workshops and events coming
                 </div>
             {% endfor %}
         </div>
-        <a class="btn btn-primary calendar" href="https://calendar.google.com/calendar/r?cid=webcal://{{site.domain}}/calendars/events.ics" target="_blank">Add events to Google Calendar</a>
+        <a class="btn btn-primary calendar" href="https://calendar.google.com/calendar/r?cid=webcal://{{ site.domain }}/calendars/events.ics" target="_blank">Open calendar</a>
     </div>
 
 </section>
