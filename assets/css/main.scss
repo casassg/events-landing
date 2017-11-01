@@ -102,11 +102,23 @@ section.events{
                 object-fit: cover;
                 height: 70px;
                 width: 100%;
-                filter: brightness(60%) grayscale(20%);
+                filter: brightness(60%) grayscale(30%);
+
                 &.light_background {
                     filter: grayscale(20%);
                 }
             }
+
+
+            .overlay {
+                background: rgba($accent-color,0.4);
+                position: absolute;
+                top: 0;
+                z-index: 5;
+                height: 100px;
+                width: 100%;
+            }
+
 
             h1,h2,h3, h4{
                 position: absolute;
