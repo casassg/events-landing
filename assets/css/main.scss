@@ -64,14 +64,14 @@ section.events{
             padding: 10px;
             height: 60px;
             font-family: "Roboto", Helvetica, sans-serif;
-            overflow: fade;
             font-size: 14px;
             @include border-radius(0);
-
-
+            overflow: auto;
 
             p {
-                overflow: fade;
+                overflow: auto;
+                 height: 40px;
+                 margin: 0;
             }
 
         }

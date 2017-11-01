@@ -23,7 +23,7 @@ description: Find all of HackCU's events in one place.
                                 <p>{{event.line}}</p>
                             </div>
                             <div class="panel-footer">
-                                {{event.date |  date: "%a %-d %b %Y" }} {% unless event.location == null or event.date == null  %}at{% endunless %} {{event.location}}
+                                {{event.date |  date: "%b %-d %Y" }} {% unless event.location == null or event.date == null  %}at{% endunless %} {{event.location}}
                             </div>
                         </div>
                     </a>
