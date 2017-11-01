@@ -5,7 +5,7 @@
 <br>
 
 
-HackCU community website.
+HackCU events website.
 
 ## Prereqs
 
@@ -13,16 +13,14 @@ You need Ruby installed
 
 ## Get project running locally 
 
-1. Clone repository to your computer with `git clone https://github.com/hackcu/community`
+1. Clone repository to your computer with `git clone https://github.com/hackcu/events`
 2. `cd` into your repository
-3. `gem install jekyll jgd`
+3. `gem install jekyll`
 4. `jekyll serve --watch`
 
 ## How to deploy
 
-1. Make sure you are in the right folder in your terminal
-2. `jgd`
-3. There is no 3
+Deployment is done automatically by github pages. You don't need to do anything else than pushing to master.
 
 ## Add an event
 
@@ -42,7 +40,7 @@ You need Ruby installed
 3. Edit the properties as described in the text you just copied
 4. Make sure you added the event in the correct place (order by date)
 
-If you need a preview image please add it to [assets/img/](assets/img/). Don't forget to deploy!
+If you need a preview image please add it to [assets/img/](assets/img/). 
 
 # License
 
