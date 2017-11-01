@@ -1,3 +1,12 @@
+- name: Startups2Students Fall
+  white-text: True
+  image-url: assets/img/startups2students.png
+  line: Bridging the gap between students and startups
+  date: 2017-10-19 6:00 PM 
+  end-date: 2017-10-19 8:00 PM 
+  location: Idea Forge
+  url: https://startups2students.org
+
 - name: Introduction to Git/GitHub
   line: Learn how to use Git from its basics. Pizza and GitHub swag provided.
   date: 2017-10-25 5:30 PM 
@@ -9,9 +18,9 @@
   white-text: True
   image-url: assets/img/hacktoberfest.png
   line: Learning about open source development with professionals.
-  date: 2017-10-25 5:30 PM 
-  end-date: 2017-10-25 7:30 PM 
-  location: Wolf Law 206
+  date: 2017-10-30 5:30 PM 
+  end-date: 2017-10-30 8:00 PM 
+  location: Galvanize Boulder
   url: https://www.eventbrite.com/e/boulder-hacktoberfest-an-open-source-celebration-tickets-39026755075
 
 - name: Local Hack Day

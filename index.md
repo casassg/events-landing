@@ -15,6 +15,7 @@ description: HackCU community webpage. Check all our workshops and events coming
                     <a {% unless event.url == "undefined" %} href="{{event.url}}" {% endunless %} target="_blank" class="event-url">
                         <div class="panel panel-default ">
                             <div class="panel-heading">
+                                <span class="past-text">PAST</span>
                                 {% if event.image-url %}<img class="img-responsive {% unless event.white-text == null %}white{% endunless %}" src="{{event.image-url}}">{%endif%}
                                 <h3 {% unless event.white-text == null %} class="white"{% endunless %} >{{event.name}}</h3>
                             </div>

@@ -4,7 +4,8 @@
 @import "mixins";
 
 $background-color: rgba(236, 240, 241,1.0);
-$accent-color: #063651;
+$accent-color: #9D4A00;
+$events-color:#064451;
 
 @font-face {
     font-family: Biko;
@@ -72,15 +73,19 @@ div.panel {
 
 
     &.past {
-        color: rgba(0,0,0,.3);
-        .panel-heading {
-            color: rgba(0,0,0,.3);
+        color: rgba(0,0,0,.8);
+
+        .past-text {
+            display: inline;
         }
-        &:hover {
-            position: relative;
-            top: 0px;
-            @include box-shadow(1px 5px 8px 1px rgba(0,0,0,.19) !important);
-            filter:inherit;
+        .panel-heading {
+            color: rgba(0,0,0,.8);
+
+            h3 {
+                &.white{
+                    color: rgba(255,255,255,.8);
+                }
+            }
         }
 
     }
@@ -145,19 +150,21 @@ a.event-url {
 }
 
 section.events{
-    background: linear-gradient( rgba(33, 150, 2434, 0.75), rgba(33, 150, 243, 0.75) ), url(../img/people.jpg) no-repeat center center/cover;
+    background: linear-gradient( rgba($events-color, 0.75), rgba($events-color, 0.75) ), url(../img/people.jpg) no-repeat center center/cover;
     padding-bottom: 20px;
 
 }
 
-.dl-horizontal dd {
-    margin-left: 80px;
+.past-text {
+    position: absolute;
+    display: none;
+    right: 0px;
+    z-index: 10;
+    background: rgba($events-color, .99);
+    color: white;
+    padding: 4px;
+    @include border-radius(0 0 0 1px);
 }
-
-.dl-horizontal dt {
-    width: 60px;
-}
-
 .calendar {
     display: block;
     width: 300px;
