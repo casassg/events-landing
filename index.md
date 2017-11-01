@@ -2,7 +2,7 @@
 title: Home
 layout: base
 og: assets/img/localhackday.png
-description: HackCU community webpage. Check all our workshops and events coming up!
+description: Find all of HackCU's events in one place.
 ---
 
 
@@ -12,7 +12,7 @@ description: HackCU community webpage. Check all our workshops and events coming
             <h2 class="text-center white-text">Our events</h2>
             {% for event in site.data.events %}               
                 <div class="col-sm-6 col-md-4">
-                    <a {% unless event.url == "undefined" %} href="{{event.url}}" {% endunless %} target="_blank" class="event-url">
+                    <a {% unless event.url == null %} href="{{event.url}}" {% endunless %} target="_blank" class="event-url">
                         <div class="panel panel-default ">
                             <div class="panel-heading">
                                 <span class="past-text">PAST</span>
