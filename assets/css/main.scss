@@ -4,10 +4,12 @@
 @import "mixins";
 
 $background-color: rgba(236, 240, 241,1.0);
-// $accent-color: #165E33;
-$accent-color: #4C246A;
+// $accent-color: #165E33; 
 // $events-color:#AA504A;
+$accent-color: #4C246A;
 $events-color:#AA761F;
+// $accent-color: #AA401B;
+// $events-color:#225E50;
 
 @font-face {
     font-family: Biko;
@@ -53,28 +55,34 @@ section.events{
     div.panel {
         @include box-shadow(1px 5px 8px 1px rgba(0,0,0,.19));
         @include border-radius(0);
-        height: 230px;
+        height: 170px;
         position: relative;
         top: 0;
         @include transition(all .1s linear);
         border: 0;
         .panel-body {
             padding: 10px;
-            height: 90px;
+            height: 60px;
+            font-family: "Roboto", Helvetica, sans-serif;
             overflow: fade;
+            font-size: 14px;
+            @include border-radius(0);
+
+
 
             p {
                 overflow: fade;
-                text-align: justify;
             }
+
         }
 
         .past-text {
             position: absolute;
             display: none;
+            font-size: 0.7em;
             right: 0px;
             z-index: 10;
-            background: rgba(darken($events-color,20%), .99);
+            background: rgba(darken(white,80%), .8);
             color: white;
             padding: 5px;
             padding-left: 10px;
@@ -82,32 +90,25 @@ section.events{
             @include border-radius(0 0 0 3px);
         }
 
-        .bottom {
-            font-style: italic;
-            position: absolute;
-            width: 100%;
-            text-align: right;
-            margin-left: -20px;
-            bottom: 10px;
-        }
-
         .panel-heading {
             padding: 0;
-            height: 100px;
+            height: 70px;
             background-color: darken($accent-color,5%);
+            @include border-radius(0);
+
             
             img {
                 position: relative; 
                 object-fit: cover;
-                height: 100px;
+                height: 70px;
                 width: 100%;
-                filter: brightness(75%) grayscale(20%);
+                filter: brightness(60%) grayscale(20%);
                 &.light_background {
                     filter: grayscale(20%);
                 }
             }
 
-            h3 {
+            h1,h2,h3, h4{
                 position: absolute;
                 top: 0px;
                 z-index: 10;
@@ -120,6 +121,14 @@ section.events{
                     color: black;
                 }
             }
+        }
+
+        .panel-footer {
+            text-align: right;
+            font-size: 11px;
+            font-family: "Roboto", Helvetica, sans-serif;
+            font-style: italic;
+            @include border-radius(0);
         }
 
 
