@@ -42,6 +42,10 @@ Deployment is done automatically by github pages. You don't need to do anything 
 
 If you need a preview image please add it to [assets/img/](assets/img/). 
 
+## Change footer links
+
+You can change footer links by editing the file  [_data/footer_links.yml](_data/footer_links.yml)
+
 # License
 
 
