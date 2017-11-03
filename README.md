@@ -7,7 +7,7 @@
 
 HackCU events website.
 
-## Features
+# Features
 
 - Automatically updated webcalendar (ICS format) 
 - Add/Remove events
@@ -15,20 +15,26 @@ HackCU events website.
 - Easy footer and header customization
 
 
-## Prereqs
+# Run project
 
-You need Ruby installed
+Needs: Ruby
 
-## Get project running locally 
+## Local 
 
 1. Clone repository to your computer with `git clone https://github.com/hackcu/events`
 2. `cd` into your repository
 3. `gem install jekyll`
 4. `jekyll serve --watch`
 
-## How to deploy
+## Deploy
 
-Deployment is done automatically by github pages. You don't need to do anything else than pushing to master.
+1. Activate GitHub pages for repo on master branch
+2. Push changes to master
+3. There's no `3`
+
+Deployment is done automatically by [GitHub pages](https://pages.github.com/). You don't need to do anything else than pushing to master.
+
+# Personalization
 
 ## Add an event
 
@@ -50,9 +56,15 @@ Deployment is done automatically by github pages. You don't need to do anything 
 
 If you need a preview image please add it to [assets/img/](assets/img/). 
 
-## Change footer links
+## Add/change footer links
 
 You can change footer links by editing the file  [_data/footer_links.yml](_data/footer_links.yml)
+
+## Global variables
+
+You can change various strings across the site, including the title of your app on [_config.yml](_config.yml)
+
+
 
 # License
 
