@@ -87,6 +87,11 @@ footer {
         text-decoration: none;
         opacity: 0.9;
         font-size: 100%;   
+         &:active, &:focus {
+            color: darken($footer-text,100%);
+            opacity: 0.9;
+        }
+
     }
 
     
