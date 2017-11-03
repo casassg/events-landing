@@ -1,4 +1,5 @@
 
+# Personalization vars
 name: HackCU Events
 author: HackCU
 twitter: hackcu
@@ -12,6 +13,9 @@ email: contact@hackcu.org
 domain: events.hackcu.org
 ga: UA-109088240-1
 
+
+# Internal configuration
+timezone: America/Denver
 sass:
     sass_dir: assets/_sass
     style: compressed
