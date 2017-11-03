@@ -3,13 +3,15 @@
 
 @import "mixins";
 
-$background-color: rgba(236, 240, 241,1.0);
+$background-color: rgba(255, 255, 255,1.0);
 // $accent-color: #165E33; 
 // $events-color:#AA504A;
 $accent-color: #4C246A;
 $events-color:#AA761F;
 // $accent-color: #AA401B;
 // $events-color:#225E50;
+
+$footer-text: #666666;
 
 @font-face {
     font-family: Biko;
@@ -21,10 +23,15 @@ html { height: 100%; width: 100% }
 body {
     background-color: $background-color;
     padding: 0;
-    font-family: "Biko", Helvetica, sans-serif;
     font-size: 1.6em;
     height: 100%;
     width: 100%;
+    font-family: "Lato", Helvetica, sans-serif;
+
+}
+
+.biko {
+    font-family: "Biko", Helvetica, sans-serif;
 }
 
 
@@ -33,7 +40,56 @@ header {
 }
 
 footer {
-    height: 50px;
+    padding-top: 2em;
+    width: 100%;
+  
+    p {
+        color: $footer-text;
+        opacity: 0.5;
+        font-size: 70%; 
+
+    }
+
+
+    
+
+    .row {
+        margin-bottom: 10px;
+    }
+
+    a {
+        opacity: 0.5;   
+        color: $footer-text;
+        @include transition(0.5s ease);
+        font-size: 70%; 
+
+        &:hover {
+            opacity: 0.9;
+            color: $footer-text;
+        }
+
+        &:active, &:focus {
+            color: $footer-text;
+            opacity: 0.5;
+        }
+
+        &.btns {
+            text-decoration: none;
+            padding: 10px;
+            font-size: 100%;
+        }
+        
+    }
+
+    .text-imp {
+        color: darken($footer-text,100%);
+        text-transform: uppercase;
+        text-decoration: none;
+        opacity: 0.9;
+        font-size: 100%;   
+    }
+
+    
 }
 
 
@@ -62,8 +118,7 @@ section.events{
         border: 0;
         .panel-body {
             padding: 10px;
-            height: 60px;
-            font-family: "Roboto", Helvetica, sans-serif;
+            height: 70px;
             font-size: 14px;
             @include border-radius(0);
             overflow: auto;
@@ -199,6 +254,12 @@ section.events{
 
 }
 
+
+@media (max-width: 768px) {
+ .text-center-xs, {
+          text-align: center;
+   } 
+}
 
 
 

@@ -1,14 +1,47 @@
-<footer>
+<footer class="text-center-xs">
   
-  	<div class="hi-icon-wrap hi-icon-effect-2 hi-icon-effect-2b">
-      
-			<a class="btns" href="https://www.instagram.com/hackcu/?hl=en"><i aria-hidden="true" class="fa fa-instagram fa-lg"></i></a> 
-			<a class="btns" href="http://community.hackcu.org"><i aria-hidden="true" class="fa fa-facebook fa-lg"></i></a> 
-			<a class="btns" href="mailto:contact@hackcu.org"><i aria-hidden="true" class="fa fa-envelope-o fa-lg"></i></a>
-			<a class="btns" href="https://twitter.com/HackCU"><i aria-hidden="true" class="fa fa-twitter fa-lg"></i></a>
-
+  	<div class="container">
+  		<div class="row">
+  			
+	      	<div class="col-sm-6">
+	      		<ul class="list-inline">
+	      			{% for link in site.data.footer_links %}
+	      				<li><a class="text-imp" href="{{ link.url }}">{{ link.name }}</a></li>
+	      			{%endfor%}
+	      		</ul>
+	      	</div>
+	      	<div class="social-icons col-sm-6 text-right text-center-xs">
+	      		{%unless site.instagram == null %}
+					<a class="btns" target="_blank" href="https://www.instagram.com/{{ site.instagram }}/?hl=en"><i aria-hidden="true" class="fa fa-instagram fa-lg"></i></a> 
+				{%endunless%}
+				{%unless site.fb == null %}
+					<a class="btns" target="_blank" href="http://fb.com/{{site.fb}}"><i aria-hidden="true" class="fa fa-facebook fa-lg"></i></a> 
+				{%endunless%}
+				{%unless site.email == null %}
+					<a class="btns" target="_blank" href="mailto:{{site.email}}"><i aria-hidden="true" class="fa fa-envelope-o fa-lg"></i></a>
+				{%endunless%}
+				{%unless site.twitter == null %}
+					<a class="btns" target="_blank" href="https://twitter.com/{{site.twitter}}"><i aria-hidden="true" class="fa fa-twitter fa-lg"></i></a>
+				{%endunless%}
+				{%unless site.github == null %}
+					<a class="btns" target="_blank" href="https://github.com/{{site.github}}/"><i aria-hidden="true" class="fa fa-github fa-lg"></i></a>
+				{%endunless%}
+			</div>
 		</div>
+		<div class="row">
+			<div class="col-sm-6"></div>
+	      	<div class="social-icons col-sm-6 text-right text-center-xs">
+	      		<a href="mailto:{{site.email}}">{{site.email}}</a>
+	      	</div>
+  		</div>
+  		<div class="row">
+  			<div class="col-md-12 text-center">
+  				<p>Made with <i class="fa fa-heart" aria-hidden="true"></i> by {{site.author}} </p>
+  				{% unless site.original_repo == null %}
+  					<a href="{{site.original_repo}}" target="_blank">Last updated: {{site.time | date:"%b %-d %Y" }}</a>
+  				{%endunless%}
+  			</div>
+  		</div>
+	</div>
 
 </footer>
-
-<script src="https://use.fontawesome.com/822c56abbe.js"></script>
