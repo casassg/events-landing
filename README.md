@@ -7,6 +7,14 @@
 
 HackCU events website.
 
+## Features
+
+- Automatically updated webcalendar (ICS format) 
+- Add/Remove events
+- Automatic recognition of past events
+- Easy footer and header customization
+
+
 ## Prereqs
 
 You need Ruby installed
