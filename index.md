@@ -1,8 +1,6 @@
 ---
 title: Home
 layout: base
-og: {{site.og}}
-description: Find all of {{site.author}}'s events in one place.
 ---
 
 
@@ -10,7 +8,8 @@ description: Find all of {{site.author}}'s events in one place.
     <div class="container">
         <div class="row">
             <h2 class="text-center white-text biko">Our events</h2>
-            {% for event in site.data.events %}               
+            {% assign sorted = site.data.events | sort: 'date','last' %}
+            {% for event in sorted %}               
                 <div class="col-sm-6 col-md-4 ">
                     <a {% unless event.url == null %} href="{{event.url}}" {% endunless %} target="_blank" class="event-url">
                         <div class="panel panel-default ">

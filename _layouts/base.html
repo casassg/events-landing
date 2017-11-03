@@ -8,26 +8,26 @@
     <meta name="author" content="{{ site.author }}">
     <link rel="icon" type="image/x-icon" href="favicon.ico"/>
     <link rel="icon" href="favicon.png" type="image/png">
-    <meta name="description" content="{{ page.description }}">
+    <meta name="description" content="{{ page.description | default: site.description  }}">
 
 
     <!--FACEBOOK DESCRIPTION -->
     <meta property="og:title" content="{{ page.title }} | {{ site.name }}"/>
     <meta property="og:site_name" content="{{ site.name }}"/>
-    <meta property="og:description" content="{{ page.description }}"/>
-    <meta property="og:image" content="{{ page.og }}">
-	<meta property="og:image:secure_url" content="{{ page.og }}">
+    <meta property="og:description" content="{{ page.description | default: site.description }}"/>
+    <meta property="og:image" content="{{ page.og | default: site.og }}">
+	<meta property="og:image:secure_url" content="{{ page.og | default: site.og  }}">
 	<meta property="og:url" content="">
 
     <!--TWITTER DESCRIPTION -->
-	<meta name="twitter:card" content="summary_large_image">
+	<meta name="twitter:card" content="summary">
     {% unless site.twitter  == null %}
         <meta name="twitter:site" content="@{{ site.twitter }}">
         <meta name="twitter:creator" content="@{{ site.twitter }}">
     {% endunless %}
 	<meta name="twitter:title" content="{{ site.name }}">
-	<meta name="twitter:description" content="{{ page.description }}">
-	<meta name="twitter:image" content="{{ page.og }}">
+	<meta name="twitter:description" content="{{ page.description | default: site.description  }}">
+	<meta name="twitter:image" content="{{ page.og | default: site.og  }}">
 
 
     <meta name="viewport" content="width=device-width, initial-scale=1">

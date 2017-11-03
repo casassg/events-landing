@@ -52,7 +52,6 @@ Deployment is done automatically by [GitHub pages](https://pages.github.com/). Y
 
 ```
 3. Edit the properties as described in the text you just copied
-4. Make sure you added the event in the correct place (order by date)
 
 If you need a preview image please add it to [assets/img/](assets/img/). 
 
