@@ -63,6 +63,10 @@ You can change footer links by editing the file  [_data/footer_links.yml](_data/
 
 You can change various strings across the site, including the title of your app on [_config.yml](_config.yml)
 
+## Theme variables
+
+Main colors can be changed on [_config.yml](_config.yml). For more "deep" styling, you can edit all styling in [assets/css/main.scss](assets/css/main.scss)
+
 
 
 # License

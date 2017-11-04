@@ -12,10 +12,20 @@ domain: events.hackcu.org
 
 # Style variables
 accent_color: "#4C246A"
-background_color: "#FAFAFA"
 events_overlay_color: "#AA761F"
+background_color: "#FAFAFA"
 footer_text_color: "#666666"
 events_bg_img: assets/img/people.jpg
+
+# START THEME 2
+# accent_color: "#AA401B"
+# events_overlay_color: "#225E50"
+# END THEME 2
+
+# START WINTER THEME
+# accent_color: "#165E33" 
+# events_overlay_color: "#AA504A"
+# END WINTER THEME
 
 # Author variables
 author: HackCU
