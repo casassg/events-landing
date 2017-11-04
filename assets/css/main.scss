@@ -3,7 +3,7 @@
 
 @import "mixins";
 
-$background-color: rgba(255, 255, 255,1.0);
+$background-color: #FAFAFA;
 // $accent-color: #165E33; 
 // $events-color:#AA504A;
 $accent-color: #4C246A;
@@ -30,13 +30,98 @@ body {
 
 }
 
+h1,h2,h3,h4,h5 {
+    font-family: "Biko", Helvetica, sans-serif;
+
+}
+
 .biko {
     font-family: "Biko", Helvetica, sans-serif;
 }
 
+.btn {
+    @include box-shadow(0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19));
+    text-transform: uppercase;
+    @include border-radius(0);
+    position: relative;
+    top: 0;
+    @include transition(all .1s linear);
+
+    &:hover {
+        top: 1px;
+        @include box-shadow(0 1px 2px 0 rgba(0, 0, 0, 0.2), 0 1.5px 5px 0 rgba(0, 0, 0, 0.19));
+
+
+    }
+
+    i {
+        color: inherit;
+        margin-right: 0.5em;
+    }
+    a {
+        color: inherit;
+        text-decoration: none;
+    }
+
+    &.btn-fb {
+        color: #333;
+        background-color: #fff;
+        border-color: #ccc;
+    }
+
+    &.btn-accent {
+        font-size: 1.2em;
+        color: white;
+        background-color: $accent-color;
+        border-color: $accent-color;
+
+        &:active, &:focus{
+            background-color: $accent-color;
+            margin-color: $accent-color;
+        }
+
+        &:hover{
+            background-color: lighten($accent-color, 10%);
+            margin-color: lighten($accent-color, 10%);
+        }
+
+        
+    }
+
+
+}
+
+
+
 
 header {
-    height: 200px;
+    padding-top: 7em;
+    padding-bottom: 5em;
+
+    img.logo {
+        width: 50%;
+        
+    }
+
+    img.logo, .lead,  .btn {
+        margin-bottom: 2em;
+
+    }
+
+     div.panel {
+        @include box-shadow(1px 5px 8px 1px rgba(0,0,0,.19));
+        @include border-radius(0);
+        .panel-body {
+            border: 1px $accent-color;
+            padding: 10px;
+        }
+
+        p{
+            font-size: 14px;
+        }
+    }
+
+
 }
 
 footer {
@@ -208,23 +293,7 @@ section.events{
         }
     }
 
-    .btn {
-        @include box-shadow(0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19));
-        text-transform: uppercase;
-        @include border-radius(0);
-        position: relative;
-        top: 0;
-        @include transition(all .1s linear);
 
-        &:hover {
-            top: 1px;
-            @include box-shadow(0 1px 2px 0 rgba(0, 0, 0, 0.2), 0 1.5px 5px 0 rgba(0, 0, 0, 0.19));
-
-
-        }
-
-
-    }
 
     a.event-url {
         color: black;
@@ -236,34 +305,21 @@ section.events{
     }
 
     .calendar {
-        display: block;
-        width: 300px;
-        font-size: 1.2em;
         margin: 0 auto;
-        color: white;
-        background-color: $accent-color;
-        border-color: $accent-color;
-
-        &:active, &:focus{
-            background-color: $accent-color;
-            margin-color: $accent-color;
-        }
-
-        &:hover{
-            background-color: lighten($accent-color, 10%);
-            margin-color: lighten($accent-color, 10%);
-        }
-
-        
+        width: 300px;
     }
+    
 
 }
 
 
 @media (max-width: 768px) {
- .text-center-xs, {
-          text-align: center;
-   } 
+    .text-center-xs, {
+        text-align: center;
+    } 
+    header {
+        padding-top: 2em;
+    }
 }
 
 
