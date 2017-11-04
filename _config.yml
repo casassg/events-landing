@@ -2,7 +2,7 @@
 # PERSONALIZATION
 # Site variables
 name: HackCU Events
-og: assets/img/flatirons.jpg
+og: assets/img/og.png
 logo: /assets/img/logo.png
 original_repo: https://github.com/hackcu/events
 description: Find all of HackCU's events in one place.
