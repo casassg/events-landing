@@ -1,17 +1,30 @@
 
-# Personalization vars
+# PERSONALIZATION
+# Site variables
 name: HackCU Events
 og: assets/img/flatirons.jpg
 logo: /assets/img/logo.png
 original_repo: https://github.com/hackcu/events
 description: Find all of HackCU's events in one place.
 ga: UA-109088240-1
+domain: events.hackcu.org
 
+
+# Style variables
+accent_color: "#4C246A"
+background_color: "#FAFAFA"
+events_overlay_color: "#AA761F"
+footer_text_color: "#666666"
+events_bg_img: assets/img/people.jpg
+
+# Author variables
 author: HackCU
 author-description: "HackCU is a student organization at the University of Colorado at Boulder who brings together
     people for our annual technology and design events, HackCU and Local Hack Day. We are the largest hackathon in the Rocky Mountain Region, and
     our mission is to foster learning, designing, and building in order to turn student's ideas into a reality!"
+email: contact@hackcu.org
 
+# Social media + community variables
 twitter: hackcu
 fb: hackcu
 fb-community: hackcu
@@ -19,8 +32,7 @@ slack-signup: https://slack.hackcu.org
 
 instagram: hackcu
 github: hackcu
-email: contact@hackcu.org
-domain: events.hackcu.org
+
 
 
 # Internal configuration

@@ -3,15 +3,15 @@
 
 @import "mixins";
 
-$background-color: #FAFAFA;
+$background-color: {{site.background_color}};
 // $accent-color: #165E33; 
 // $events-color:#AA504A;
-$accent-color: #4C246A;
-$events-color:#AA761F;
+$accent-color: {{site.accent_color}};
+$events-color:{{site.events_overlay_color}};
 // $accent-color: #AA401B;
 // $events-color:#225E50;
 
-$footer-text: #666666;
+$footer-text: {{site.footer_text_color}};
 
 @font-face {
     font-family: Biko;
@@ -191,7 +191,7 @@ footer {
 
 
 section.events{
-    background: linear-gradient( rgba($events-color, 0.75), rgba($events-color, 0.75) ), url(../img/people.jpg) no-repeat center center/cover;
+    background: linear-gradient( rgba($events-color, 0.75), rgba($events-color, 0.75) ), url(../../{{site.events_bg_img}}) no-repeat center center/cover;
     padding-bottom: 20px;
 
     h2 {
