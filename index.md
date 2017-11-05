@@ -30,7 +30,7 @@ layout: base
             {% endfor %}
         </div>
         <div class="row text-center">
-            <a class="btn btn-accent calendar biko" href="https://calendar.google.com/calendar/r?cid=webcal://{{ site.domain }}/calendars/events.ics" target="_blank">Add calendar</a>
+            <a class="btn btn-accent calendar biko" href="https://calendar.google.com/calendar/r?cid=webcal://{{ site.domain }}/calendars/events.ics" target="_blank">Add to Google Calendar</a>
         </div>
     </div>
 </section>

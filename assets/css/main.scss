@@ -10,6 +10,7 @@ $accent-color: {{site.accent_color}};
 $events-color:{{site.events_overlay_color}};
 // $accent-color: #AA401B;
 // $events-color:#225E50;
+$accent-text-color:white;
 
 $footer-text: {{site.footer_text_color}};
 
@@ -37,6 +38,40 @@ h1,h2,h3,h4,h5 {
 
 .biko {
     font-family: "Biko", Helvetica, sans-serif;
+}
+
+section.social-media {
+    min-height: 20%;
+}
+
+.accent-section {
+    background-color: $accent-color;
+    color: $accent-text-color;
+    padding-bottom: 3em;
+
+    .social-icons {
+        a {
+            color: $accent-text-color;
+            font-size: 2em;
+
+            @include transition(all .1s linear);
+
+            &:hover {
+                color: rgba($accent-text-color, 0.7);
+            }
+
+        }
+    }
+}
+
+.social-icons  {
+    a{
+        text-decoration: none;
+        padding: 10px;
+        font-size: 100%;
+    }
+
+   
 }
 
 .btn {
@@ -71,7 +106,7 @@ h1,h2,h3,h4,h5 {
 
     &.btn-accent {
         font-size: 1.2em;
-        color: white;
+        color: $accent-text-color;
         background-color: $accent-color;
         border-color: $accent-color;
 
@@ -81,8 +116,8 @@ h1,h2,h3,h4,h5 {
         }
 
         &:hover{
-            background-color: lighten($accent-color, 10%);
-            margin-color: lighten($accent-color, 10%);
+            background-color: lighten($accent-color, 5%);
+            border-color: lighten($accent-color, 5%);
         }
 
         
@@ -97,6 +132,7 @@ h1,h2,h3,h4,h5 {
 header {
     padding-top: 7em;
     padding-bottom: 5em;
+    min-height: 80%;
 
     img.logo {
         width: 50%;
@@ -157,12 +193,6 @@ footer {
             color: $footer-text;
             opacity: 0.5;
         }
-
-        &.btns {
-            text-decoration: none;
-            padding: 10px;
-            font-size: 100%;
-        }
         
     }
 
@@ -185,14 +215,18 @@ footer {
 
 
 .white-text {
-    color: white;
+    color: $accent-text-color;
 }
 
+section {
+    padding-bottom: 20px;
+    padding-top: 2em;
+}
 
 
 section.events{
     background: linear-gradient( rgba($events-color, 0.75), rgba($events-color, 0.75) ), url(../../{{site.events_bg_img}}) no-repeat center center/cover;
-    padding-bottom: 20px;
+   
 
     h2 {
         padding-bottom: 30px;
@@ -259,7 +293,7 @@ section.events{
                 z-index: 10;
                 text-transform: uppercase;
                 padding: 10px;
-                color: white;
+                color: $accent-text-color;
 
 
                 &.light_background{

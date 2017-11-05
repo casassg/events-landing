@@ -1,0 +1,21 @@
+<section class="text-center accent-section social-media">
+	<div class="container">
+		<div class="row">
+			<h2>Follow us on social media</h2>
+		</div>
+		<div class="row">
+			<div class="social-icons">
+	      		{%unless site.instagram == null %}
+					<a class="btns" target="_blank" href="https://www.instagram.com/{{ site.instagram }}/?hl=en"><i aria-hidden="true" class="fa fa-instagram fa-lg"></i></a> 
+				{%endunless%}
+				{%unless site.fb == null %}
+					<a class="btns" target="_blank" href="http://fb.com/{{site.fb}}"><i aria-hidden="true" class="fa fa-facebook fa-lg"></i></a> 
+				{%endunless%}
+				{%unless site.twitter == null %}
+					<a class="btns" target="_blank" href="https://twitter.com/{{site.twitter}}"><i aria-hidden="true" class="fa fa-twitter fa-lg"></i></a>
+				{%endunless%}
+			</div>
+		</div>
+	</div>
+
+</section>

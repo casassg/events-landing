@@ -11,8 +11,8 @@ domain: events.hackcu.org
 
 
 # Style variables
-accent_color: "#4C246A"
-events_overlay_color: "#AA761F"
+accent_color: "#22b573"
+events_overlay_color: "#2697FF"
 background_color: "#FAFAFA"
 footer_text_color: "#666666"
 events_bg_img: assets/img/people.jpg
@@ -21,6 +21,16 @@ events_bg_img: assets/img/people.jpg
 # accent_color: "#AA401B"
 # events_overlay_color: "#225E50"
 # END THEME 2
+
+# START THEME 3
+# accent_color: "#FF5722"
+# events_overlay_color: "#2697FF"
+# END THEME 3
+
+# START THEME 4
+# accent_color: "#FF5252"
+# events_overlay_color: "#2697FF"
+# END THEME 4
 
 # START WINTER THEME
 # accent_color: "#165E33" 
