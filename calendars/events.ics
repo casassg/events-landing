@@ -13,7 +13,7 @@ END:VTIMEZONE{% assign sorted = site.data.events | sort: 'date','last' %}
 {% for post in sorted %}{% unless post.date == null %}BEGIN:VEVENT
 DTSTART;TZID={{site.timezone}}:{{ post.date | date: "%Y%m%dT%H%M%S" }}
 DTEND;TZID={{site.timezone}}:{{ post.end-date | date: "%Y%m%dT%H%M%S" }}
-DTSTAMP;TZID=America/Denver:{{ post.date | date: "%Y%m%dT%H%M%S" }}
+DTSTAMP;TZID={{site.timezone}}:{{ post.date | date: "%Y%m%dT%H%M%S" }}
 UID:events-{{ post.date | date: "%Y%m%d-%H%M" }}@hackcu.org
 LOCATION:{{ post.location }}
 URL:{{post.url}}
