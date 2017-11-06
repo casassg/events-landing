@@ -75,7 +75,7 @@ section.social-media {
 }
 
 .btn {
-    @include box-shadow(0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19));
+    @include box-shadow(0 4px 8px 0 rgba(0, 0, 0, 0.1), 0 6px 20px 0 rgba(0, 0, 0, 0.15));
     text-transform: uppercase;
     @include border-radius(0);
     position: relative;
@@ -139,17 +139,21 @@ header {
         
     }
 
-    img.logo, .lead,  .btn {
+    img.logo, .lead {
         margin-bottom: 2em;
 
     }
+    
+    .btn {
+        margin-bottom: 1.5em;
+    }
 
      div.panel {
-        @include box-shadow(1px 5px 8px 1px rgba(0,0,0,.19));
+        @include box-shadow(1px 5px 20px 1px rgba(0,0,0,0.1));
         @include border-radius(0);
         .panel-body {
             border: 1px $accent-color;
-            padding: 10px;
+            padding: 20px;
         }
 
         p{
@@ -161,7 +165,7 @@ header {
 }
 
 footer {
-    padding-top: 2em;
+    padding-top: 2em 0 1.5em 0;
     width: 100%;
   
     p {
@@ -175,7 +179,7 @@ footer {
     
 
     .row {
-        margin-bottom: 10px;
+        margin-bottom: 0px;
     }
 
     a {
@@ -219,7 +223,7 @@ footer {
 }
 
 section {
-    padding-bottom: 20px;
+    padding-bottom: 60px;
     padding-top: 2em;
 }
 
@@ -243,6 +247,7 @@ section.events{
         .panel-body {
             padding: 10px;
             height: 70px;
+            margin-bottom: 35px;
             font-size: 14px;
             @include border-radius(0);
             overflow: auto;
