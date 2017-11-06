@@ -55,8 +55,27 @@ github: hackcu
 
 
 
-# Internal configuration
+# TIMEZONE
+# Needs to be string from: https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone: America/Denver
+# Based on: http://erics-notes.blogspot.com/2013/05/fixing-ics-time-zone.html
+ical_timezone: |-
+  BEGIN:DAYLIGHT
+  TZOFFSETFROM:-0700
+  TZOFFSETTO:-0600
+  TZNAME:MDT
+  DTSTART:19700308T020000
+  RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+  END:DAYLIGHT
+  BEGIN:STANDARD
+  TZOFFSETFROM:-0600
+  TZOFFSETTO:-0700
+  TZNAME:MST
+  DTSTART:19701101T020000
+  RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+  END:STANDARD
+ 
+# Internal configuration
 sass:
     sass_dir: assets/_sass
     style: compressed

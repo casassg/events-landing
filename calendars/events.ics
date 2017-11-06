@@ -6,26 +6,13 @@ PRODID:-//{{site.name}}//Events//EN
 X-WR-CALNAME:{{site.name}} calendar
 CALSCALE:GREGORIAN
 BEGIN:VTIMEZONE
-TZID:America/Denver
-X-LIC-LOCATION:America/Denver
-BEGIN:DAYLIGHT
-TZOFFSETFROM:-0700
-TZOFFSETTO:-0600
-TZNAME:MDT
-DTSTART:19700308T020000
-RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
-END:DAYLIGHT
-BEGIN:STANDARD
-TZOFFSETFROM:-0600
-TZOFFSETTO:-0700
-TZNAME:MST
-DTSTART:19701101T020000
-RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
-END:STANDARD
+TZID:{{site.timezone}}
+X-LIC-LOCATION:{{site.timezone}}
+{{site.ical_timezone}}
 END:VTIMEZONE{% assign sorted = site.data.events | sort: 'date','last' %}
 {% for post in sorted %}{% unless post.date == null %}BEGIN:VEVENT
-DTSTART;TZID=America/Denver:{{ post.date | date: "%Y%m%dT%H%M%S" }}
-DTEND;TZID=America/Denver:{{ post.end-date | date: "%Y%m%dT%H%M%S" }}
+DTSTART;TZID={{site.timezone}}:{{ post.date | date: "%Y%m%dT%H%M%S" }}
+DTEND;TZID={{site.timezone}}:{{ post.end-date | date: "%Y%m%dT%H%M%S" }}
 DTSTAMP;TZID=America/Denver:{{ post.date | date: "%Y%m%dT%H%M%S" }}
 UID:events-{{ post.date | date: "%Y%m%d-%H%M" }}@hackcu.org
 LOCATION:{{ post.location }}
