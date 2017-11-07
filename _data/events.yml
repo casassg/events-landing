@@ -22,6 +22,14 @@
   location: Galvanize Boulder
   url: https://www.eventbrite.com/e/boulder-hacktoberfest-an-open-source-celebration-tickets-39026755075
 
+- name: Vim: A robust text editor
+  image-url: assets/img/vim-event.jpg
+  line: Learn how vim can help you everywhere
+  date: 2017-11-16 5:00 PM 
+  end-date: 2017-11-16 6:00 PM 
+  location: ECCR 155
+  url: https://www.facebook.com/events/128370294597577/
+
 - name: Local Hack Day
   image-url: assets/img/flatirons.jpg
   line: 12 hour hack day. Bringing together the local hacker community to learn and build awesome tech.
@@ -29,7 +37,7 @@
   end-date: 2017-12-2 9:15 PM 
   location: Idea Forge
   url: https://local.hackcu.org
-
+  
 - name: HackCU IV
   location: TBD
   image-url: assets/img/hackcu.png
