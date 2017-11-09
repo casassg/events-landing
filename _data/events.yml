@@ -1,42 +1,39 @@
-- name: Startups2Students Fall
-  # light_background: True
-  image-url: assets/img/startups2students.png
-  line: Bridging the gap between students and startups
-  date: 2017-10-19 6:00 PM 
-  end-date: 2017-10-19 8:00 PM 
-  location: Idea Forge
-  url: http://startups2students.org
+#Example ecents
+- name: HackUPC Fall 2017
+  line: BarcelonaTech's hackathon. 700 hackers. 36h. Oct 13th-15th.
+  date: 2017-10-13 3:00 PM 
+  end-date: 2017-10-15 4:30 PM 
+  location: Campus Nord
+  url: https://hackupc.com
 
-- name: Introduction to Git/GitHub
-  line: Learn how to use Git from its basics. Pizza and GitHub swag provided.
-  date: 2017-10-25 5:30 PM 
-  end-date: 2017-10-25 7:30 PM 
-  location: Wolf Law 206
-  url: https://www.facebook.com/events/147776512500472/
-
-- name: Boulder Hacktoberfest
-  image-url: assets/img/hacktoberfest.png
-  line: Learning about open source development with professionals.
-  date: 2017-10-30 5:30 PM 
-  end-date: 2017-10-30 8:00 PM 
-  location: Galvanize Boulder
-  url: https://www.eventbrite.com/e/boulder-hacktoberfest-an-open-source-celebration-tickets-39026755075
-
-- name: "Vim: A robust text editor"
-  image-url: assets/img/vim-event.jpg
-  line: Learn how vim can help you everywhere
-  date: 2017-11-16 5:00 PM 
-  end-date: 2017-11-16 6:00 PM 
-  location: ECCR 155
-  url: https://www.facebook.com/events/128370294597577/
+- name: Twilight Hawkers Market
+  line: It's Perth’s original & biggest Street Food Market bringing the tastiest street food.
+  date: 2017-11-17 4:30 PM
+  end-date: 2017-11-17 9:30 PM
+  location: Forrest Place
+  url: http://twilighthawkersmarket.com/
 
 - name: Local Hack Day
   image-url: assets/img/flatirons.jpg
   line: 12 hour hack day. Bringing together the local hacker community to learn and build awesome tech.
   date: 2017-12-2 8:00 AM 
   end-date: 2017-12-2 9:15 PM 
-  location: Idea Forge
+  location: Worldwide
   url: https://local.hackcu.org
+  
+- name: Introduction to Web Development with Flask
+  line:  Introduction to one of the most popular python web microframeworks. 
+  date: 2017-10-25 12:00 PM 
+  end-date: 2017-10-25 1:00 PM 
+  location: A6106
+  url: https://www.facebook.com/events/158389091423158/
+  
+- name: "Saint George's Day / Diada de Sant Jordi"
+  line: "Celebrate Saint George's Day with us. Roses and Jocs Florals."
+  date: 2017-4-25 9:00 AM 
+  end-date: 2017-4-25 9:00 PM 
+  location: University of Colorado Boulder
+  url: https://www.facebook.com/events/1142067275923247/
   
 - name: HackCU IV
   location: TBD
