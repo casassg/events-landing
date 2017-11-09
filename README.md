@@ -1,11 +1,7 @@
-<br>
-<p align="center">
-  <img alt="HackCU IV" src="https://github.com/HackCU/splash-page/blob/master/img/hackcu_black.png" width="200"/>
-</p>
-<br>
 
+# Events landing
 
-HackCU events website.
+Statically generated landing website that lists your events
 
 # Features
 
@@ -21,18 +17,24 @@ Needs: Ruby
 
 ## Local 
 
-1. Clone repository to your computer with `git clone https://github.com/hackcu/events`
+1. Clone repository to your computer with `git clone https://github.com/casassg/events-landing`
 2. `cd` into your repository
 3. `gem install jekyll`
 4. `jekyll serve --watch`
 
 ## Deploy
 
-1. Activate GitHub pages for repo on master branch
-2. Push changes to master
-3. There's no `3`
+
+1. Push changes to master
+2. There's no `3`
 
 Deployment is done automatically by [GitHub pages](https://pages.github.com/). You don't need to do anything else than pushing to master.
+
+# Use for your organization
+
+1. Fork this repository
+2. Activate Github pages for your new repo
+3. Personalize
 
 # Personalization
 
@@ -72,4 +74,4 @@ Main colors can be changed on [_config.yml](_config.yml). For more "deep" stylin
 # License
 
 
-MIT © HackCU
+MIT © Gerard Casas Saez
