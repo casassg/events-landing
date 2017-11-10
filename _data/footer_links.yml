@@ -1,6 +1,2 @@
-- name: HackCU
-  url: https://events.hackcu.org
-- name: Hackers@UPC
-  url: http://hackersatupc.org
-- name: The Croquetas Bar
-  url: http://events.croquetasbar.com.au/
+- name: HackUPC
+  url: https://hackupc.com

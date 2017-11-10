@@ -1,17 +1,19 @@
 
+
 # PERSONALIZATION
 # Site variables
-name: Events Landing Page
-logo: assets/img/logo.png
-original_repo: https://github.com/casassg/events-landing
-description: Find all of your organizations events in one place.
-# ga: UA-109088240-1
-domain: gerard.space/events-landing/
+name: Hackers@UPC
+# og: assets/img/og.png
+logo: /assets/img/logo.png
+original_repo: https://github.com/hackupc/hackersatupc.org
+description: Hackers@UPC community and events page
+ga: UA-109223481-1
+domain: hackersatupc.org
 
 
 # Style variables
-accent_color: "#22b573"
-events_overlay_color: "#2697FF"
+accent_color: "#0016f1"
+events_overlay_color: "#22b573"
 background_color: "#FAFAFA"
 footer_text_color: "#666666"
 events_bg_img: assets/img/people.jpg
@@ -32,46 +34,44 @@ events_bg_img: assets/img/people.jpg
 # END THEME 4
 
 # START WINTER THEME
-accent_color: "#165E33" 
-events_overlay_color: "#AA504A"
+# accent_color: "#165E33" 
+# events_overlay_color: "#AA504A"
 # END WINTER THEME
 
 # Author variables
-author: Gerard Casas
-author-description: "This is a student organization at a certain university who brings together
-    people for our annual technology and design events, event1 and event2. We are the largest event around.
-    Our mission is to foster learning, designing, and building in order to turn student's ideas into a reality!"
-email: contact@gerard.space
+author: Hackers@UPC
+author-description: "Hackers@UPC is a student organization at Universitat Politècnica de Catalunya who brings together
+    people for our technology and design event: HackUPC. Our mission is to foster learning, designing, and building in order to turn student's ideas into a reality!"
+email: contact@hackersatupc.org
 
 # Social media + community variables
-twitter: casassaez
-# fb: hackcu
-fb-community: hackcu
-slack-signup: https://slack.hackcu.org
+twitter: hackersupc
+fb: hackersatupc
+fb-community: hackersatupc
 
-instagram: casassg
-github-org: hackcu
+# instagram: hackcu
+github-org: hackupc
 
 
 
 # TIMEZONE
 # Needs to be string from: https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone: America/Denver
+timezone: Europe/Madrid
 # Based on: http://erics-notes.blogspot.com/2013/05/fixing-ics-time-zone.html
 ical_timezone: |-
   BEGIN:DAYLIGHT
-  TZOFFSETFROM:-0700
-  TZOFFSETTO:-0600
-  TZNAME:MDT
+  TZOFFSETFROM:+0100
+  TZOFFSETTO:+0200
+  TZNAME:CEST
   DTSTART:19700308T020000
-  RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+  RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=4SU
   END:DAYLIGHT
   BEGIN:STANDARD
-  TZOFFSETFROM:-0600
-  TZOFFSETTO:-0700
-  TZNAME:MST
+  TZOFFSETFROM:+0200
+  TZOFFSETTO:+0100
+  TZNAME:CET
   DTSTART:19701101T020000
-  RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+  RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=4SU
   END:STANDARD
  
 # Internal configuration

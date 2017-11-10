@@ -1,44 +1,33 @@
-#Example ecents
+- name: HackUPC Winter 2017
+  line: BarcelonaTech's hackathon. 500 hackers. 36h. March 3rd-5th
+  image-url: assets/img/hackupcwinter2017.png
+  date: 2017-03-03 3:00 PM 
+  end-date: 2017-03-05 4:30 PM 
+  location: Campus Nord
+  url: https://w2017.hackupc.com
+
+- name: Introduction to Docker
+  line: Join us for an introductory workshop on docker
+  date: 2017-05-17 12:00 PM 
+  end-date: 2017-05-17 1:00 PM 
+  location: A5001
+  url: https://www.facebook.com/events/205382139972607/
+
 - name: HackUPC Fall 2017
   line: BarcelonaTech's hackathon. 700 hackers. 36h. Oct 13th-15th.
+  image-url: assets/img/hackupcfall2017.png
   date: 2017-10-13 3:00 PM 
   end-date: 2017-10-15 4:30 PM 
   location: Campus Nord
   url: https://hackupc.com
 
-- name: Twilight Hawkers Market
-  line: It's Perth’s original & biggest Street Food Market bringing the tastiest street food.
-  date: 2017-11-17 4:30 PM
-  end-date: 2017-11-17 9:30 PM
-  location: Forrest Place
-  url: http://twilighthawkersmarket.com/
-
-- name: Local Hack Day
-  image-url: assets/img/flatirons.jpg
-  line: 12 hour hack day. Bringing together the local hacker community to learn and build awesome tech.
-  date: 2017-12-2 8:00 AM 
-  end-date: 2017-12-2 9:15 PM 
-  location: Worldwide
-  url: https://local.hackcu.org
-  
 - name: Introduction to Web Development with Flask
   line:  Introduction to one of the most popular python web microframeworks. 
   date: 2017-10-25 12:00 PM 
   end-date: 2017-10-25 1:00 PM 
   location: A6106
   url: https://www.facebook.com/events/158389091423158/
-  
-- name: "Saint George's Day / Diada de Sant Jordi"
-  line: "Celebrate Saint George's Day with us. Roses and Jocs Florals."
-  date: 2017-04-25 9:00 AM 
-  end-date: 2017-04-25 9:00 PM 
-  location: University of Colorado Boulder
-  url: https://www.facebook.com/events/1142067275923247/
-  
-- name: HackCU IV
-  location: TBD
-  image-url: assets/img/hackcu.png
-  line: Subscribe to be the first to know when applications go live.
-  url: https://hackcu.org
+
+
 
 

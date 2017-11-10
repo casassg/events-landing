@@ -1,7 +1,11 @@
+<br>
+<p align="center">
+  <img alt="Hackers@UPC" src="assets/img/logo.png" width="200"/>
+</p>
+<br>
 
-# Events landing
 
-Statically generated landing website that lists your events
+Hackers@UPC website, forked from [Events Landing](https://github.com/casassg/events-landing)
 
 # Features
 
@@ -17,7 +21,7 @@ Needs: Ruby
 
 ## Local 
 
-1. Clone repository to your computer with `git clone https://github.com/casassg/events-landing`
+1. Clone repository to your computer with `git clone https://github.com/hackupc/hackersatupc.org`
 2. `cd` into your repository
 3. `gem install jekyll`
 4. `jekyll serve --watch`
@@ -74,4 +78,4 @@ Main colors can be changed on [_config.yml](_config.yml). For more "deep" stylin
 # License
 
 
-MIT © Gerard Casas Saez
+MIT © Hackers at UPC
