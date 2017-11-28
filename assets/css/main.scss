@@ -76,7 +76,7 @@ section.social-media {
 
 .btn {
     @include box-shadow(0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19));
-    text-transform: uppercase;
+    // text-transform: uppercase;
     @include border-radius(0);
     position: relative;
     top: 0;
@@ -228,7 +228,7 @@ section.events{
     background: linear-gradient( rgba($events-color, 0.75), rgba($events-color, 0.75) ), url(../../{{site.events_bg_img}}) no-repeat center center/cover;
    
 
-    h2 {
+    .main-title {
         padding-bottom: 30px;
     }
 
@@ -324,6 +324,10 @@ section.events{
 
         &.past .past-text{ 
             display: inline;
+        }
+
+        form#email-form{
+            max-width: 400px !important;
         }
     }
 
