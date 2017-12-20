@@ -76,7 +76,7 @@ section.social-media {
 
 .btn {
     @include box-shadow(0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19));
-    text-transform: uppercase;
+    // text-transform: uppercase;
     @include border-radius(0);
     position: relative;
     top: 0;
@@ -228,7 +228,7 @@ section.events{
     background: linear-gradient( rgba($events-color, 0.75), rgba($events-color, 0.75) ), url(../../{{site.events_bg_img}}) no-repeat center center/cover;
    
 
-    h2 {
+    .main-title {
         padding-bottom: 30px;
     }
 
@@ -327,7 +327,32 @@ section.events{
         }
     }
 
+    form#email-form{
+        margin-bottom: 30px;
+        height: 90px;
+    }
 
+    .notice-message{
+        color: #fff;
+        padding: 10px;
+        font-size: 1.1em;
+        font-style: bold;
+        margin: 10px;
+        display: inline-block;
+        p{
+            margin: 0;
+            padding: 0;
+        }
+    }
+
+    #email-success{
+        background: $accent-color;
+    }
+
+    #email-failure{
+        background: white;
+        color: #b52121;
+    }
 
     a.event-url {
         color: black;
@@ -339,7 +364,7 @@ section.events{
     }
 
     .calendar {
-        margin: 0 auto;
+        margin: 25px auto;
         width: 300px;
     }
     

@@ -1,4 +1,7 @@
 $(function(){
+
+	$('.notice-message').hide();
+
 	var events = $('.event');
 
 	events.each(function(i,event){
