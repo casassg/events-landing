@@ -45,7 +45,7 @@ layout: base
                         <p>Thanks for subscribing! We're excited to see you soon!</p>
                     </div>
                     <div id="email-failure" class="notice-message">
-                        <p>Hmmm... something went wrong. Try again, and <a href="mailto:info@hackcu.org">let us know</a> if this persists..</p>
+                        <p>Hmmm... something went wrong. Try again, and <a href="mailto:contact@hackcu.org">let us know</a> if this persists..</p>
                     </div>
                 </form>
             </div>
