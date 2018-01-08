@@ -39,6 +39,7 @@
   
 - name: HackCU IV
   date: 2018-02-24 8:00 AM
+  end-date: 2018-02-25 5:00 PM
   location: SEEC Building (East Campus)
   image-url: assets/img/hackcu4.png
   line: Join us and 600 other hackers for 24 hours of hacking, learning and building!
