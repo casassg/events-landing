@@ -36,7 +36,14 @@
   end-date: 2017-12-2 9:15 PM 
   location: Idea Forge
   url: https://local.hackcu.org
-  
+
+- name: Amazon Alexa: Skill Development Workshops
+  date: 2018-01-31 6:00 PM
+  end-date: 2018-01-31 8:30 PM
+  location: ECCR 265
+  line: Learn more about building applications for Amazon Alexa! Learn to create applications for a voice user interface. 
+  url: https://www.eventbrite.com/e/amazon-alexa-skill-development-workshops-boulder-tickets-42466155414?aff=es2
+
 - name: HackCU IV
   date: 2018-02-24 8:00 AM
   end-date: 2018-02-25 5:00 PM
