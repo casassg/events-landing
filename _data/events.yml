@@ -43,6 +43,13 @@
   location: ECCR 265
   line: "Learn more about building applications for Amazon Alexa! Learn to create applications for a voice user interface."
   url: https://www.eventbrite.com/e/amazon-alexa-skill-development-workshops-boulder-tickets-42466155414?aff=es2
+  
+- name: "Intro to Blockchain"
+  date: 2018-02-03 12:00 PM
+  end-date: 2018-01-31 5:00 PM
+  location: Idea Forge
+  line: "Workshop includes an intro to blockchain technology and an interactive session on smart contracts."
+  url: https://www.facebook.com/events/1860524370627531/
 
 - name: HackCU IV
   date: 2018-02-24 8:00 AM
