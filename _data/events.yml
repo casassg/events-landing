@@ -66,4 +66,11 @@
   line: Join us and 600 other hackers for 24 hours of hacking, learning and building!
   url: https://hackcu.org
 
+- name: Startups2Students Spring
+  image-url: assets/img/startups2students.png
+  line: Bridging the gap between students and startups
+  date: 2018-3-22 6:00 PM 
+  end-date: 2018-3-22 8:00 PM 
+  location: Idea Forge
+  url: http://startups2students.org
 
