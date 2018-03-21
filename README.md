@@ -1,7 +1,9 @@
 
 # Events landing
 
-Statically generated landing website that lists your events
+Statically generated landing website that lists your events.
+
+Logo by Icondesk at [NounProject](https://thenounproject.com/search/?q=chip&i=1260497#)
 
 # Features
 
