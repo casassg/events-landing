@@ -3,7 +3,7 @@ title: Home
 layout: base
 ---
 
-
+{% include header.html %}
 <section class="events">
     <div class="container">
         <div class="row">

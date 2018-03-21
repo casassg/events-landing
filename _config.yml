@@ -1,10 +1,10 @@
 
 # PERSONALIZATION
 # Site variables
-name: Events Landing Page
+name: CS Graduate Student Association at CU
 logo: assets/img/logo.png
-original_repo: https://github.com/casassg/events-landing
-description: Find all of your organizations events in one place.
+original_repo: https://github.com/cucsgsa/events-landing
+description: CS Graduate Student Association at CU website
 # ga: UA-109088240-1
 domain: gerard.space/events-landing/
 
@@ -16,10 +16,10 @@ background_color: "#FAFAFA"
 footer_text_color: "#666666"
 events_bg_img: assets/img/people.jpg
 
-# START THEME 2
-# accent_color: "#AA401B"
-# events_overlay_color: "#225E50"
-# END THEME 2
+# CU THEME
+accent_color: "#cfb87c"
+events_overlay_color: "#000"
+# END CU THEME
 
 # START THEME 3
 # accent_color: "#FF5722"
@@ -32,25 +32,20 @@ events_bg_img: assets/img/people.jpg
 # END THEME 4
 
 # START WINTER THEME
-accent_color: "#165E33" 
-events_overlay_color: "#AA504A"
+# accent_color: "#165E33" 
+# events_overlay_color: "#AA504A"
 # END WINTER THEME
 
 # Author variables
-author: Gerard Casas
-author-description: "This is a student organization at a certain university who brings together
-    people for our annual technology and design events, event1 and event2. We are the largest event around.
-    Our mission is to foster learning, designing, and building in order to turn student's ideas into a reality!"
-email: contact@gerard.space
+author: CS Graduate Student Association at CU
+author-description: " Computer Science Graduate Students Association (CSGSA) is a student organization run by and for graduate students from the Computer Science Department at CU Boulder. Its main goal is to foster community amongst graduate students in the Department of Computer Science and other affiliated departments/institutes. 
+To encourage such community, the CSGSA will arrange social events, professional development events, and serve as a central forum of representation for graduate students, representing graduate students’ interests to the department and broader university administration. In addition the CSGSA will inform and support graduate students throughout their program of study."
+# email: contact@gerard.space
 
 # Social media + community variables
-twitter: casassaez
 # fb: hackcu
-fb-community: hackcu
-slack-signup: https://slack.hackcu.org
-
-instagram: casassg
-github-org: hackcu
+slack-signup: https://boulder-cs-grads.slack.com
+github-org: CUCSGSA
 
 
 

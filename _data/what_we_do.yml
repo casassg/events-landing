@@ -1,8 +1,6 @@
-- title: Workshops
-  description: "We teach how to use technologies to create, manage and successfully develop your personal projects. Our aim is to allow you to create something by the end of each workshop."
-- title: Startups2Students
-  description: "Bridging the gap between student talent and startups. We connect motivated CU students with the startup community in Boulder."
-- title: HackCU
-  description: "Every spring, we bring together people of all experience levels, majors and backgrounds to CU Boulder. HackCU provides the space and the resources for you to express your creativity, ingenuity, and determination to create anything you want to."
-- title: Local Hack Day
-  description: "HackCU hosts Local Hack Day every year at the CU Boulder! This is a worldwide event aimed at bringing students local to different areas together for just 12 hours of building anything you set your mind to."
+- title: Social
+  description: "The CSGSA arranges and promote events each semester. Events will be varied and appeal to a variety of audiences. Members will be notified of events with plenty of notice and guidance given as to expected atmosphere (e.g. family friendly). Promote awareness of CSGSA activities to current students"
+- title: Professional Development
+  description: "The CSGSA supports students in their personal and professional development. The CSGSA represents the graduate student population to external services such as Career Services, ISSS etc as they prepare their programme of events. The CSGSA shall work with other groups within the university to provide events and programming relevant to the needs of its membership"
+- title: Graduate Student Representation
+  description: "The CSGSA shall appoint representatives to UGGS, Computer Science Executive Committee, Computer Science Graduate Committee and other organisations as appropriate. The CSGSA shall act as advocate for the views and opinions of its membership."

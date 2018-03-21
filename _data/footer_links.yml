@@ -1,6 +1,5 @@
-- name: HackCU
-  url: https://events.hackcu.org
-- name: Hackers@UPC
-  url: http://hackersatupc.org
-- name: The Croquetas Bar
-  url: http://events.croquetasbar.com.au/
+- name: CS Department
+  url: https://www.colorado.edu/cs/
+- name: UGGS
+  url: https://www.colorado.edu/uggs/
+
