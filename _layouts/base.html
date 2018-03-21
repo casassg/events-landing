@@ -35,7 +35,7 @@
     <link rel="stylesheet" href="assets/lib/font-awesome.min.css">
 
 
-    <title>{{ page.title }} | {{ site.name }}</title>
+    <title>{% if page.title %}{{ page.title }} |{% endif %} {{ site.name }}</title>
 </head>
 
 
