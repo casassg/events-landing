@@ -15,9 +15,9 @@
 
 - name: FAQ
   subcategories:
-  - name: Graduate Student Handbook
-    url: 
-#  - name: Quality of Life Surveys
-#    url: quality_of_life
+#  - name: Graduate Student Handbook
+#    url: 
+  - name: Quality of Life Surveys
+    url: quality_of_life
 #  - name: Course Surveys
 #    url:
