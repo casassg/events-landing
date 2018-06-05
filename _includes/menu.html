@@ -19,7 +19,7 @@
 			
 					<div class="dropdown-menu" aria-labelledby="navbar{{link.name}}">
          				{% for sub in link.subcategories %}
-						<a class="dropdown-item" href="{{ sub.url|app}}">{{sub.name}}</a>
+						<a class="dropdown-item" href="{{ sub.url|absolute_url}}">{{sub.name}}</a>
 					{%endfor%}
 					</div>
       					</li>
