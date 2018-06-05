@@ -4,7 +4,7 @@
 
 <nav class="navbar navbar-expand-lg navbar-light bg-light">
 	<a class="navbar-brand navbar-text" href="#">
-		<img src="{{site.logo}}" class="logo">
+		<img src="{{site.logo | absolute_url}}" class="logo">
 	</a>
  	
   	<div class="collapse navbar-collapse col-sm-6" id="navbarNavDropdown">
@@ -27,7 +27,7 @@
 				{%else%}
 					<li class="nav-item">
 					{%if link.url%}
-						<a class="nav-link navbar-text" target="_blank" href="{{ link.url|app}}">
+						<a class="nav-link navbar-text" href="{{ link.url|app}}">
 					{%endif%}
 						{{ link.name|upcase }}
 					{%if link.url%}</a>{%endif%}

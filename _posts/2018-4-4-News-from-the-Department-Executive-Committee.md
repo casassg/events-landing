@@ -1,4 +1,6 @@
-# News from the Department Executive Committee
+---
+layout: post
+---
 
 Student Representative: Cecilia Mauceri
 
