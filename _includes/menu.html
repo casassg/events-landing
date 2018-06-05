@@ -1,0 +1,42 @@
+
+<div class="container">
+  	<div class="row">
+
+<nav class="navbar navbar-expand-lg navbar-light bg-light">
+	<a class="navbar-brand navbar-text" href="#">
+		<img src="{{site.logo}}" class="logo">
+	</a>
+ 	
+  	<div class="collapse navbar-collapse col-sm-6" id="navbarNavDropdown">
+    		<ul class="navbar-nav list-inline">
+			{% for link in site.data.menu %}
+      			
+				{%if link.subcategories%}
+					<li class="nav-item dropdown">
+						<a class="nav-link dropdown-toggle navbar-text" id="navbar{{link.name}}" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" href="#">
+							{{ link.name|upcase }}
+						</a>
+			
+					<div class="dropdown-menu" aria-labelledby="navbar{{link.name}}">
+         				{% for sub in link.subcategories %}
+						<a class="dropdown-item" href="{{ sub.url|app}}">{{sub.name}}</a>
+					{%endfor%}
+					</div>
+      					</li>
+
+				{%else%}
+					<li class="nav-item">
+					{%if link.url%}
+						<a class="nav-link navbar-text" target="_blank" href="{{ link.url|app}}">
+					{%endif%}
+						{{ link.name|upcase }}
+					{%if link.url%}</a>{%endif%}
+      					</li>
+				{%endif%}
+			{%endfor%}
+                </ul>
+	</div>
+</nav>
+
+</div>
+</div>

@@ -376,5 +376,14 @@ section.events{
     }
 }
 
+.navbar-brand {
+  padding: 0px; /* firefox bug fix */
+}
+
+.navbar-brand>img {
+  height: 100%;
+  padding: 0px; /* firefox bug fix */
+  width: auto;
+}
 
 

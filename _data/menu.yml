@@ -1,0 +1,23 @@
+# This is the list of pages to include in the header of the website.
+
+- name: Home
+  url: /
+
+- name: About
+  subcategories:
+  - name: Officers
+    url: /about#officers
+  - name: Bylaws
+    url: /about#bylaws
+
+- name: Newsletter
+  url: /archive
+
+- name: FAQ
+  subcategories:
+  - name: Graduate Student Handbook
+    url: 
+  - name: Quality of Life Surveys
+    url: 
+  - name: Course Surveys
+    url:

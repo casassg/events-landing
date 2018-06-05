@@ -1,15 +1,12 @@
 <header>
 	<div class="container">
 		<div class="row">
+			<p class="lead">{{site.author-description}}</p>
 			<div class="col-md-5">
-				<img src="{{site.logo}}" class="logo">
-				<p class="lead">{{site.author-description}}</p>
-				{% if site.fb-community %}
-					<a class="btn btn-accent btn-block" href="https://facebook.com/groups/{{site.fb-community}}" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i> Join on Facebook</a>
-				{% endif %}
-				{% if site.slack-signup %}
-					<a class="btn btn-accent btn-block" href="{{site.slack-signup}}" target="_blank"><i class="fa fa-slack" aria-hidden="true"></i> Join on Slack</a>
-				{%endif%}
+				<figure>
+					<img src="{{site.front_photo}}" class="logo">
+					<figcaption>Some of the current members of the CSGSA leadership committee</figcaption>
+				</figure>
 			</div>
 			<div class="col-md-5 col-md-offset-2">
 				<div class="panel panel-default ">
@@ -22,6 +19,15 @@
 					</div>
 				</div>
 			</div>
+		</div>
+
+		<div class="row" style="padding:15pt">
+		{% if site.fb-community %}
+					<a class="btn btn-accent btn-block" href="https://facebook.com/groups/{{site.fb-community}}" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i> Join on Facebook</a>
+				{% endif %}
+				{% if site.slack-signup %}
+					<a class="btn btn-accent btn-block" href="{{site.slack-signup}}" target="_blank"><i class="fa fa-slack" aria-hidden="true"></i> Join on Slack</a>
+				{%endif%}
 		</div>
 	</div>
 </header>

@@ -3,6 +3,7 @@
 # Site variables
 name: CS Graduate Student Association at CU
 logo: assets/img/logo.png
+front_photo: assets/img/cropped_gsa.jpg
 original_repo: https://github.com/cucsgsa/events-landing
 description: CS Graduate Student Association at CU website
 # ga: UA-109088240-1
@@ -40,14 +41,12 @@ events_overlay_color: "#000"
 author: CS Graduate Student Association at CU
 author-description: " Computer Science Graduate Students Association (CSGSA) is a student organization run by and for graduate students from the Computer Science Department at CU Boulder. Its main goal is to foster community amongst graduate students in the Department of Computer Science and other affiliated departments/institutes. 
 To encourage such community, the CSGSA will arrange social events, professional development events, and serve as a central forum of representation for graduate students, representing graduate students’ interests to the department and broader university administration. In addition the CSGSA will inform and support graduate students throughout their program of study."
-# email: contact@gerard.space
+email: csgsa@colorado.edu
 
 # Social media + community variables
 # fb: hackcu
 slack-signup: https://boulder-cs-grads.slack.com
 github-org: CUCSGSA
-
-
 
 # TIMEZONE
 # Needs to be string from: https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
