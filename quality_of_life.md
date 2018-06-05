@@ -1,3 +1,6 @@
+---
+layout: page
+---
 
 # CS Graduate Climate Survey Summary
 
@@ -15,13 +18,14 @@ We received 69 responses to the Climate Survey via Google Forms. Of those respon
 
 ## LIKERT SCALE QUESTIONS
 
-![Graph of likert responses](assets/imgs/quality_of_life/likert_questions.png)
+![Graph of likert responses]({{"/assets/img/quality_of_life/likert_questions.png" | absolute_url}})
 
 ## HARASSMENT
 
 6 students (9%) reported having observed harassment within the department, 3 Masters students and 3 PhD students. Each of these reports included multiple manifestations of harassment suggesting that these were not isolated incidents.
 
-![Graph of harassment responses](assets/imgs/quality_of_life/harassment.png)
+![Graph of harassment responses]({{"assets/img/quality_of_life/harassment.png"| absolute_url}})
+
 
 The harassment was usually reported to be experienced by graduate students although 2 reports included staff. The people committing the harassment varied, including staff, administrators, non-CS faculty, faculty advisors, and a person of unknown status, but the most frequently reported perpetrator was faculty (non-advisor) with 3 reports.    
 
@@ -30,7 +34,7 @@ The harassment was usually reported to be experienced by graduate students altho
 
 Respondents were asked to select strengths and weaknesses from a multiple choice list. They could choose to select multiple options.
 
-![Graph of strengths and weaknesses](assets/imgs/quality_of_life/strengths_weaknesses.png)
+![Graph of strengths and weaknesses]({{"assets/img/quality_of_life/strengths_weaknesses.png"| absolute_url}})
 
 ### Comments on Strengths
 
@@ -87,13 +91,14 @@ Students were asked to provide further information as to their selection of the 
 
 Overall, respondents were almost equally split between the five options, but some interesting trends emerged when broken down by degree type. Masters students care a lot more about job opportunities, while many PhD students are hurting for money. There is also a large disparity between the number of Masters and PhDs for whom advising is the biggest issue. This might connect to the comment from the previous section that it is difficult for Masters students to find research labs to work in. Also, after the area exam, PhD students appear to care more about advising, although the post area exam sample is based on 2 out of 11 responses, so this might not be significant.
 
-![Graph of "What would most improve your quality of life?" responses](assets/imgs/quality_of_life/improvement.png)
+![Graph of "What would most improve your quality of life?" responses]({{"assets/img/quality_of_life/improvement.png"| absolute_url}})
 
 ## EVENTS
 
 ### Likert Ratings
 
-![Graph of event responses](assets/imgs/quality_of_life/events.png)
+![Graph of event responses]({{"assets/img/quality_of_life/events.png"| absolute_url}})
+
 
 ### Event Suggestions
 
