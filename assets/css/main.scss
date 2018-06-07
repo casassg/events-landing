@@ -106,7 +106,7 @@ section.social-media {
 
     &.btn-accent {
         font-size: 1.2em;
-        color: $accent-text-color;
+        color: black;
         background-color: $accent-color;
         border-color: $accent-color;
 
@@ -313,8 +313,8 @@ section.events{
                 z-index: 10;
                 text-transform: uppercase;
                 padding: 10px;
-                color: $accent-text-color;
-
+                color: black;
+		font-size:14pt;
 
                 &.light_background{
                     color: black;

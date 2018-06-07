@@ -6,9 +6,9 @@
 - name: About
   subcategories:
   - name: Officers
-    url: /about#officers
+    url: /officers
   - name: Bylaws
-    url: /about#bylaws
+    url: /bylaws
 
 - name: Newsletter
   url: /archive

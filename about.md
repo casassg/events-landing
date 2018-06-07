@@ -8,7 +8,12 @@ layout: page
 
 ### CSGSA Chair
 
-- Stephen Hutt
+{%for person in site.data.officers.chair%}
+{%if person.photo%}
+![{{person.name}}]({{person.photo}}) 
+{%endif%}
+{{person.name}} ({{person.contact}})
+{%endfor%}
 
 The chair's responsibilities are to:
 
@@ -20,7 +25,12 @@ The chair's responsibilities are to:
 
 ### CSGSA Vice Chair
 
-- Jessie Finocchiaro
+{%for person in site.data.officers.vice_chair%}
+{%if person.photo%}
+![{{person.name}}]({{person.photo}}) 
+{%endif%}
+{{person.name}} ({{person.contact}})
+{%endfor%}
 
 The vice chair's responsibilities are to:
 
@@ -32,7 +42,12 @@ The vice chair's responsibilities are to:
 
 ### CSGSA Treasurer
 
-- Prasanth Prahladan
+{%for person in site.data.officers.treasurer%}
+{%if person.photo%}
+![{{person.name}}]({{person.photo}}) 
+{%endif%}
+{{person.name}} ({{person.contact}})
+{%endfor%}
 
 The treasurer's responsibilities are to:
 
@@ -44,22 +59,35 @@ The treasurer's responsibilities are to:
 
 ## Department Graduate Committee Student Reps
 
-- John Stechschulte 
-- Prashil Bhimani
-- Stephen Hutt
+{%for person in site.data.officers.grad_comm%}
+{%if person.photo%}
+![{{person.name}}]({{person.photo}}) 
+{%endif%}
+{{person.name}} ({{person.contact}})
+{%endfor%}
 
 
 The Graduate Committee is charged with a broad range of graduate student affairs, both for Masters and PhD students. This committee reviews all applications for admission to the Masters and Doctoral programs in Computer Science. All problems regarding any proposed changes to both the Master’s program and the Ph.D. program are handled by this Graduate Committee. It is also responsible for defining course content, considering new course offerings, and other issues for the graduate degree programs. There are three student representatives on the Graduate Committee, two PhD students and one Masters student.
 
 ## Department Executive Committee Student Representative
 
-- Cecilia Mauceri
+{%for person in site.data.officers.exec_comm%}
+{%if person.photo%}
+![{{person.name}}]({{person.photo}}) 
+{%endif%}
+{{person.name}} ({{person.contact}})
+{%endfor%}
 
 The student member of this committee is considered to be the senior student representative. This committee usually meets once a week and is concerned with all Department issues: budget, space, promotions, etc. The Executive Committee also reviews applications from prospective new faculty members. The student representative sits on both the Executive Committee and the Search Committee with one full vote. This position provides an excellent opportunity to see how an academic Department is really run. Sometimes the representative is required to poll graduate student opinion and is usually in charge of taking prospective new faculty members out to lunch with a group of graduate students.
 
 ## UGGs Student Reps
 
-- These positions are currently vacant 
+{%for person in site.data.officers.uggs%}
+{%if person.photo%}
+![{{person.name}}]({{person.photo}}) 
+{%endif%}
+{{person.name}} ({{person.contact}})
+{%endfor%}
 
 [United Government of Graduate Students](https://www.colorado.edu/uggs/) is the primary advocacy group for graduate and professional students on the CU Boulder campus. They are committed to enhancing the graduate student experience by interacting with CU administration and the University of Colorado Student Government (CUSG) concerning issues such as financial aid, graduate stipends, healthcare, tuition and fees and graduate student well-being. Graduate students from each department and program are solicited to serve on the UGGS Assembly, ensuring diverse representation of the graduate student body. There are two student representatives on UGGS, but any student can attend UGGs meetings. Meetings are held bi-weekly on Mondays, from 5:00 - 6:00 PM.
 
