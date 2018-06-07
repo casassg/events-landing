@@ -1,0 +1,35 @@
+# This populates the Officers page
+
+chair: 
+  name: Stephen Hutt
+  contact: Stephen.Hutt@colorado.edu
+  photo: assets/img/stephen.jpg
+
+vice_chair:
+  name: Jessie Finocchiaro
+  contact: jefi8453@colorado.edu
+  photo: assets/img/jessie.jpg
+
+treasurer:
+  name: Prasanth Prahladan
+  contact: 
+
+grad_comm:
+  - name: John Stechschulte
+    contact: John.Stechschulte@colorado.edu
+    photo: assets/img/john.jpeg
+  - name: Prashil Bhimani
+    contact:
+    photo: assets/img/prashil.jpg
+  - name: Stephen Hutt
+    contact: Stephen.Hutt@colorado.edu
+    photo: assets/img/stephen.jpg
+
+exec_comm:
+  name: Cecilia Mauceri
+  contact: cecilia.mauceri@colorado.edu
+  photo: assets/img/cecilia.jpg
+
+uggs:
+  - name: These positions are currently vacant
+    contact: csgsa@colorado.edu
