@@ -20,7 +20,7 @@ layout: post
 
 ## Suggestions that students expressed:
 
--Can their pay be on a biweekly basis and not a monthly basis for TAs/RAs. 
+- Can their pay be on a biweekly basis and not a monthly basis for TAs/RAs. 
 - Concerns on the proposed Tax Bill and how they might be taxed for the tuition waiver benefit.
 - Requested help to estimate their taxes if the bill passed.
 - Students asked if there was a possibility of recording Colloquium.
@@ -37,7 +37,7 @@ layout: post
 
 - Colloquium was highly appreciated.
 
-##Grad Comm Discussions as a follow up of the Town Hall Meeting:
+## Grad Comm Discussions as a follow up of the Town Hall Meeting:
 
 1. Graduate Committee is aware of the Tax Reform Act that is under discussion and the impact it will have on our graduate students. We are monitoring the situation and also looking into what Graduate School and the College plans for this. We will definitely support our students in the best possible ways to mitigate any impacts this change might bring.
 2. Discussed about videotaping graduate student forum. Prashanth has figured out that it is $1 per minute for captioning the videos and the department has approved this expense for Graduate Student Forum videotaping. 
