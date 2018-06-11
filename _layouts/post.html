@@ -1,0 +1,25 @@
+---
+layout: base
+---
+
+<article class="post">
+<div class="container">
+	<div class="row">
+		<div class="col-md-12">
+		<div class="date pull-right">
+				<small>Written on {{ page.date | date: "%B %e, %Y" }}</small>
+		</div>
+		<h1>{{ page.title }}</h1>  
+		</div>
+	</div>
+
+	<div class="row">
+			<div class="col-md-12">
+  			<div class="entry">
+    			{{ content }}
+		  </div>
+		</div>
+	</div>
+
+	
+</article>

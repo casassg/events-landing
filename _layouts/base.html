@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">
-    <link rel="stylesheet" href="assets/css/main.css?_={{ site.time |  date: "%s" }}">
+    <link rel="stylesheet" href={{"assets/css/main.css"|absolute_url}}>
     <meta name="theme-color" content="{{site.accent_color}}">
     <meta name="author" content="{{ site.author }}">
     <link rel="icon" type="image/x-icon" href="favicon.ico"/>
@@ -32,15 +32,15 @@
 
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link href="https://fonts.googleapis.com/css?family=Lato" rel="stylesheet">
-    <link rel="stylesheet" href="assets/lib/font-awesome.min.css">
+    <link rel="stylesheet" href={{"/assets/lib/font-awesome.min.css"|absolute_url}}>
 
 
     <title>{% if page.title %}{{ page.title }} |{% endif %} {{ site.name }}</title>
 </head>
 
-
 <body>
 
+{%include menu.html %}
 {{content}}
 {% include footer.html %}
 
@@ -49,7 +49,7 @@
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"
             integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa"
             crossorigin="anonymous"></script>
-<script src="assets/js/events.js?_={{ site.time |  date: "%s" }}"></script>
+<script src="{{ '/assets/js/events.js' | relative_url}}"></script>
 
 {% unless site.ga == null  %}
     <script async src="https://www.googletagmanager.com/gtag/js?id={{site.ga}}"></script>

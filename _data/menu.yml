@@ -1,0 +1,25 @@
+# This is the list of pages to include in the header of the website.
+
+- name: Home
+  url: /
+
+- name: About
+  subcategories:
+  - name: Officers
+    url: /officers
+  - name: Bylaws
+    url: /bylaws
+
+- name: Newsletter
+  url: /archive
+
+- name: FAQ
+  subcategories:
+#  - name: Graduate Student Handbook
+#    url: 
+  - name: Quality of Life Surveys
+    url: quality_of_life
+#  - name: Course Surveys
+#    url:
+  - name: Graduate Student Town Hall Minutes
+    url: 2018/04/09/Graduate-Student-Town-Hall-2017-Summary-and-Outcomes.html
