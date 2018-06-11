@@ -1,34 +1,60 @@
-#Example ecents
-- name: Graduate Research Expo
-  line: Learn about current student research.
-  date: 2018-04-08 3:30 PM 
-  end-date: 2018-04-08 5:30 PM 
-  location: DLC 1B70
-
-- name: CSGSA Kickoff Social
-  line: We pay for pizza! Let’s get to know each other.
-  date: 2018-04-08 6:00 PM 
-  end-date: 2018-04-08 7:30 PM 
-  location: Backcountry Pizza
-
-- name: Town Hall
-  line: Get your opinion heard by the administration.
-  date: 2018-04-13 3:30 PM 
-  end-date: 2018-04-13 4:30 PM 
-  location: DLC 1B70
+#Example events
+- name: June Monthly Summer Hike (Please RSVP)
+  line: Weather permitting, we will go hiking on the first saturday of every month this summer. Possible destinations include Chatauqua, Sanitas, Green Mountain, and Bear Peak. The routes will be chosen based on the number of participants, so please RSVP. Contact Jessica.Finocchiaro@colorado.edu for more info
+  date: 2018-06-02 9:00 AM 
+  end-date: 2018-06-02 12:00 PM 
+  location: To be announced
   
-- name: "Online Elections: Nominations"
-  line:  Nominate student representatives to faculty committees and executive members of the CSGSA.
-  date: 2018-04-05 1:00 AM 
-  end-date: 2018-04-20 11:59 PM 
-  url: https://cuboulder.qualtrics.com/jfe/form/SV_b7w6enCpABwEyz3
-  location: Online
+- name: Ralphie's Independence Day
+  line: View the forth of July fireworks at Folsom Field! We'll meet outside the stadium near the buffalo statue at 8:30 pm (fireworks start around 9:45 but there is also music and Ralphie first). Text (207)837-1192 if you can't find us. 
+  date: 2018-07-04 8:30 PM 
+  end-date: 2018-07-04 10:30 PM 
+  location: Folsom Field
 
-- name: "Online Elections: Election"
-  line:  Elect student representatives to faculty committees and executive members of the CSGSA.
-  date: 2018-04-23 1:00 AM 
-  end-date: 2018-05-04 11:59 PM 
-  location: Online
+- name: July Monthly Summer Hike (Please RSVP)
+  line: Weather permitting, we will go hiking on the first saturday of every month this summer. Possible destinations include Chatauqua, Sanitas, Green Mountain, and Bear Peak. The routes will be chosen based on the number of participants, so please RSVP. Contact Jessica.Finocchiaro@colorado.edu for more info
+  date: 2018-07-07 9:00 AM 
+  end-date: 2018-07-07 12:00 PM 
+  location: To be announced
+
+- name: World Cup Final Watch Party
+  line: Eat breakfast and watch soccer
+  date: 2018-07-15 9:00 AM 
+  end-date: 2018-07-15 12:00 PM 
+  location: To be announced
   
+- name: August Monthly Summer Hike (Please RSVP)
+  line: Weather permitting, we will go hiking on the first saturday of every month this summer. Possible destinations include Chatauqua, Sanitas, Green Mountain, and Bear Peak. The routes will be chosen based on the number of participants, so please RSVP. Contact Jessica.Finocchiaro@colorado.edu for more info
+  date: 2018-08-04 9:00 AM 
+  end-date: 2018-08-04 12:00 PM 
+  location: To be announced
+  
+- name: CSGSA Happy Hour Twisted Pine
+  line: Contact : Steffen.Hutt@colorado.edu
+  date: 2018-06-19 5:00 PM 
+  end-date: 2018-06-19 6:00 PM  
+  location: Twisted Pine Brewing Co 3201 Walnut St Ste. A, Boulder CO 80301
+  
+- name: CSGSA Happy Hour License No 1
+  line: Contact : Steffen.Hutt@colorado.edu
+  date: 2018-07-06 5:00 PM 
+  end-date: 2018-07-06 6:00 PM  
+  location: License No. 1 2115 13th St, Boulder CO 80302
 
+- name: CSGSA Happy Hour Fate Brewing
+  line: Contact : Steffen.Hutt@colorado.edu
+  date: 2018-07-20 4:30 PM 
+  end-date: 2018-07-20 5:30 PM  
+  location: FATE Brewing Company 1600 38th St, Boulder CO 80301
 
+- name: CSGSA Happy Hour Rayback Collective
+  line: Contact : Steffen.Hutt@colorado.edu
+  date: 2018-08-01 5:00 PM 
+  end-date: 2018-08-01 6:00 PM  
+  location: Rayback Collective 2775 Valmont Rd, Boulder CO 80304
+  
+- name: CSGSA Happy Hour Press Play
+  line: Contact : Steffen.Hutt@colorado.edu
+  date: 2018-08-16 5:00 PM 
+  end-date: 2018-08-16 6:00 PM  
+  location: Press Play Bar 1005 Pearl St, Boulder CO 80302
