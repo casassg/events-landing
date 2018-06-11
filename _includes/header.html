@@ -1,8 +1,10 @@
 <header>
 	<div class="container">
 		<div class="row">
-			<h1> Welcome! </h1>
-			<p class="lead">{{site.author-description}}</p>
+			<div class="col-md-12">
+				<h1> Welcome {{site.name}}! </h1>
+				<p class="lead">{{site.author-description}}</p>
+			</div>
 			<div class="col-md-5">
 				<figure>
 					<img src="{{site.front_photo.photo}}" alt="{{site.front_photo.alt}}" class="logo">
@@ -10,25 +12,28 @@
 				</figure>
 			</div>
 			<div class="col-md-5 col-md-offset-2">
-				<div class="panel panel-default ">
-                    <div class="panel-body">
-                    	{% for point in site.data.what_we_do %}
-							<h2>{{point.title}}</h2>
-							<p>{{point.description}}</p>
-							{%unless forloop.last %}<hr>{%endunless%}
-                    	{% endfor %}
+				<div class="panel panel-default">
+					<div class="panel-body">
+						{% for point in site.data.what_we_do %}
+						<h2>{{point.title}}</h2>
+						<p>{{point.description}}</p>
+						{%unless forloop.last %}
+						<hr>{%endunless%} {% endfor %}
 					</div>
 				</div>
 			</div>
 		</div>
 
-		<div class="row" style="padding:15pt">
-		{% if site.fb-community %}
-					<a class="btn btn-accent btn-block" href="https://facebook.com/groups/{{site.fb-community}}" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i> Join on Facebook</a>
-				{% endif %}
-				{% if site.slack-signup %}
-					<a class="btn btn-accent btn-block" href="{{site.slack-signup}}" target="_blank"><i class="fa fa-slack" aria-hidden="true"></i> Join on Slack</a>
+		<div class="row">
+			<div class="col-md-12">
+				{% if site.fb-community %}
+				<a class="btn btn-accent btn-block" href="https://facebook.com/groups/{{site.fb-community}}" target="_blank">
+					<i class="fa fa-facebook" aria-hidden="true"></i> Join on Facebook</a>
+				{% endif %} {% if site.slack-signup %}
+				<a class="btn btn-accent btn-block" href="{{site.slack-signup}}" target="_blank">
+					<i class="fa fa-slack" aria-hidden="true"></i> Join on Slack</a>
 				{%endif%}
+			</div>
 		</div>
 	</div>
 </header>

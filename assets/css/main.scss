@@ -130,13 +130,17 @@ section.social-media {
 
 
 header {
-    padding-top: 7em;
+    padding-top: 1em;
     padding-bottom: 5em;
     min-height: 80%;
 
     img.logo {
         width: 100%;
         
+    }
+
+    figure img {
+        @include box-shadow(1px 5px 8px 1px rgba(0,0,0,.19));
     }
 
     img.logo, .lead,  .btn {
@@ -383,7 +387,15 @@ section.events{
 .navbar-brand>img {
   height: 100%;
   padding: 0px; /* firefox bug fix */
+  margin-left:10px;
   width: auto;
 }
 
 
+.navbar-default {
+    background-color: rgba(0,0,0,0);
+    border-color: rgba(0,0,0,0);
+    margin-bottom:10px;
+    margin-top:10px;
+    
+}
