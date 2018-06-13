@@ -66,16 +66,18 @@ If you need a preview image please add it to [assets/img/](assets/img/).
 ## Add photo albums to carousel
 
 1. I've been hosting the photo albums on the csgsa@colorado.edu Google Photos account
-2. Add one photo to the [assets/img/](assets/img/) directory as a preview image
-3. Go to [_data/carousel.yml](_data/carousel.yml)
-4. Copy and paste the following text
+2. Add a disclaimer to the album (wherever its hosted)
+> If you'd like your photo removed from this album, please email csgsa@colorado.edu
+3. Add one photo to the [assets/img/](assets/img/) directory as a preview image
+4. Go to [_data/carousel.yml](_data/carousel.yml)
+5. Copy and paste the following text
 ```
 - title: Winter Celebration 2016
   image-url: assets/img/2016wintercel.jpg
   url: https://www.flickr.com/photos/139176861@N07/sets/72157675895676372
 
 ```
-5. Edit the properties as described in the text you just copied
+6. Edit the properties as described in the text you just copied
 
 ## Add a newsletter post
 
