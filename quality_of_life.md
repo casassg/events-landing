@@ -1,8 +1,7 @@
 ---
 layout: page
+title: Quality of Life Survey
 ---
-
-# Quality of Life Survey
 
 In Spring 2018, before we'd even had our kickoff event, the Graduate Committee approached the CSGSA about hosting a “Climate Survey” to assess the social climate of the department. The last climate survey was done in 2014 and was for the whole graduate school. You can read about it [here](https://www.colorado.edu/oda/institutional-research/surveys/social-climate-surveys/graduate-student-social-climate-survey). 
 
