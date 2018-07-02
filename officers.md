@@ -1,8 +1,7 @@
 ---
 layout: page
+title: Officers
 ---
-
-# Officers
 
 ## CSGSA Executive Board 
 
