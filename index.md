@@ -3,6 +3,8 @@ layout: base
 ---
 
 {%include header.html %}
-{%include carousel.html %}
+{%include newsletter.html %}
 {%include weekly.html %}
+{%include carousel.html %}
+
 

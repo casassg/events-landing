@@ -5,8 +5,10 @@ layout: post
 ## Outcomes of  last Town Hall meeting:
 
 - Change in PhD Offer Letter to better reflect the fees and costs.
-- Increase in Graduate Student Social interactions – graduate student forum and tea time
-- Graduate Courses – with the increase in enrollment in our graduate courses we have established a graduate curriculum committee. The committee works to make sure on the quantity and quality of graduate courses offered. We restricted our courses to CS majors to give priority to our students.
+- Increase in Graduate Student Social interactions 
+	– Graduate student forum and tea time
+- Graduate Courses 
+	– With the increase in enrollment in our graduate courses we have established a graduate curriculum committee. The committee works to make sure on the quantity and quality of graduate courses offered. We restricted our courses to CS majors to give priority to our students.
 
 
 ## Summary of 2017 survey

@@ -7,10 +7,12 @@ $background-color: {{site.background_color}};
 // $accent-color: #165E33; 
 // $events-color:#AA504A;
 $accent-color: {{site.accent_color}};
+$accent-color2: black; //{{site.accent_color2}};
 $events-color:{{site.events_overlay_color}};
 // $accent-color: #AA401B;
 // $events-color:#225E50;
-$accent-text-color:white;
+$accent-text-color:black;
+$accent-text-color2:white;
 
 $footer-text: {{site.footer_text_color}};
 
@@ -45,6 +47,7 @@ section.social-media {
 }
 
 .accent-section {
+    @include box-shadow(0 0 2px 2px rgba(0,0,0,.2));
     background-color: $accent-color;
     color: $accent-text-color;
     padding-bottom: 3em;
@@ -62,6 +65,14 @@ section.social-media {
 
         }
     }
+
+   a {
+   	color: $accent-text-color;
+	text-decoration: underline;
+	&:hover {
+            color: rgba($accent-text-color, 0.7);
+        }
+   }
 }
 
 .social-icons  {
@@ -231,8 +242,12 @@ section#carousel {
     padding: 0 !important;
     @include box-shadow(0 0 2px 2px rgba(0,0,0,.2));
     a {
-        text-decoration: none;
+        text-decoration: underline;
         color: white;
+
+	&:hover {
+                color: rgba(white, 0.7);
+            	}
     }
     
     .container-fluid {
@@ -246,6 +261,10 @@ section#carousel {
             object-fit: cover;
         }
     }
+}
+
+iframe {
+ padding-top : 20pt;
 }
 
 section.events{
