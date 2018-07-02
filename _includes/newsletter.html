@@ -9,7 +9,7 @@
 				<h3>{{ post.title }}</h3>
 				</a>
 				<p class="blogdate">{{ post.date | date: "%d %B %Y" }}</p>
-				<div>{{ post.excerpt }} <a href="{{post.url}}">(Read More)</a> </div> 
+				<div>{{ post.excerpt }} <a href="{{post.url |absolute_url}}">(Read More)</a> </div> 
 				
 			{% endfor %}
 		</div>
