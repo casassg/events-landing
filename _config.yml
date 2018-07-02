@@ -22,6 +22,7 @@ events_bg_img: assets/img/people.jpg
 
 # CU THEME
 accent_color: "#cfb87c"
+accent_color2: "#000000"
 events_overlay_color: "#000"
 # END CU THEME
 
