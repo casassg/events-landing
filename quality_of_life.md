@@ -9,10 +9,10 @@ The Graduate Committee was naturally interested in fresher results that would fo
 
 69 students responded to the survey, 27 Masters students, and 42 PhD students. You can read the detailed survey summary 
 
-- [Climate Survey Summary]({% post_url 2018-03-28-Quality-of-Life-Survey-Summary | absolute_url %})
+- [Climate Survey Summary](/landing/{% post_url 2018-03-28-Quality-of-Life-Survey-Summary%})
 
 Or the departments response to the top 15 issues
 
-- [Departmental and CSGSA Response]({% post_url 2018-04-17-Quality-of-Life-Survey-Response | absolute_url %})
+- [Departmental and CSGSA Response](/landing/{% post_url 2018-04-17-Quality-of-Life-Survey-Response %})
 
 The CSGSA is still working on how best to address the issues raised in the survey and support the departments efforts. Join the #qualityoflife [Slack](https://boulder-cs-grads.slack.com/) channel if you  want to share your ideas.
