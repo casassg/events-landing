@@ -5,7 +5,7 @@
 		<div class="col-md-12">
 			<h2> Newsletter </h2>
 			{% for post in site.posts limit:1 %}
-				<a href="{{post.url}}">
+				<a href="{{post.url |absolute_url}}">
 				<h3>{{ post.title }}</h3>
 				</a>
 				<p class="blogdate">{{ post.date | date: "%d %B %Y" }}</p>
