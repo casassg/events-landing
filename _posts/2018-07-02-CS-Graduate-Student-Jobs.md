@@ -20,7 +20,7 @@ text-align:right;
 <table>
   <tr>
     <th>Title</th>
-    <th>Pay</th>
+    <th>Pay (2018-2019)</th>
     <th>Hours (hr/wk)</th>
     <th>Tuition Waiver</th>
     <th>Health Insurance</th>
@@ -28,8 +28,8 @@ text-align:right;
     <th>Courses Taught</th>
   </tr>
   <tr>
-    <td>Research Assistant (RA)</td>
-    <td>$2325.25 / month</td>
+    <td>Research Assistant (RA) at 50% appointment </td>
+    <td>$12,324 / semester*</td>
     <td>20</td>
     <td>X</td>
     <td>X</td>
@@ -37,8 +37,8 @@ text-align:right;
     <td></td>
   </tr>
   <tr>
-    <td>Teaching Assistant (TA)</td>
-    <td>$2325.25 / month</td>
+    <td>Teaching Assistant (TA) at 50% appointment </td>
+    <td>$12,324 / semester*</td>
     <td>20</td>
     <td>X</td>
     <td>X</td>
@@ -48,7 +48,7 @@ text-align:right;
   <tr>
     <td>Graduate Course Assistant (GCA)</td>
     <td>$20 / hr</td>
-    <td>&lt;= 20*</td>
+    <td>&lt;= 20**</td>
     <td></td>
     <td></td>
     <td>Same as TA except will not teach recitation</td>
@@ -57,7 +57,7 @@ text-align:right;
   <tr>
     <td>Grader</td>
     <td>$15 / hr</td>
-    <td>&lt;= 20*</td>
+    <td>&lt;= 20**</td>
     <td></td>
     <td></td>
     <td>Grading only</td>
@@ -65,7 +65,11 @@ text-align:right;
   </tr>
 </table>
 
-'*' GCA and Grader hours depend on course enrollment. 
+'*' This amount is distributed monthly. The fall semester has 4 months, and the spring semester has 5. So the monthly earnings are $3081 and $2465 respectively. Also, post proposal PhD students in the CS department get a raise to $13,053 / semester.
+
+'**' GCA and Grader hours depend on course enrollment. 
+
+There are a few other rarer jobs, such as lead TA and graduate part time instructor (GPTI), but the above are the most common.
 
 # How to get one of these jobs
 
