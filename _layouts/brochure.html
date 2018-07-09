@@ -1,0 +1,34 @@
+---
+layout: base
+---
+
+<style>
+.img-splash {
+width: 100%;
+}
+</style>
+
+<article class="post">
+<div class="container">
+	<div class="row">
+		<div class="col-md-12">
+		<div class="date pull-right">
+				<small>Written on {{ page.date | date: "%B %e, %Y" }}</small>
+		</div>
+		<h1>{{ page.title }}</h1>  
+		</div>
+	</div>
+
+	<div class="row">
+		<div class="col-md-7">
+    			<img src="{{page.img | absolute_url }}" alt="page.img_alt" width="100%">
+		</div>
+		<div class="col-md-5">
+  			<div class="entry">
+    			{{ content }}
+		  	</div>
+		</div>
+	</div>
+
+	
+</article>
