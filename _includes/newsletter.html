@@ -7,13 +7,13 @@
 			{% for post in site.posts limit:1 %}
 				{%if post.img %}
 					<div class="col-md-7">
-    						<img src="{{post.img | absolute_url }}" alt="post.img_alt" width="100%">
+    						<img src="{{post.img | absolute_url }}" alt="{{post.img_alt}}" width="100%">
 					</div>
 					<div class="col-md-5">
 				{%else%}
 					<div class="col-md-12">
 				{%endif%}
-						<a href="{{post.url}}"><h3>{{ post.title }}</h3> </a>
+						<a href="{{post.url | absolute_url}}"><h3>{{ post.title }}</h3> </a>
 						<p class="blogdate">{{ post.date | date: "%d %B %Y" }}</p>
     						
 						<div>
@@ -22,7 +22,7 @@
 							{% else %}
  								{{ post.excerpt }}
 							{% endif %}		
-							<a href="{{post.url}}">(Read More)</a>			
+							<a href="{{post.url | absolute_url}}" class="pull-right">(Read Full Post)</a>		
 						</div>
 					</div>
 			{% endfor %}
@@ -32,10 +32,11 @@
 	<div class="row pt-4">
 			{% for post in site.posts offset:1 limit:2 %}
 				<div class="col-md-4">
-					<a href="{{post.url}}">
+					<a href="{{post.url  | absolute_url}}">
 					<h3>{{ post.title }}</h3>
 					</a>
-					<p class="blogdate">{{ post.date | date: "%d %B %Y" }}</p>							<div>{{ post.excerpt }} <a href="{{post.url}}">(Read More)</a> </div> 
+					<p class="blogdate">{{ post.date | date: "%d %B %Y" }}</p>							
+          <div>{{ post.excerpt }} <a href="{{post.url | absolute_url}}" class="pull-right">(Read Full Post)</a> </div> 
 				</div>	
 			{% endfor %}
 			
@@ -43,7 +44,7 @@
 			<h3>Older Posts</h3>
 
 			{% for post in site.posts offset:3 limit:3 %}
-				<a href="{{post.url}}">
+				<a href="{{post.url  | absolute_url}}">
 				<h4>{{ post.title }}</h4>
 				</a>
 				<p class="blogdate">{{ post.date | date: "%d %B %Y" }}</p>

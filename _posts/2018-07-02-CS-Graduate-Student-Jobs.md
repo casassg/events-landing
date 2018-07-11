@@ -4,7 +4,7 @@ layout: post
 
 This FAQ gives a brief overview of the differences between various jobs offered by the department. It is intended to help students choose between available job options. If you have other questions about jobs, come ask us on [Slack](https://boulder-cs-grads.slack.com/). We'll also update this FAQ periodically. 
 
-# Job Comparison
+## Job Comparison
 
 <style>
 th,td{
@@ -71,7 +71,7 @@ text-align:right;
 
 There are a few other rarer jobs, such as lead TA and graduate part time instructor (GPTI), but the above are the most common.
 
-# How to get one of these jobs
+## How to get one of these jobs
 
 Rajshree sends out a survey about three months before each semester to look for TAs, GCAs, and graders for courses. She then works with the curriculum/TA sub-committee to try and match the respondents with available courses. You can also find out about courses that need TAs, GCAs and graders from Rajshree. For PhD students, your research advisor might occasionally ask you to TA their course.
 
@@ -89,7 +89,7 @@ GCAs and grader positions mostly go to Masters students.
 
 If you want an RA, you need to speak to a professor with research funding and convince them to hire you. For PhD students, the professor who funds your RA is typically your research advisor.
 
-# How many hours will I get?
+## How many hours will I get?
 
 Hours for GCAs and Graders vary based on the enrollment in the courses, and are usually determined just before the start of the semester. In general, more students mean more available hours. For GCA's, the course instructor receives 20 hrs of GCA help per 60 enrolled students.
 
@@ -284,7 +284,7 @@ I went through the historical FCQs of courses being offered Fall 2018 to get an 
   </tr>
 </table>
 
-# Maximum Hours
+## Maximum Hours
 
 The university limits how many hours you can work in university positions:
 
@@ -296,6 +296,6 @@ In addition, if you are an international student, your visa may place limits on 
 
 From [Student Employment FAQs](https://www.colorado.edu/studentemployment/faqs)
 
-# Other On-Campus Jobs
+## Other On-Campus Jobs
 
 Other on-campus jobs are listed at the [Student Employment Office website](https://www.colorado.edu/studentemployment/find-job). These may be especially interesting to you if you are on a F1 or J1 visa, as you can only work on campus.
