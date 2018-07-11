@@ -39,25 +39,6 @@ Deployment is done automatically by [GitHub pages](https://pages.github.com/). Y
 
 # Personalization
 
-## Add an event
-
-1. Go to [_data/events.yml](_data/events.yml)
-2. Copy and paste the following text
-```
-- name: Startups2Students Fall #Event name
-  light_background: True # Optional: only put if image-url is set and image is light
-  image-url: assets/img/startups2students.png # Optional: only if you want a preview image in the heading
-  line: Bridging the gap between students and startups # Small description of event
-  date: 2017-10-19 6:00 PM # Optional: When is the event starting
-  end-date: 2017-10-19 8:00 PM # Optional: When is the event ending, make sure you set it if date is set
-  location: Idea Forge # Optional: Location where the event will be celebrated, set TBD if not sure yet
-  url: https://startups2students.org # Optional: Url with more info about the event
-
-```
-3. Edit the properties as described in the text you just copied
-
-If you need a preview image please add it to [assets/img/](assets/img/). 
-
 ## Update officers list
 
 1. Go to [_data/officers.yml](_data/officers.yml)
@@ -80,10 +61,25 @@ If you need a preview image please add it to [assets/img/](assets/img/).
 6. Edit the properties as described in the text you just copied
 
 ## Add a newsletter post
-
 1. Write a post in markdown
-2. Save to [_posts/YYYY-MM-DD-Title-of-post-seperated-with-dashes.md](_posts/)
-3. It will be added to the newsletter page automatically. 
+2. Add the header 
+```
+---
+layout: post
+---
+```
+3. If you want a image to appear with the excerpt on the front page, use the header
+```
+---
+layout: brochure
+img: /assets/img/<file>
+img_alt: <alt text>
+---
+```
+This will create a post with a two column layout with the image on the left and the text on the right. There is no need to include the image in the markdown. 
+4. The default excerpt shown on the front page is the first paragraph. If you want to have a custom length excerpt, add `<!--more-->` after your desired excerpt. 
+5. Save to [_posts/YYYY-MM-DD-Title-of-post-seperated-with-dashes.md](_posts/)
+6. Posts automatically appear on the front page in the "Newsletter" section in an abbreviated form with a link to the full version. They also are automatically linked to on the archive page. I recommend checking that everything looks right in both locations. 
 
 ## Add/change footer links
 

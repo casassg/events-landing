@@ -17,12 +17,12 @@
 						<p class="blogdate">{{ post.date | date: "%d %B %Y" }}</p>
     						
 						<div>
-							{% if post.content contains '<!--full-->' %}
- 								{{ post.content | split:'<!--full-->' | first }}
+							{% if post.content contains '<!--more-->' %}
+ 								{{ post.content | split:'<!--more-->' | first }}
 							{% else %}
  								{{ post.excerpt }}
-								<a href="{{post.url | absolute_url}}">(Read More)</a>
-							{% endif %}					
+							{% endif %}		
+							<a href="{{post.url | absolute_url}}" class="pull-right">(Read Full Post)</a>		
 						</div>
 					</div>
 			{% endfor %}
@@ -36,7 +36,7 @@
 					<h3>{{ post.title }}</h3>
 					</a>
 					<p class="blogdate">{{ post.date | date: "%d %B %Y" }}</p>							
-          <div>{{ post.excerpt }} <a href="{{post.url | absolute_url}}">(Read More)</a> </div> 
+          <div>{{ post.excerpt }} <a href="{{post.url | absolute_url}}" class="pull-right">(Read Full Post)</a> </div> 
 				</div>	
 			{% endfor %}
 			

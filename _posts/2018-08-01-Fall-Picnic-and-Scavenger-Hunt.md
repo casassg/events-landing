@@ -11,4 +11,4 @@ Start the semester off right with free pizza and a scavenger hunt (with prizes!)
 	- Cosmos Pizza at 5pm 
 	- Scavenger Hunt at 5:30
 
-<!--full-->
+<!--more-->
