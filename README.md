@@ -80,10 +80,25 @@ If you need a preview image please add it to [assets/img/](assets/img/).
 6. Edit the properties as described in the text you just copied
 
 ## Add a newsletter post
-
 1. Write a post in markdown
-2. Save to [_posts/YYYY-MM-DD-Title-of-post-seperated-with-dashes.md](_posts/)
-3. It will be added to the newsletter page automatically. 
+2. Add the header 
+```
+---
+layout: post
+---
+```
+3. If you want a photo to appear with the excerpt on the front page, use
+```
+---
+layout: post
+img: /assets/img/<file>
+img_alt: <alt text>
+---
+```
+You should also place the image where you want it to appear in the markdown version.
+4. The default excerpt shown on the front page is the first paragraph. If you want to have a custom length excerpt, add `<!--more-->` after your desired excerpt. 
+5. Save to [_posts/YYYY-MM-DD-Title-of-post-seperated-with-dashes.md](_posts/)
+6. Posts automatically appear on the front page in the "Newsletter" section in an abbreviated form with a link to the full version. They also are automatically linked to on the archive page. I recommend checking that everything looks right in both locations. 
 
 ## Add/change footer links
 
