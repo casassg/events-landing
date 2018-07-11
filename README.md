@@ -77,6 +77,7 @@ img_alt: <alt text>
 ---
 ```
 This will create a post with a two column layout with the image on the left and the text on the right. There is no need to include the image in the markdown. 
+
 4. The default excerpt shown on the front page is the first paragraph. If you want to have a custom length excerpt, add `<!--more-->` after your desired excerpt. 
 5. Save to [_posts/YYYY-MM-DD-Title-of-post-seperated-with-dashes.md](_posts/)
 6. Posts automatically appear on the front page in the "Newsletter" section in an abbreviated form with a link to the full version. They also are automatically linked to on the archive page. I recommend checking that everything looks right in both locations. 
