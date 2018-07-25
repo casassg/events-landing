@@ -19,6 +19,7 @@ domain: cucsgsa.github.io/landing/
 background_color: "#FAFAFA"
 footer_text_color: "#666666"
 events_bg_img: assets/img/people.jpg
+future: false
 
 # CU THEME
 accent_color: "#cfb87c"
