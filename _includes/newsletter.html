@@ -1,5 +1,4 @@
 <section id="newsletter" class="accent-section">
-
 <div class="container">
 	<div class="row">
 		<div class="col-md-12">
@@ -7,7 +6,8 @@
 			{% for post in site.posts limit:1 %}
 				{%if post.img %}
 					<div class="col-md-7">
-    						<img src="{{post.img | absolute_url }}" alt="{{post.img_alt}}" width="100%">
+						<a href="{{post.url | absolute_url}}">
+    						<img src="{{post.img | absolute_url }}" alt="{{post.img_alt}}" max-height="100%" width="100%"></a>
 					</div>
 					<div class="col-md-5">
 				{%else%}
@@ -21,8 +21,7 @@
  								{{ post.content | split:'<!--more-->' | first }}
 							{% else %}
  								{{ post.excerpt }}
-							{% endif %}		
-							<a href="{{post.url | absolute_url}}" class="pull-right">(Read Full Post)</a>		
+							{% endif %}	
 						</div>
 					</div>
 			{% endfor %}
@@ -36,7 +35,7 @@
 					<h3>{{ post.title }}</h3>
 					</a>
 					<p class="blogdate">{{ post.date | date: "%d %B %Y" }}</p>							
-          <div>{{ post.excerpt }} <a href="{{post.url | absolute_url}}" class="pull-right">(Read Full Post)</a> </div> 
+          <div>{{ post.excerpt }} </div> 
 				</div>	
 			{% endfor %}
 			
