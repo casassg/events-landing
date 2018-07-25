@@ -1,5 +1,6 @@
 ---
 layout: post
+title: CS Graduate Student Jobs
 ---
 
 This FAQ gives a brief overview of the differences between various jobs offered by the department. It is intended to help students choose between available job options. If you have other questions about jobs, come ask us on [Slack](https://boulder-cs-grads.slack.com/). We'll also update this FAQ periodically. 
