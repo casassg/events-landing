@@ -2,6 +2,7 @@
 layout: brochure
 img: /assets/img/scavenger_hunt.svg
 img_alt: Maze with graduate school clip art
+title: Fall Picnic and Scavenger Hunt
 ---
 
 Start the semester off right with free pizza and a scavenger hunt (with prizes!) meet new and current students. 
