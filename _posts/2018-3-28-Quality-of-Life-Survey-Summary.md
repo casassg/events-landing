@@ -1,8 +1,7 @@
 ---
 layout: post
+author: Cecilia Mauceri and Stephen Hutt
 ---
-
-Document prepared by: Cecilia Mauceri and Stephen Hutt
 
 ## RESPONSE OVERVIEW
 

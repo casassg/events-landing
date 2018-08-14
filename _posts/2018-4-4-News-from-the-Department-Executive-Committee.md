@@ -1,5 +1,6 @@
 ---
 layout: post
+author: Cecilia Mauceri (Student Representative to the Executive Committee)
 ---
 
 Student Representative: Cecilia Mauceri

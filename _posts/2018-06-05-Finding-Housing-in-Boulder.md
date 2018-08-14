@@ -1,5 +1,6 @@
 ---
 layout: post
+author: Cecilia Mauceri
 ---
 
 As you plan your move to Boulder, a place to live is probably high on your priority list. It’s possible to find vacant apartments at any time of year, but for leases starting at the beginning of Fall semester, it’s good to start looking as soon as possible to find the best deals. As you start or finish your search for housing for next semester, here are some resources to keep in mind. 

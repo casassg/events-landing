@@ -9,7 +9,10 @@ layout: base
 		<div class="date pull-right">
 				<small>Written on {{ page.date | date: "%B %e, %Y" }}</small>
 		</div>
-		<h1>{{ page.title }}</h1>  
+		<h1>{{ page.title }}</h1>
+		{% if page.author %}
+		<p>By {{ page.author }}</p>  
+		{% endif %}
 		</div>
 	</div>
 
