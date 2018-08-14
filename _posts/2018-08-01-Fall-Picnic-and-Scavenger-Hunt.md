@@ -5,7 +5,7 @@ img_alt: Maze with graduate school clip art
 title: Fall Picnic and Scavenger Hunt
 ---
 
-Start the semester off right with free pizza and a scavenger hunt (with prizes!) meet new and current students. 
+Start the semester off right on August 23rd with free pizza and a scavenger hunt (with prizes!) 
 
 - Where : Courtyard underneath Engineering Center Lobby (Rain location is ECCR 265)
 - When : Thursday, August 23
