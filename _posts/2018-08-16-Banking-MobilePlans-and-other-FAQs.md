@@ -12,33 +12,30 @@ author: Prasanth Prahladan
 
 
 
-##Arriving in Boulder:
-
-It'd help to prepare a chart and share it on the Slack-Channel, or send via mail to all the incoming students. So that they can provide their travel details, ( Flight Number, Time of Arrival, Port of Arrival, Country of Departure). The students can then communicate with each other and coordinate themselves. 
-
-Further, we can also, have a list of current-students volunteer to pick up these groups of students from the DIA Airport, and welcome them to University. 
+## Arriving in Boulder:
+We can prepare a list of current-students volunteers to pick up groups of incoming students from the DIA Airport, and welcome them to University. 
 
 Boulder-DIA RTD Bus: 
-$4.5(one way) or $9(day pass) - + $1-2 tip for baggage handling. 
+$4.5(one way) or $9(day pass) + $1-2 tip to the driver for handling the baggage. 
 
-The earlier the students communicate, the easier it becomes for them to make friends and socialize with the students from different countries. Social-dynamics usually leads to formation of cliques, closed friend-circles within the first 2-3 weeks of arrival. 
+The earlier the students communicate with their peers, the easier it becomes for them to make friends and socialize with the students from different countries. Social-dynamics usually leads to formation of cliques within the first 2-3 weeks of arrival. It becomes harder for some students to find friends, if they haven't had the opportunity to interact, meet new people in the first few days of their arrival. 
 
-It becomes harder for some students to find friends, if they haven't had the opportunity to interact, meet new people in the first few days of their arrival. 
+The group-based meet-and-greet and pickup events would help formation of friends across areas of specialization.
 
 
-##Temporary Stay at someone's home until finding permanent housing
+## Temporary Stay at someone's home until finding permanent housing
 
 It was difficult for me to search for accomodation in Boulder, while I was in India. I'd decided to come to Boulder, stay somewhere temporarily, visit different real-estate agents and then take a decision. 
 
-One of the current-students let me crash at his place ( basically a Couch-Surfer style arrangement ) for about 2 week, without having to pay for the place, or even food for a day or two. I believe students from other countries would be facing similar challenges.  
+One of the current-students let me crash at his place ( basically a Couch-Surfer style arrangement ) for about 2 weeks. He was generous enough to let me stay as a non-paying guest. I believe students from other countries would be facing similar challenges.  
 
-Further, I wasn't aware that I could have applied for family-housing before I reached at Boulder. And hence, I would strongly advice all the incoming students to send in their applications asap. 
+Further, I wasn't aware that I could have applied for family-housing before I reached Boulder. The waiting-queues for the Graduate Housing applications is really long and it takes about a year or more to get an apartment assigned to an individual. And hence, I would strongly advice all the incoming students to send in their applications asap. 
 
-With that said, we will need to collect a list of student who haven't obtained housing and then help them find a place to stay temporarily. The hosts have the option to determine the conditions under which they shall host the incoming student: with/without payment for the space, etc. 
+With that said, it might help to encourage students to use the housing-channel within our Slack-page to search for other room-mates. 
 
 
 ## Mobile Phone Service:
-The cheapest service was the T-mobile Family plan, which amounted to about 25/month per person, with about  5people in a plan. 
+The cheapest service was the T-mobile Family plan, which amounted to about $23-25/month per person, with about  5people in a plan. 
 
 However, the AT&T service was more reliable. However, a student really doesn't need the data-plans, as one is mostly limited to the University campus, where there's free wifi. And at home, most folks would be paying for a broadband connection. 
 
@@ -48,31 +45,31 @@ Mint Mobile ($15/month with 2gb of data) and before that I had H2O wireless (pay
 You can find an enumeration of these providers [here](https://en.wikipedia.org/wiki/List_of_United_States_mobile_virtual_network_operators)
 
 
-##Insurance:
+## Insurance:
 
 It would help to survey the current international students and determine what plans they were using. Many of them might not have opted for the Gold Insurance Plan. However, this plan helped me, as they cater to injuries/etc one might have while undertaking adventure-sports like skiing, etc. 
-Further, one can get all the vaccinations done, with no cost at Wardenburg, if you're on the Gold Plan. 
+Further, if you're on the Gold Plan, you can get all the vaccinations done at no extra cost at Wardenburg.
 
-##Banking: 
+## Banking: 
 
-###Wells Fargo : 
+### Wells Fargo : 
 Opens 3 accounts for each person, with as little as 10$ deposit. To keep the account free, one has to use the debit card about 10 times in each month, or have a monthly income being deposited into their account. Else, you are charged a maintenance fee of 35$. 
 
-###Chase Bank: 
-Better to have this account, if you'll be travelling around the country. They have a lot more ATMs, and the company has a better reputation. The only requirement is that they need a fixed deposit of $1,500 in the savings account, to continue to have the account maintained with no fee. 
+### Chase Bank: 
+Better to have this account, if you'll be travelling around the country. They have a lot more ATMs across the North-East and North-West. The only requirement is that they need a fixed deposit of $1,500 in the checking account with one direct-deposit, to continue to have the account maintained with no fee. 
 
-###Ally Bank, and other Online Banks: 
+### Ally Bank, and other Online Banks: 
 There are banking services that do not have a physical footprint/office, but you can register with them online and create accounts. Their debit-cards can be used with at any-banks ATM, and they shall refund any charges that were applied to your account for these transactions. 
 
 
 
 ## International Money Transfer: 
 
-###Services: 
+### Services: 
 Transferwise, WesternUnion, Remitly, etc 
 Compare and check these services for the rates they provide. 
 
-###Banks: 
+### Banks: 
 The banks often charge a fixed amount for any wire-transfer. Some banks might have a tie-up with some banks from your country-of-origin, and may provide the service at a lesser fee. But, you will have to inquire with them. 
 
 
