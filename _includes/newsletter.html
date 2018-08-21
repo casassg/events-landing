@@ -11,7 +11,7 @@
 				<a href="{{post.url  | relative_url}}">
 					<h3>{{ post.title }}</h3>
 				</a>
-				<p class="blogdate">{{ post.date | date: "%d %B %Y" }}</p>							
+				<small class="blogdate">{{ post.date | date: "%d %B %Y" }}</small>							
 				<div>{{ post.excerpt }} </div>
 				<a href="{{post.url  | relative_url}}">
 					<small>Read more</small>
@@ -19,13 +19,16 @@
 			</div>	
 		{% endfor %}
 		<div class="col-md-4">
-			<h3><a href="{{"/archive" | relative_url}}">Older Posts</a></h3>
-			{% for post in site.posts offset:3 limit:3 %}
-				<a href="{{post.url  | relative_url}}">
-					<h4>{{ post.title }}</h4>
-				</a>
-				<p class="blogdate">{{ post.date | date: "%d %B %Y" }}</p>
+			<h3>Older Posts</h3>
+			{% for post in site.posts offset:2 limit:4 %}
+				<p>
+					<a href="{{post.url  | relative_url}}">
+						<h4>{{ post.title }}</h4>
+					</a>
+					<small class="blogdate">{{ post.date | date: "%d %B %Y" }}</small>
+				</p>
 			{% endfor %}
+			<small><a href="{{"/archive" | relative_url}}">more posts</a></small>
 	
 		</div>
 	</div>
