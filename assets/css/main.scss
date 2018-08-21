@@ -11,7 +11,7 @@ $accent-color2: black; //{{site.accent_color2}};
 $events-color:{{site.events_overlay_color}};
 // $accent-color: #AA401B;
 // $events-color:#225E50;
-$accent-text-color:black;
+$accent-text-color:white;
 $accent-text-color2:white;
 
 $footer-text: {{site.footer_text_color}};
@@ -117,7 +117,7 @@ section.social-media {
 
     &.btn-accent {
         font-size: 1.2em;
-        color: black;
+        color: $accent-text-color;
         background-color: $accent-color;
         border-color: $accent-color;
 
@@ -138,7 +138,9 @@ section.social-media {
 }
 
 
-
+.blogdate {
+    font-style: italic;
+}
 
 header {
     padding-top: 1em;

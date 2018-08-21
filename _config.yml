@@ -22,7 +22,7 @@ events_bg_img: assets/img/people.jpg
 future: false
 
 # CU THEME
-accent_color: "#cfb87c"
+accent_color: "#344882"
 accent_color2: "#000000"
 events_overlay_color: "#000"
 # END CU THEME
