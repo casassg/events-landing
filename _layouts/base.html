@@ -3,11 +3,11 @@
 <head>
     <meta charset="UTF-8">
     <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">
-    <link rel="stylesheet" href={{"assets/css/main.css"|absolute_url}}>
+    <link rel="stylesheet" href="{{"assets/css/main.css"|absolute_url}}?_={{ site.time |  date: '%s' }}">
     <meta name="theme-color" content="{{site.accent_color}}">
     <meta name="author" content="{{ site.author }}">
-    <link rel="icon" type="image/x-icon" href="favicon.ico"/>
-    <link rel="icon" href="favicon.png" type="image/png">
+    <link rel="icon" type="image/x-icon" href="{{ "/favicon.ico" | absolute_url}}"/>
+    <link rel="icon" href="{{ "/favicon.png" | absolute_url}}" type="image/png">
     <meta name="description" content="{{ page.description | default: site.description  }}">
 
     <!-- Global site tag (gtag.js) - Google Analytics -->
