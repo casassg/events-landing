@@ -10,8 +10,8 @@
 				<span class="icon-bar"></span>
 				<span class="icon-bar"></span>
 				</button>
-				<a class="navbar-brand" href="{{'/'|absolute_url}}">
-					<img src="{{site.logo | absolute_url}}" class="logo" alt="Computer Science Graduate Student Association">
+				<a class="navbar-brand" href="{{'/'|relative_url}}">
+					<img src="{{site.logo | relative_url}}" class="logo" alt="Computer Science Graduate Student Association">
 				</a>
 			</div>
 		
@@ -27,13 +27,13 @@
 								</a>
 								<ul class="dropdown-menu">
 									{% for sub in link.subcategories %}
-										<li><a href="{{ sub.url|absolute_url}}">{{sub.name}}</a></li>
+										<li><a href="{{ sub.url | relative_url}}">{{sub.name}}</a></li>
 									{%endfor%}
 								</ul>
 							</li>
 
 						{%else%}
-							<li><a href="{{ link.url|absolute_url}}">{{ link.name|upcase }}</a></li>
+							<li><a href="{{ link.url|relative_url}}">{{ link.name|upcase }}</a></li>
 						{%endif%}
 					{%endfor%}
 				</ul>

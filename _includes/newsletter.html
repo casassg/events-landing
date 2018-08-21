@@ -8,20 +8,20 @@
 	<div class="row">
 		{% for post in site.posts limit:2 %}
 			<div class="col-md-4">
-				<a href="{{post.url  | absolute_url}}">
+				<a href="{{post.url  | relative_url}}">
 					<h3>{{ post.title }}</h3>
 				</a>
 				<p class="blogdate">{{ post.date | date: "%d %B %Y" }}</p>							
 				<div>{{ post.excerpt }} </div>
-				<a href="{{post.url  | absolute_url}}">
+				<a href="{{post.url  | relative_url}}">
 					<small>Read more</small>
 				</a> 
 			</div>	
 		{% endfor %}
 		<div class="col-md-4">
-			<h3><a href="{{"/archive" | absolute_url}}">Older Posts</a></h3>
+			<h3><a href="{{"/archive" | relative_url}}">Older Posts</a></h3>
 			{% for post in site.posts offset:3 limit:3 %}
-				<a href="{{post.url  | absolute_url}}">
+				<a href="{{post.url  | relative_url}}">
 					<h4>{{ post.title }}</h4>
 				</a>
 				<p class="blogdate">{{ post.date | date: "%d %B %Y" }}</p>
