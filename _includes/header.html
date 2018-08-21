@@ -3,7 +3,7 @@
 		<div class="row">
 			<div class="col-md-12">
 				<h1> Welcome {{site.name}}! </h1>
-				<p class="lead">{{site.author-description}}</p>
+				<p class="lead"> {{site.author-description | markdownify | remove: '<p>' | remove: '</p>'}}</p>
 			</div>
 			<div class="col-md-5">
 				<figure>
