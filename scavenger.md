@@ -3,19 +3,15 @@ layout: page
 title: 2018 Welcome CS Grad Scavenger Hunt
 ---
 
-Get ready to join the 2018 Scavenger Hunt. Solve the anagrams by finding the location shown in the image. Look around to find a text that is an anagram.
+<p class="lead">Get ready to join the 2018 Scavenger Hunt. Solve the anagrams by finding the location shown in the image. Look around to find a text that is an anagram.</p>
 
-Once you are done. Submit your answers into the form.
+<p class="lead">Once you are done, send your answers in the button below.</p>
 
-<div class="row">
-  <div class="col-md-12">
-    <a class="btn btn-accent btn-block" href="https://docs.google.com/forms/d/e/1FAIpQLSfylJB-yEkgG4uSyBmMKF8G77HSkaKPsQnMx3iRgJ2elW75zw/viewform?usp=sf_link" target="_blank">
-      Submit final form
-    </a>
-  </div>
-</div>
+
 
 ## Anagrams and clues
+
+Each image has an anagram assigned. Find the picture location to solve the anagram. 
 
 <section id="carousel" class="accent-section">
 
@@ -56,3 +52,16 @@ Once you are done. Submit your answers into the form.
   </section>
 
 Check out the full version of the images [here](https://www.dropbox.com/sh/5x7xcddt67m8xst/AABIBsLEt0_B1E1UX9bF2sM1a?dl=0).
+
+
+## End form
+
+Done already? Send your answers here.
+
+<div class="row">
+  <div class="col-md-5">
+    <a class="btn btn-accent btn-block" href="https://docs.google.com/forms/d/e/1FAIpQLSfylJB-yEkgG4uSyBmMKF8G77HSkaKPsQnMx3iRgJ2elW75zw/viewform?usp=sf_link" target="_blank">
+      Send answers
+    </a>
+  </div>
+</div>
