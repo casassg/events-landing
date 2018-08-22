@@ -16,7 +16,7 @@ Each image has an anagram assigned. Find the picture location to solve the anagr
 <section id="carousel" class="accent-section">
 
     <div class="container-fluid">
-      <div id="myCarousel" class="carousel slide" data-ride="carousel">
+      <div id="myCarousel" class="carousel slide" data-ride="carousel" data-interval="false">
         <!-- Indicators -->
         <ol class="carousel-indicators">
           {% for item in site.data.anagrams %}
