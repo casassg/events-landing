@@ -22,15 +22,15 @@ events_bg_img: assets/img/people.jpg
 future: false
 
 # CU THEME
-accent_color: "#cfb87c"
+accent_color: "#344882"
 accent_color2: "#000000"
 events_overlay_color: "#000"
 # END CU THEME
 
 # Author variables
 author: CS Graduate Student Association at CU
-author-description: "The Computer Science Graduate Students Association (CSGSA) is a student organization run by and for graduate students from the Computer Science Department at CU Boulder. Its main goal is to foster community amongst graduate students in the Department of Computer Science and other affiliated departments/institutes. 
-To encourage such community, the CSGSA will arrange social events, professional development events, and serve as a central forum of representation for graduate students, representing graduate students’ interests to the department and broader university administration. In addition the CSGSA will inform and support graduate students throughout their program of study."
+author-description: "The Computer Science Graduate Students Association (CSGSA) is a student organization run by and for graduate students from the Computer Science Department at CU Boulder. Its main goal is to **foster community** amongst graduate students in the Department of Computer Science and other affiliated departments/institutes. 
+To encourage such community, the CSGSA will arrange **social events, professional development events**, and serve as a **central forum of representation** for graduate students, representing graduate students’ interests to the department and broader university administration. In addition the CSGSA will **inform and support graduate students** throughout their program of study."
 email: csgsa@colorado.edu
 
 # Social media + community variables

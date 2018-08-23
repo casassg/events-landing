@@ -3,21 +3,21 @@
 <head>
     <meta charset="UTF-8">
     <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">
-    <link rel="stylesheet" href={{"assets/css/main.css"|absolute_url}}>
+    <link rel="stylesheet" href="{{"assets/css/main.css"| relative_url}}?_={{ site.time |  date: '%s' }}">
     <meta name="theme-color" content="{{site.accent_color}}">
     <meta name="author" content="{{ site.author }}">
-    <link rel="icon" type="image/x-icon" href="favicon.ico"/>
-    <link rel="icon" href="favicon.png" type="image/png">
+    <link rel="icon" type="image/x-icon" href="{{ "/favicon.ico" | relative_url}}"/>
+    <link rel="icon" href="{{ "/favicon.png" | relative_url}}" type="image/png">
     <meta name="description" content="{{ page.description | default: site.description  }}">
 
     <!-- Global site tag (gtag.js) - Google Analytics -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-124020195-1"></script>
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-124439187-1"></script>
     <script>
         window.dataLayer = window.dataLayer || [];
         function gtag(){dataLayer.push(arguments);}
         gtag('js', new Date());
 
-        gtag('config', 'UA-124020195-1');
+        gtag('config', 'UA-124439187-1');
     </script>
 
     <!--FACEBOOK DESCRIPTION -->
@@ -41,7 +41,7 @@
 
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link href="https://fonts.googleapis.com/css?family=Lato" rel="stylesheet">
-    <link rel="stylesheet" href={{"/assets/lib/font-awesome.min.css"|absolute_url}}>
+    <link rel="stylesheet" href={{"/assets/lib/font-awesome.min.css"|relative_url}}>
 
 
     <title>{% if page.title %}{{ page.title }} |{% endif %} {{ site.name }}</title>
