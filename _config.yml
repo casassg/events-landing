@@ -52,6 +52,7 @@ slack-signup: https://slack.hackcu.org
 
 instagram: hackcu
 github-org: hackcu
+email-url: https://api.hackcu.org/sendgrid/events/
 
 
 

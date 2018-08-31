@@ -32,22 +32,7 @@ layout: base
         <div class="row text-center">
             <div class="email-sub col-md-4 col-md-offset-4">
                 <a class="btn btn-accent calendar biko" href="https://calendar.google.com/calendar/r?cid=webcal://{{ site.domain }}/calendars/events.ics" target="_blank">Add events to Google Calendar</a>
-                <h2 class="text-center white-text biko">Don't miss out!</h2>
-                <h4 class="text-center white-text" style="display: inline-block;">Subscribe to be notified of upcoming events!</h4>
-                <form id="email-form" accept-charset="utf-8">
-                    <div class="input-group">
-                        <input id="email-input" type="email" class="form-control" name="email" placeholder="ralphie@colorado.edu">                        
-                        <span class="input-group-btn">
-                            <button id="email-submit" class="btn btn-success" type="submit"><i class="fa fa-paper-plane"></i></button>
-                        </span>
-                    </div>
-                    <div id="email-success" class="notice-message">
-                        <p>Thanks for subscribing! We're excited to see you soon!</p>
-                    </div>
-                    <div id="email-failure" class="notice-message">
-                        <p>Hmmm... something went wrong. Try again, and <a href="mailto:contact@hackcu.org">let us know</a> if this persists..</p>
-                    </div>
-                </form>
+                {% include email.html %}
             </div>
         </div>
     </div>
