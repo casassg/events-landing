@@ -15,15 +15,16 @@
 
 - name: FAQ
   subcategories:
-#  - name: Graduate Student Handbook
-#    url: 
-  - name: Quality of Life Survey
+  - name: Graduate Student Handbook
+    external: https://www.colorado.edu/cs/current-students/graduate-students
+  - name: Reporting and Support Resources
+    external: https://www.colorado.edu/dontignoreit
+  - name: Quality of Life
     url: quality_of_life
 #  - name: Course Surveys
 #    url:
-  - name: Graduate Student Town Hall Minutes
-    url: 2018/04/09/Graduate-Student-Town-Hall-2017-Summary-and-Outcomes.html
-  - name: Housing in Boulder
-    url: 2018/06/05/Finding-Housing-in-Boulder.html
+
+  - name: Moving to Boulder
+    url: moving
   - name: Grad Student Jobs
     url: 2018/07/02/CS-Graduate-Student-Jobs.html

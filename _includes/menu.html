@@ -27,7 +27,11 @@
 								</a>
 								<ul class="dropdown-menu">
 									{% for sub in link.subcategories %}
-										<li><a href="{{ sub.url | relative_url}}">{{sub.name}}</a></li>
+										{%if sub.external%}
+											<li><a href="{{ sub.external}}">{{sub.name}}</a></li>
+										{%else%}
+											<li><a href="{{ sub.url | relative_url}}">{{sub.name}}</a></li>
+										{%endif%}
 									{%endfor%}
 								</ul>
 							</li>
