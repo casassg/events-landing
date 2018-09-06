@@ -3,8 +3,6 @@ layout: post
 author: Cecilia Mauceri (Student Representative to the Executive Committee)
 ---
 
-Student Representative: Cecilia Mauceri
-
 ## Academic Review and Planning Document
 
 Every few years, the department goes through an internal review procedure which involves a self-searching profile of the department, a development plan for the next five to seven years, and a request for resources. This academic year, 2017-2018, the CS department is undergoing this process. I was asked to help write the section of the document on "Enhancing Graduate Education". 
