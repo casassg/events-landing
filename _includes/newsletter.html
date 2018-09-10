@@ -20,7 +20,7 @@
 		{% endfor %}
 		<div class="col-md-4">
 			<h3>Older Posts</h3>
-			{% for post in site.posts offset:2 limit:4 %}
+			{% for post in site.posts offset:2 limit:2 %}
 				<p>
 					<a href="{{post.url  | relative_url}}">
 						<h4>{{ post.title }}</h4>

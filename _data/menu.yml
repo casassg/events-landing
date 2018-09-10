@@ -13,11 +13,11 @@
 - name: Newsletter
   url: /archive
 
-- name: FAQ
+- name: Resources and FAQ
   subcategories:
   - name: Graduate Student Handbook
     external: https://www.colorado.edu/cs/current-students/graduate-students
-  - name: Reporting and Support Resources
+  - name: Don't Ignore It (Reporting and Support)
     external: https://www.colorado.edu/dontignoreit
   - name: Quality of Life
     url: quality_of_life
