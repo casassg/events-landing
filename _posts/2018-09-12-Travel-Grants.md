@@ -25,8 +25,6 @@ Some conferences or professional societies (like IEEE) also offer travel grants 
 ## Grants
 Apply for all the grants that you are eligible for to cover as much of your travel expenses as possible. One grant typically will not cover all your expenses. 
 
-None of the following grants have restrictions on how many travel awards you can receive for the same travel from different sources.
-
 There are four main sources of travel grants available to CS graduate students. 
 
 <details><summary markdown="span">Graduate School Travel Grants</summary>
