@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Travel Grants
+author: Cecilia Mauceri
 ---
 
 So you've been accepted as a presenter at a conference, or you just want to go to further your knowledge of the field. This FAQ lays out the process for getting funding.  
@@ -28,6 +29,7 @@ Apply for all the grants that you are eligible for to cover as much of your trav
 There are four main sources of travel grants available to CS graduate students. 
 
 <details><summary markdown="span">Graduate School Travel Grants</summary>
+<div class="tip" markdown="1">
 
 **[Website](https://www.colorado.edu/graduateschool/awards#Grad_Travel_Grant)**
 
@@ -55,11 +57,13 @@ Eligibility :
 - Masters students can receive travel funding once
 - PhD students can receive funding twice
 
+</div>
 </details>
 
 ------------
 
 <details><summary markdown="span">Computer Science Department Travel Grants </summary>
+<div class="tip" markdown="1"> 
 
 **[Website](https://www.colorado.edu/cs/current-students/graduate-students/funding-opportunities)**
 
@@ -78,11 +82,13 @@ Eligibility :
 - Students can receive funding once per year
 - Recommended that you first apply for a Graduate School Grant (see above)
 
+</div>
 </details>
 
 -----------
 
 <details><summary markdown="span">UGGs Travel Grants</summary>
+<div class="tip" markdown="1">
 
 **[Website](https://www.colorado.edu/uggs/grants)**
 
@@ -105,11 +111,13 @@ Eligibility :
 - International students check [here](https://orgsync.com/149529/files/1490222/show)
 - Students can only receive travel funding once.
 
+</div>
 </details>
 
 -----------
 
 <details><summary markdown="span">Dean of the College of Engineering and Applied Science Matching Funds</summary>
+<div class="tip" markdown="1">
 
 **[Website](https://www.colorado.edu/engineering-facultystaff/sites/default/files/attached-files/deans_matching_grant_for_student_travel.pdf)**
 
@@ -133,6 +141,7 @@ Eligibility :
 - Must be receiving funding from the department or your advisor
 - Students can receive funding once per year
 
+</div>
 </details>
 
 ---------

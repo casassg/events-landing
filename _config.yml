@@ -1,7 +1,3 @@
-markdown: kramdown
-kramdown:
-  parse_block_html: true
-
 # PERSONALIZATION
 # Site variables
 name: CS Graduate Student Association at CU
