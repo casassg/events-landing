@@ -1,6 +1,6 @@
 - name: HackUPC Winter 2017
   line: BarcelonaTech's hackathon. 500 hackers. 36h. March 3rd-5th
-  image-url: assets/img/hackupcwinter2017.png
+  # image-url: assets/img/hackupcwinter2017.png
   date: 2017-03-03 3:00 PM 
   end-date: 2017-03-05 4:30 PM 
   location: Campus Nord
@@ -15,7 +15,7 @@
 
 - name: HackUPC Fall 2017
   line: BarcelonaTech's hackathon. 700 hackers. 36h. Oct 13th-15th.
-  image-url: assets/img/hackupcfall2017.png
+  # image-url: assets/img/hackupcfall2017.png
   date: 2017-10-13 3:00 PM 
   end-date: 2017-10-15 4:30 PM 
   location: Campus Nord
@@ -35,7 +35,7 @@
   location: A6101
   url: https://www.facebook.com/events/878540245651285/
 
-- name: HackNight I
+- name: HackNight Beta
   line: Spend a night hacking in good company
   date: 2018-05-25 8:00 PM
   end-date: 2018-05-26 8:00 AM

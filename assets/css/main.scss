@@ -14,11 +14,6 @@ $accent-text-color:white;
 
 $footer-text: {{site.footer_text_color}};
 
-@font-face {
-    font-family: Biko;
-    src: url('../fonts/Biko_Regular.otf');
-}
-
 html { height: 100%; width: 100% }
 
 body {
@@ -27,17 +22,11 @@ body {
     font-size: 1.6em;
     height: 100%;
     width: 100%;
-    font-family: "Lato", Helvetica, sans-serif;
-
+    font-family: 'Montserrat', sans-serif;
 }
 
 h1,h2,h3,h4,h5 {
-    font-family: "Biko", Helvetica, sans-serif;
-
-}
-
-.biko {
-    font-family: "Biko", Helvetica, sans-serif;
+    font-family: 'Montserrat', sans-serif;
 }
 
 section.social-media {
@@ -225,7 +214,7 @@ section {
 
 
 section.events{
-    background: linear-gradient( rgba($events-color, 0.75), rgba($events-color, 0.75) ), url(../../{{site.events_bg_img}}) no-repeat center center/cover;
+    background: rgba($events-color, 0.75);
    
 
     h2 {
@@ -340,9 +329,16 @@ section.events{
 
     .calendar {
         margin: 0 auto;
-        width: 300px;
+        width: 320px;
     }
     
+    .margin-top {
+        padding-top: 20px;
+    }
+
+    .margin-bottom {
+        padding-bottom: 20px;
+    }
 
 }
 

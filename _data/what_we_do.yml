@@ -1,8 +1,10 @@
 - title: Workshops
-  description: "We teach how to use technologies to create, manage and successfully develop your personal projects. Our aim is to allow you to create something by the end of each workshop."
+  description: We teach how to use technologies to create, manage and successfully develop your personal projects. Our aim is to allow you to create something by the end of each workshop.
 - title: Talks
   description: We organize talks to help you make your CV, to encourage you to travel to other hackathons, to help you do Google Summer of Code and more!
 - title: HackUPC
-  description: "Twice a year, we bring together people of all experience levels, majors and backgrounds to UPC. HackUPC provides the space and the resources for you to express your creativity, ingenuity, and determination to create anything you want to."
+  description: Once a year at Fall, we bring together people of all experience levels, majors and backgrounds to UPC. HackUPC provides the space and the resources for you to express your creativity, ingenuity, and determination to create anything you want to.
+- title: HackNights
+  description: 12 hours hackathons league during the course. Smaller and closer hackathons for all kind of profiles.
 - title: Travel to hackathons as a group
   description: Through our facebook group we help organize hackers that want to attend hackathons all around the world.
