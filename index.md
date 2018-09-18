@@ -7,7 +7,7 @@ layout: base
 <section class="events">
     <div class="container">
         <div class="row">
-            <h2 class="text-center">Our events</h2>
+            <h2 class="text-center white-text">Our events</h2>
             {% assign sorted = site.data.events | sort: 'date','last' %}
             {% for event in sorted %}               
                 <div class="col-sm-6 col-md-4 ">

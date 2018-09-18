@@ -13,7 +13,7 @@ domain: hackersatupc.org
 
 # Style variables
 accent_color: "#303AB2"
-events_overlay_color: "#ADB1E9"
+events_overlay_color: "#000000"
 background_color: "#FAFAFA"
 footer_text_color: "#666666"
 
