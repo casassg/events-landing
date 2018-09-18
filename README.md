@@ -1,6 +1,6 @@
 <br>
 <p align="center">
-  <img alt="Hackers@UPC" src="assets/img/logo.png" width="200"/>
+  <img alt="Hackers@UPC" src="assets/img/logo.png" width="500"/>
 </p>
 <br>
 
