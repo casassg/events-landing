@@ -6,12 +6,13 @@
   location: Idea Forge
   url: http://startups2students.org
 
-# - name: Introduction to Git/GitHub
-#   line: Learn how to use Git from its basics. Pizza and GitHub swag provided.
-#   date: 2017-10-25 5:30 PM 
-#   end-date: 2017-10-25 7:30 PM 
-#   location: Wolf Law 206
-#   url: https://www.facebook.com/events/147776512500472/
+- name: Phase
+  image-url: assets/img/phase.png
+  line: 16h hardware hackathon
+  date: 2018-11-10 7:00 AM 
+  end-date: 2018-11-11 2:30 AM 
+  location: Idea Forge
+  url: https://phase.hackcu.org
 
 # - name: Boulder Hacktoberfest
 #   image-url: assets/img/hacktoberfest.png
