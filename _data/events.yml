@@ -1,44 +1,96 @@
-- name: HackUPC Winter 2017
-  line: BarcelonaTech's hackathon. 500 hackers. 36h. March 3rd-5th
-  image-url: assets/img/hackupcwinter2017.png
-  date: 2017-03-03 3:00 PM 
-  end-date: 2017-03-05 4:30 PM 
-  location: Campus Nord
-  url: https://w2017.hackupc.com
+#- name: HackUPC Spring 2016
+#  line: BarcelonaTech's hackathon. 400 hackers. 36h. February 19th-21st
+#  image-url: assets/img/hackupcwinter2016.png
+#  date: 2016-02-19 3:00 PM 
+#  end-date: 2016-02-21 4:30 PM 
+#  location: Campus Nord
+#  url: https://s2016.hackupc.com
 
-- name: Introduction to Docker
-  line: Join us for an introductory workshop on docker
-  date: 2017-05-17 12:00 PM 
-  end-date: 2017-05-17 1:00 PM 
-  location: A5001
-  url: https://www.facebook.com/events/205382139972607/
+#- name: HackUPC Fall 2016
+#  line: BarcelonaTech's hackathon. 500 hackers. 36h. October 7th-9th
+#  image-url: assets/img/hackupcfall2016.png
+#  date: 2016-10-07 3:00 PM 
+#  end-date: 2016-10-09 4:30 PM 
+#  location: Campus Nord
+#  url: https://f2016.hackupc.com
 
-- name: HackUPC Fall 2017
-  line: BarcelonaTech's hackathon. 700 hackers. 36h. Oct 13th-15th.
-  image-url: assets/img/hackupcfall2017.png
-  date: 2017-10-13 3:00 PM 
-  end-date: 2017-10-15 4:30 PM 
-  location: Campus Nord
-  url: https://hackupc.com
+#- name: HackUPC Winter 2017
+#  line: BarcelonaTech's hackathon. 500 hackers. 36h. March 3rd-5th
+#  image-url: assets/img/hackupcwinter2017.png
+#  date: 2017-03-03 3:00 PM 
+#  end-date: 2017-03-05 4:30 PM 
+#  location: Campus Nord
+#  url: https://w2017.hackupc.com
 
-- name: Introduction to Web Development with Flask
-  line:  Introduction to one of the most popular python web microframeworks. 
-  date: 2017-10-25 12:00 PM 
-  end-date: 2017-10-25 1:00 PM 
-  location: A6106
-  url: https://www.facebook.com/events/158389091423158/
+#- name: Introduction to Docker
+#  line: Join us for an introductory workshop on docker
+#  image-url: assets/img/intro-to-docker.png
+#  date: 2017-05-17 12:00 PM 
+#  end-date: 2017-05-17 1:00 PM 
+#  location: A5001
+#  url: https://www.facebook.com/events/205382139972607/
+
+#- name: HackUPC Fall 2017
+#  line: BarcelonaTech's hackathon. 700 hackers. 36h. Oct 13th-15th.
+#  image-url: assets/img/hackupcfall2017.png
+#  date: 2017-10-13 3:00 PM 
+#  end-date: 2017-10-15 4:30 PM 
+#  location: Campus Nord
+#  url: https://f2017.hackupc.com
+
+#- name: Introduction to Web Development with Flask
+#  line:  Introduction to one of the most popular python web microframeworks. 
+#  image-url: assets/img/intro-to-flask.png
+#  date: 2017-10-25 12:00 PM 
+#  end-date: 2017-10-25 1:00 PM 
+#  location: A6106
+#  url: https://www.facebook.com/events/158389091423158/
   
-- name: Why you should learn Go today
-  line: Learn Go, the de-facto language of the cloud
-  date: 2018-05-23 12:00 PM
-  end-date: 2018-05-23 12:50 PM
-  location: A6101
-  url: https://www.facebook.com/events/878540245651285/
+#- name: Why you should learn Go today
+#  line: Learn Go, the de-facto language of the cloud
+#  image-url: assets/img/intro-to-go.png
+#  date: 2018-05-23 12:00 PM
+#  end-date: 2018-05-23 12:50 PM
+#  location: A6101
+#  url: https://www.facebook.com/events/878540245651285/
 
-- name: HackNight I
+- name: HackNight Beta
   line: Spend a night hacking in good company
+  image-url: assets/img/hacknight-beta.png
   date: 2018-05-25 8:00 PM
   end-date: 2018-05-26 8:00 AM
   location: Sala Àgora
   url: https://www.facebook.com/events/166224674054724/
 
+- name: Intro to hackathons
+  line: Do you know what a hackathon is? Come, join us and learn about it.
+  image-url: assets/img/intro-to-hackathons.jpg
+  date: 2018-09-27 13:00 PM
+  end-date: 2018-09-27 14:00 PM
+  location: A4002
+  url: https://www.facebook.com/events/2190331794625979/
+
+- name: Cognitive computing
+  line: Learn how the computer can mimic the way the human brain works.
+  image-url: assets/img/cognitive-computing.png
+  date: 2018-10-03 12:00 PM
+  end-date: 2018-10-03 14:00 PM
+  location: A4002
+  url: https://www.facebook.com/events/TBD/
+
+- name: HackUPC 2018
+  line: BarcelonaTech's hackathon. 700 hackers. 36h. Oct 19th-21st.
+  image-url: assets/img/hackupc2018.png
+  date: 2018-10-19 3:00 PM 
+  end-date: 2018-10-21 4:30 PM 
+  location: Campus Nord
+  url: https://hackupc.com
+
+
+- name: Intro to Artificial Neural Networks
+  line: An Introduction to convolutional neural networks for Computer Vision.
+  image-url: assets/img/neural-networks.jpg
+  date: 2018-10-24 12:00 PM
+  end-date: 2018-10-24 14:00 PM
+  location: TBD
+  url: https://www.facebook.com/events/TBD/

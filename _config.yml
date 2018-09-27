@@ -12,11 +12,10 @@ domain: hackersatupc.org
 
 
 # Style variables
-accent_color: "#0016f1"
-events_overlay_color: "#22b573"
+accent_color: "#303AB2"
+events_overlay_color: "#000000"
 background_color: "#FAFAFA"
 footer_text_color: "#666666"
-events_bg_img: assets/img/people.jpg
 
 # START THEME 2
 # accent_color: "#AA401B"
