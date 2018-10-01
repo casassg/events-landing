@@ -61,6 +61,7 @@ Deployment is done automatically by [GitHub pages](https://pages.github.com/). Y
 6. Edit the properties as described in the text you just copied
 
 ## Add a newsletter post
+
 1. Write a post in markdown
 2. Add the header 
 ```
@@ -81,6 +82,33 @@ This will create a post with a two column layout with the image on the left and 
 4. The default excerpt shown on the front page is the first paragraph. If you want to have a custom length excerpt, add `<!--more-->` after your desired excerpt. 
 5. Save to [_posts/YYYY-MM-DD-Title-of-post-seperated-with-dashes.md](_posts/)
 6. Posts automatically appear on the front page in the "Newsletter" section in an abbreviated form with a link to the full version. They also are automatically linked to on the archive page. I recommend checking that everything looks right in both locations. 
+
+## Create an email newsletter
+
+1. Write in markdown.
+2. Add header.
+```
+---
+layout: newsletter
+---
+```
+3. If you want to add a button use the following segment:
+```
+{% include emails/button.html action='Take the survey' url='https://cuboulder.qualtrics.com/jfe/form/SV_42ewryObxKdTj9z' %}
+```
+Replace `action` with the call to action text and `url` with the url that the button should point to.
+5. Save to [_newsletters/YYYY-MM-DD-.md](_newsletters/)
+6. Newsletters are automatically linked on the archive page.
+
+### Sending email newsletter
+
+1. Make sure the post is posted and accessible online. See: `bouldercsgrads.org/newsletters/YYYY/MM/` to find the newsletter for `YYYY` year and `MM` month.
+2. View HTML and copy it. See [how to view the HTML on any browser](https://www.computerhope.com/issues/ch000746.htm).
+3. Install [HTML Inserter for GMail](https://chrome.google.com/webstore/detail/html-inserter-for-gmail/lkdchkblgffcinmodbodlkclphfldkll)
+4. Open GMail, open HTML Inserter and paste HTML content in it.
+5. Insert into email
+6. Send email.
+
 
 ## Add/change footer links
 
