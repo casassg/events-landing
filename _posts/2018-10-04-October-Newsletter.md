@@ -9,11 +9,11 @@ The fall semester is in full swing and the CSGSA has been up to a lot over the p
 
 The Graduate Committee is working on revising the degree requirements for both Masters and PhD students. To support their effort and help ensure that the new requirements serve student needs, we're sending out a survey about current requirements and the proposed changes. 
 
-- The survey will be open until October 10th. 
+- The survey will be open until October 15th. 
 - We expect this to take no more than ten minutes. 
 - All responses will be anonymized and kept confidential.
 
-Please take the survey [here]().
+**Please take the survey [here](https://cuboulder.qualtrics.com/jfe/form/SV_42ewryObxKdTj9z).**
 
 The survey will also be used to guide the agenda of the Fall Town Hall. Speaking of which...
 
@@ -28,17 +28,27 @@ Our full event calendar is available (and subscribe-able) at [calendar.bouldercs
 
 The CS Graduate Town Hall is an event once a semester during which students can ask questions, raise concerns, and make suggestions about the Computer Science graduate program. The Department Chair, Graduate Director, Graduate Committee, and Graduate Advisor are all in attendance. 
 
-The minutes of the Spring 2018 Town Hall are available [here](). 
+The minutes of the Spring 2018 Town Hall are available [here](bouldercsgrads.org/2018/10/01/Town-Hall-Minutes-Spring-2018.html). 
 
 ### Student Colloquium - November 8th
 
 - 3:30 pm in ECCR 265
 
-The CSGSA will be hosting the colloquium on November 8th and we are looking for students who would like to present their research in a 15 minute conference talk. We are hoping to make this a recurring event twice a semester, so let us know if you are interested, even if you are not available on November 8th. 
+The CSGSA will be hosting the colloquium on November 8th and we are looking for students who would like to present their research in a 15 minute conference talk. We are hoping to make this a recurring event twice a semester. Let us know if you are interested in presenting, even if you are not available on November 8th. 
+
+### Recruitment Day - October 20th
+
+- 2-4pm Poster Session in DLC Lobby
+- 5-6:30 Social at Backcountry with **free Pizza**
+
+The Computer Science Department is recruiting new Masters and PhD students and are requesting labs to host tables at the event. Present your work via demos, posters, presentations etc.
+
+After the official department event, the CSGSA is hosting a social at Backcountry with free pizza and salads. 
+
 
 ## New Online Resources
 
-Right before the start of the semester, we launched our new website [bouldercsgrads.org](bouldercsgrads.org), and we've been working on populating it with useful resources. 
+Right before the start of the semester, we launched our new website [bouldercsgrads.org](bouldercsgrads.org). We've been working on populating it with useful resources. 
 
 ### [Graduate Student Handbook](bouldercsgrads.org/assets/pdf/graduate_student_handbook_fall_2018.pdf)
 
