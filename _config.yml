@@ -61,3 +61,8 @@ ical_timezone: |-
 sass:
     sass_dir: assets/_sass
     style: compressed
+
+collections:
+  newsletters:
+    output: true
+    permalink: /newsletters/:year/:month/

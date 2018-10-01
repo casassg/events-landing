@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width"> <!-- Forcing initial-scale shouldn't be necessary -->
     <meta http-equiv="X-UA-Compatible" content="IE=edge"> <!-- Use the latest (edge) version of IE rendering engine -->
     <meta name="x-apple-disable-message-reformatting">  <!-- Disable auto-scale in iOS 10 Mail entirely -->
-    <title></title> <!-- The title tag shows in email notifications, like Android 4.4. -->
+    <title>{{page.title}}</title> <!-- The title tag shows in email notifications, like Android 4.4. -->
 
     <!-- Web Font / @font-face : BEGIN -->
     <!-- NOTE: If web fonts are not required, lines 10 - 27 can be safely removed. -->
@@ -237,7 +237,19 @@
                        style="border-radius: 5px; -webkit-border-radius:5px; -moz-border-radius:5px; -ms-border-radius:5px; -o-border-radius:5px; color: white; display: inline-block; outline: none; text-decoration:none; border: none; font-family: Helvetica, arial, sans-serif;  padding-left: 20px;">
                         <img role="social-icon" alt="Website" title="Website" border="0" height="20" width="20"
                              style="height: 20px; width: 20px; border:none; font-family: Helvetica, arial, sans-serif;"
-                             src="{{'assets/img/email/website.png' | absolute_url}}"/></a>
+							 src="{{'assets/img/email/website.png' | absolute_url}}"/></a>
+					<a role="social-icon-link" href="https://github.com/CUCSGSA/" target="_blank" border="0"
+						alt="GitHub" title="GitHub"
+						style="border-radius: 5px; -webkit-border-radius:5px; -moz-border-radius:5px; -ms-border-radius:5px; -o-border-radius:5px; color: white; display: inline-block; outline: none; text-decoration:none; border: none; font-family: Helvetica, arial, sans-serif;  padding-left: 20px;">
+						<img role="social-icon" alt="GitHub" title="GitHub" border="0" height="20" width="20"
+							style="height: 20px; width: 20px; border:none; font-family: Helvetica, arial, sans-serif;"
+							src="{{'assets/img/email/github.png' | absolute_url}}"/></a>
+					<a role="social-icon-link" href="mailto:csgsa@colorado.edu" target="_blank" border="0"
+						alt="Email" title="Email"
+						style="border-radius: 5px; -webkit-border-radius:5px; -moz-border-radius:5px; -ms-border-radius:5px; -o-border-radius:5px; color: white; display: inline-block; outline: none; text-decoration:none; border: none; font-family: Helvetica, arial, sans-serif;  padding-left: 20px;">
+						<img role="social-icon" alt="Email" title="Email" border="0" height="20" width="20"
+							style="height: 20px; width: 20px; border:none; font-family: Helvetica, arial, sans-serif;"
+							src="{{'assets/img/email/email.png' | absolute_url}}"/></a>
                 </td>
             </tr>
             <tr>
