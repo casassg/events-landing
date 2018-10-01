@@ -16,7 +16,7 @@
 - name: Resources and FAQ
   subcategories:
   - name: Graduate Student Handbook
-    external: https://www.colorado.edu/cs/current-students/graduate-students
+    url: /assets/pdf/graduate_student_handbook_fall_2018.pdf
   - name: Don't Ignore It (Reporting and Support)
     external: https://www.colorado.edu/dontignoreit
   - name: Quality of Life

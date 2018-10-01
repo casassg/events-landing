@@ -26,7 +26,7 @@ Some conferences or professional societies (like IEEE) also offer travel grants 
 ## Grants
 Apply for all the grants that you are eligible for to cover as much of your travel expenses as possible. One grant typically will not cover all your expenses. 
 
-There are four main sources of travel grants available to CS graduate students. 
+There are four main sources of travel grants available to CS graduate students. Click grant titles to expand.
 
 <details><summary markdown="span">Graduate School Travel Grants</summary>
 <div class="tip" markdown="1">
@@ -168,8 +168,8 @@ Food expenses are calculated using per diem rates, so you don't need to save mea
 
 I believe the official per diem rates are set by 
 
-- [General Services Administration for Continental US travel](https://www.gsa.gov/travel/plan-book/per-diem-rates) 
-- [Department of Defense for Hawaii and Alaska](https://www.defensetravel.dod.mil/site/perdiemCalc.cfm) 
-- [State Department for international travel](https://aoprals.state.gov/content.asp?content_id=184&menu_id=78)
+- [General Services Administration](https://www.gsa.gov/travel/plan-book/per-diem-rates) for Continental US travel 
+- [Department of Defense](https://www.defensetravel.dod.mil/site/perdiemCalc.cfm) for Hawaii and Alaska 
+- [State Department](https://aoprals.state.gov/content.asp?content_id=184&menu_id=78) for international travel
 
 But it would be worth asking what you've been approved for so that you don't over spend.
