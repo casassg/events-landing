@@ -1,44 +1,77 @@
-#Example ecents
-- name: HackUPC Fall 2017
-  line: BarcelonaTech's hackathon. 700 hackers. 36h. Oct 13th-15th.
-  date: 2017-10-13 3:00 PM 
-  end-date: 2017-10-15 4:30 PM 
-  location: Campus Nord
-  url: https://hackupc.com
+- name: Startups2Students Fall
+  image-url: assets/img/startups2students.png
+  line: Bridging the gap between students and startups
+  date: 2018-10-23 6:00 PM 
+  end-date: 2018-10-23 8:00 PM 
+  location: Idea Forge
+  url: http://startups2students.org
 
-- name: Twilight Hawkers Market
-  line: It's Perth’s original & biggest Street Food Market bringing the tastiest street food.
-  date: 2017-11-17 4:30 PM
-  end-date: 2017-11-17 9:30 PM
-  location: Forrest Place
-  url: http://twilighthawkersmarket.com/
+- name: Phase
+  image-url: assets/img/phase.png
+  line: 16h hardware hackathon
+  date: 2018-11-10 7:00 AM 
+  end-date: 2018-11-11 2:30 AM 
+  location: Idea Forge
+  url: https://phase.hackcu.org
+
+# - name: Boulder Hacktoberfest
+#   image-url: assets/img/hacktoberfest.png
+#   line: Learning about open source development with professionals.
+#   date: 2017-10-30 5:30 PM 
+#   end-date: 2017-10-30 8:00 PM 
+#   location: Galvanize Boulder
+#   url: https://www.eventbrite.com/e/boulder-hacktoberfest-an-open-source-celebration-tickets-39026755075
+
+# - name: "Vim: A robust text editor"
+#   image-url: assets/img/vim-event.jpg
+#   line: Learn how vim can help you everywhere
+#   date: 2017-11-16 5:00 PM 
+#   end-date: 2017-11-16 6:00 PM 
+#   location: ECCR 155
+#   url: https://www.facebook.com/events/128370294597577/
 
 - name: Local Hack Day
   image-url: assets/img/flatirons.jpg
   line: 12 hour hack day. Bringing together the local hacker community to learn and build awesome tech.
-  date: 2017-12-2 8:00 AM 
-  end-date: 2017-12-2 9:15 PM 
-  location: Worldwide
+  date: 2018-12-1 8:00 AM 
+  end-date: 2018-12-1 9:15 PM 
+  location: Idea Forge
   url: https://local.hackcu.org
-  
-- name: Introduction to Web Development with Flask
-  line:  Introduction to one of the most popular python web microframeworks. 
-  date: 2017-10-25 12:00 PM 
-  end-date: 2017-10-25 1:00 PM 
-  location: A6106
-  url: https://www.facebook.com/events/158389091423158/
-  
-- name: "Saint George's Day / Diada de Sant Jordi"
-  line: "Celebrate Saint George's Day with us. Roses and Jocs Florals."
-  date: 2017-04-25 9:00 AM 
-  end-date: 2017-04-25 9:00 PM 
-  location: University of Colorado Boulder
-  url: https://www.facebook.com/events/1142067275923247/
-  
-- name: HackCU IV
-  location: TBD
-  image-url: assets/img/hackcu.png
-  line: Subscribe to be the first to know when applications go live.
-  url: https://hackcu.org
 
+# - name: "Tuesday Morning Coffee with Ryan Martens"
+#   date: 2018-01-30 7:45 AM
+#   end-date: 2018-01-30 8:45 AM
+#   location: Idea Forge
+#   line: "Meet peers and leaders from the Front Range’s active entrepreneurship scene."
+#   url: https://siliconflatirons.org/events/tuesday-morning-coffee-2/
+  
+# - name: "Amazon Alexa Skills Workshops"
+#   date: 2018-01-31 6:00 PM
+#   end-date: 2018-01-31 8:30 PM
+#   location: ECCR 265
+#   line: "Learn more about building applications for Amazon Alexa! Learn to create applications for a voice user interface."
+#   url: https://www.eventbrite.com/e/amazon-alexa-skill-development-workshops-boulder-tickets-42466155414?aff=es2
+  
+# - name: "Intro to Blockchain"
+#   date: 2018-02-03 12:00 PM
+#   end-date: 2018-01-31 5:00 PM
+#   location: Idea Forge
+#   line: "Workshop includes an intro to blockchain technology and an interactive session on smart contracts."
+#   url: https://www.facebook.com/events/1860524370627531/
+
+# - name: HackCU IV
+#   date: 2018-02-24 8:00 AM
+#   end-date: 2018-02-25 5:00 PM
+#   location: SEEC Building (East Campus)
+#   image-url: assets/img/hackcu4.png
+#   line: Join us and 600 other hackers for 24 hours of hacking, learning and building!
+#   url: https://hackcu.org
+
+# - name: Startups2Students Spring
+#   image-url: assets/img/startups2students.png
+#   line: Bridging the gap between students and startups
+#   date: 2018-4-5 6:00 PM 
+#   end-date: 2018-4-5 8:00 PM 
+#   location: Idea Forge
+#   url: http://startups2students.org
 

@@ -1,12 +1,13 @@
 
 # PERSONALIZATION
 # Site variables
-name: Events Landing Page
-logo: assets/img/logo.png
-original_repo: https://github.com/casassg/events-landing
-description: Find all of your organizations events in one place.
-# ga: UA-109088240-1
-domain: gerard.space/events-landing/
+name: HackCU Events
+og: assets/img/og.png
+logo: /assets/img/logo.png
+original_repo: https://github.com/hackcu/events
+description: Find all of HackCU's events in one place.
+ga: UA-109088240-1
+domain: events.hackcu.org
 
 
 # Style variables
@@ -32,25 +33,26 @@ events_bg_img: assets/img/people.jpg
 # END THEME 4
 
 # START WINTER THEME
-accent_color: "#165E33" 
-events_overlay_color: "#AA504A"
+# accent_color: "#165E33" 
+# events_overlay_color: "#AA504A"
 # END WINTER THEME
 
 # Author variables
-author: Gerard Casas
-author-description: "This is a student organization at a certain university who brings together
-    people for our annual technology and design events, event1 and event2. We are the largest event around.
-    Our mission is to foster learning, designing, and building in order to turn student's ideas into a reality!"
-email: contact@gerard.space
+author: HackCU
+author-description: "HackCU is a student organization at the University of Colorado at Boulder who brings together
+    people for our annual technology and design events, HackCU and Local Hack Day. We are the largest hackathon in the Rocky Mountain Region, and
+    our mission is to foster learning, designing, and building in order to turn student's ideas into a reality!"
+email: contact@hackcu.org
 
 # Social media + community variables
-twitter: casassaez
-# fb: hackcu
+twitter: hackcu
+fb: hackcu
 fb-community: hackcu
 slack-signup: https://slack.hackcu.org
 
-instagram: casassg
+instagram: hackcu
 github-org: hackcu
+email-url: https://api.hackcu.org/sendgrid/events/
 
 
 

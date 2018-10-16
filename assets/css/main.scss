@@ -76,7 +76,7 @@ section.social-media {
 
 .btn {
     @include box-shadow(0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19));
-    text-transform: uppercase;
+    // text-transform: uppercase;
     @include border-radius(0);
     position: relative;
     top: 0;
@@ -228,14 +228,14 @@ section.events{
     background: linear-gradient( rgba($events-color, 0.75), rgba($events-color, 0.75) ), url(../../{{site.events_bg_img}}) no-repeat center center/cover;
    
 
-    h2 {
+    .main-title {
         padding-bottom: 30px;
     }
 
     div.panel {
         @include box-shadow(1px 5px 8px 1px rgba(0,0,0,.19));
         @include border-radius(0);
-        height: 170px;
+        height: 250px;
         position: relative;
         top: 0;
         @include transition(all .1s linear);
@@ -271,7 +271,7 @@ section.events{
 
         .panel-heading {
             padding: 0;
-            height: 70px;
+            height: 150px;
             background-color: darken($accent-color,5%);
             @include border-radius(0);
 
@@ -279,7 +279,7 @@ section.events{
             img {
                 position: relative; 
                 object-fit: cover;
-                height: 70px;
+                height: 150px;
                 width: 100%;
                 filter: brightness(60%) grayscale(20%);
                 &.light_background {
@@ -288,13 +288,13 @@ section.events{
             }
 
             h1,h2,h3, h4{
+                text-align: center;
                 position: absolute;
-                top: 0px;
+                top: 26%;
                 z-index: 10;
                 text-transform: uppercase;
-                padding: 10px;
                 color: $accent-text-color;
-
+                width: 100%;
 
                 &.light_background{
                     color: black;
@@ -327,7 +327,32 @@ section.events{
         }
     }
 
+    form#email-form{
+        margin-bottom: 30px;
+        height: 90px;
+    }
 
+    .notice-message{
+        color: #fff;
+        padding: 10px;
+        font-size: 1.1em;
+        font-style: bold;
+        margin: 10px;
+        display: inline-block;
+        p{
+            margin: 0;
+            padding: 0;
+        }
+    }
+
+    #email-success{
+        background: $accent-color;
+    }
+
+    #email-failure{
+        background: white;
+        color: #b52121;
+    }
 
     a.event-url {
         color: black;
@@ -339,7 +364,7 @@ section.events{
     }
 
     .calendar {
-        margin: 0 auto;
+        margin: 25px auto;
         width: 300px;
     }
     

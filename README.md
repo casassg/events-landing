@@ -1,7 +1,13 @@
 
-# Events landing
+<br>
+<p align="center">
+  <img alt="HackCU IV" src="https://github.com/HackCU/splash-page/blob/master/img/hackcu_black.png" width="200"/>
+</p>
+<br>
 
-Statically generated landing website that lists your events
+
+HackCU events website. 
+
 
 # Features
 
@@ -74,4 +80,4 @@ Main colors can be changed on [_config.yml](_config.yml). For more "deep" stylin
 # License
 
 
-MIT © Gerard Casas Saez
+MIT © HackCU
