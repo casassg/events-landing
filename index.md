@@ -16,7 +16,7 @@ layout: base
                             <div class="panel-heading">
                                 <span class="past-text biko">PAST</span>
                                 {% if event.image-url %}<img class="img-responsive {% unless event.light_background == null %}light_background{% endunless %}" src="{{event.image-url}}">{%endif%}
-                                <h4 class="biko {% unless event.light_background == null %}light_background{% endunless %}" >{{event.name}}</h4>
+                                <h4 class="event-name biko {% unless event.light_background == null %}light_background{% endunless %}" >{{event.name}}</h4>
                             </div>
                             <div class="panel-body event" data-date="{{ event.date }}">                                
                                 <p>{{event.line}}</p>
