@@ -1,123 +1,91 @@
 ---
-layout: post
+layout: handbook
 title: Computer Science Supplement to the University of Colorado Boulder Graduate Student Handbook
 date: October 22, 2018
+menu:
+  - title: Introduction
+    groupID: G1
+    subfolderitems:
+      - page: Graduate Advisor
+        url: 11-graduate-advisor
+  - title: Facilities
+    groupID: G2
+    subfolderitems:
+      - page: Card Access
+        url: 21-card-access
+      - page: Computing Facilities
+        url: 22-computing-facilities
+      - page: Office and Desk Space
+        url: 23-office-and-desk-space
+      - page: Copy Machine
+        url: 24-copy-machine
+  - title: Master's Degree
+    groupID: G3
+    subfolderitems:
+      - page: The Plan of Study
+        url: 31-the-plan-of-study
+      - page: The Breadth Requirement
+        url: 32-the-breadth-requirement
+      - page: Taking Classes
+        url: 33-taking-classes
+        subsubfolderitems:
+          - page: Courses External to the Department
+            url: 331-courses-external-to-the-department
+          - page: Distances Courses
+            url: 332-distances-courses
+          - page: Masters Pass/Fail Courses
+            url: 333-masters-pass-fail-courses
+      - page: Masters Transfer Courses
+        url: 34-masters-transfer-courses
+      - page: Research Based Masters in CS (MSCS)
+        url: 35-research-based-masters-in-cs
+        subsubfolderitems:
+          - page: Option I
+            url: 351-option-i
+          - page: Option II
+            url: 352-option-ii
+      - page: Course Based Masters in CS (MSCPS)
+        url: 36-course-based-masters-in-cs
+        subsubfolderitems:
+          - page: Course Based MS Sub-plans
+            url: 361-course-based-ms-sub-plans
+      - page: Masters of Engineering in CS
+        url: 37-masters-of-engineering-in-cs
+        subsubfolderitems:
+          - page: Course Requirements
+            url: 371-course-requirements
+          - page: ME Project Requirements
+            url: 372-me-project-requirements
+      - page: Graduation
+        url: 38-graduation
+        subsubfolderitems:
+          - page: Master's Thesis Defense
+            url: 381-master-s-thesis-defense
+          - page: Notification of Status
+            url: 382-notification-of-status
+          - page: Application for Admission to Candidacy Form
+            url: 383-application-for-admission-to-candidacy-form
+          - page: Applying for Graduation
+            url: 384-applying-for-graduation
+          - page: Masters Candidate-for-Degree
+            url: 385-masters-candidate-for-degree
+          - page: Masters Final Paperwork
+            url: 386-masters-final-paperwork
+          - page: Masters Sufficient Progress
+            url: 387-masters-sufficient-progress
+          - page: Independent Study hours
+            url: 388-independent-study-hours
+      - page: Difference in Requirements between Research Vs Course MS Degree
+        url: 39-difference-in-requirements-between-research-vs-course-ms-degree
 ---
 
 ![View of the Engineering Center with Flatirons in background](assets/img/engineering_center.png)
 
-1   Table of Contents
-====================
+# 1 Introduction
 
-- [1   Introduction](#1---introduction)
-  * [1.1 Graduate Advisor](#11-graduate-advisor)
-- [2   Facilities](#2---facilities)
-  * [2.1 Card Access](#21-card-access)
-  * [2.2 Computing Facilities](#22-computing-facilities)
-  * [2.3 Office and Desk Space](#23-office-and-desk-space)
-  * [2.4 Copy Machine](#24-copy-machine)
-- [3   Master's Degree](#3---master-s-degree)
-  * [3.1  The Plan of Study](#31--the-plan-of-study)
-  * [3.2  The Breadth Requirement](#32--the-breadth-requirement)
-  * [3.3 Taking Classes](#33-taking-classes)
-    + [3.3.1 Courses External to the Department](#331-courses-external-to-the-department)
-    + [3.3.2 Distances Courses](#332-distances-courses)
-    + [3.3.3 Masters Pass/Fail Courses](#333-masters-pass-fail-courses)
-  * [3.4  Masters Transfer Courses](#34--masters-transfer-courses)
-  * [3.5 Research Based Masters in CS (MSCS)](#35-research-based-masters-in-cs--mscs-)
-    + [3.5.1  Option I](#351--option-i)
-    + [3.5.2  Option II](#352--option-ii)
-  * [3.6 Course Based Masters in CS (MSCPS)](#36-course-based-masters-in-cs--mscps-)
-    + [3.6.1  Course Based MS Sub-plans](#361--course-based-ms-sub-plans)
-      - [3.6.1.I   Data Science & Engineering sub-plan (DSE)](#361i---data-science---engineering-sub-plan--dse-)
-      - [3.6.1.II    Human Centered Computing sub-plan (HCC)](#361ii----human-centered-computing-sub-plan--hcc-)
-      - [3.6.1.III   Software Systems and Cloud Computing sub-plan (SCC)](#361iii---software-systems-and-cloud-computing-sub-plan--scc-)
-      - [3.6.1.IV    Intelligent Systems sub-plan (IST)](#361iv----intelligent-systems-sub-plan--ist-)
-      - [3.6.1.V    Robotics sub-plan (RBT)](#361v----robotics-sub-plan--rbt-)
-      - [3.6.1.VI   Algorithms, Network and Optimization sub-plan (ANO)](#361vi---algorithms--network-and-optimization-sub-plan--ano-)
-      - [3.6.1.VII Numerical Computation sub-plan (NUM)](#361vii-numerical-computation-sub-plan--num-)
-      - [3.6.1.VIIIGeneral Track sub-plan (GEN)](#361viiigeneral-track-sub-plan--gen-)
-  * [3.7 Masters of Engineering in CS](#37-masters-of-engineering-in-cs)
-    + [3.7.1 Course Requirements](#371-course-requirements)
-    + [3.7.2 ME Project Requirements](#372-me-project-requirements)
-  * [3.8 Graduation](#38-graduation)
-    + [3.8.1 Master's Thesis Defense](#381-master-s-thesis-defense)
-    + [3.8.2 Notification of Status](#382-notification-of-status)
-    + [3.8.3  Application for Admission to Candidacy Form](#383--application-for-admission-to-candidacy-form)
-    + [3.8.4 Applying for Graduation](#384-applying-for-graduation)
-    + [3.8.5  Masters Candidate-for-Degree](#385--masters-candidate-for-degree)
-    + [3.8.6 Masters Final Paperwork](#386-masters-final-paperwork)
-    + [3.8.7 Masters Sufficient Progress](#387-masters-sufficient-progress)
-    + [3.8.8 Independent Study hours](#388-independent-study-hours)
-  * [3.9 Difference in Requirements between Research Vs Course MS Degree](#39-difference-in-requirements-between-research-vs-course-ms-degree)
-- [4   Moving from MS to PhD](#4---moving-from-ms-to-phd)
-  * [4.1 Requirements](#41-requirements)
-  * [4.2 Process](#42-process)
-- [5   Doctoral Degree](#5---doctoral-degree)
-  * [5.1 Doctoral Preliminary Examination](#51-doctoral-preliminary-examination)
-    + [5.1.1 Course Requirement](#511-course-requirement)
-      - [5.1.1.I  Breadth Requirement (15 credit hours)](#511i--breadth-requirement--15-credit-hours-)
-      - [5.1.1.II    Depth Requirement (15 credit hours)](#511ii----depth-requirement--15-credit-hours-)
-    + [5.1.2 Area Examination Requirement](#512-area-examination-requirement)
-      - [5.1.2.I  Selecting an Examination](#512i--selecting-an-examination)
-      - [5.1.2.II    Examination Scope and Scheduling](#512ii----examination-scope-and-scheduling)
-  * [5.2 Getting a Master's Degree during the Doctoral Program](#52-getting-a-master-s-degree-during-the-doctoral-program)
-  * [5.3 Finding an Advisor](#53-finding-an-advisor)
-  * [5.4 Doctoral Comprehensive Examination(Proposal)](#54-doctoral-comprehensive-examination-proposal-)
-    + [5.4.1 Dissertation Credit Before the Proposal Defense](#541-dissertation-credit-before-the-proposal-defense)
-    + [5.4.2 Admission to Candidacy Form](#542-admission-to-candidacy-form)
-    + [5.4.3 Committee for Your Proposal Defense](#543-committee-for-your-proposal-defense)
-    + [5.4.4 Examination Report Approval Form](#544-examination-report-approval-form)
-    + [5.4.5 Copies of Written Proposal](#545-copies-of-written-proposal)
-    + [5.4.6 The Actual Proposal Defense](#546-the-actual-proposal-defense)
-  * [5.5 Dissertation Hours](#55-dissertation-hours)
-  * [5.6 Admission to Candidacy](#56-admission-to-candidacy)
-  * [5.7 Final Examination (Dissertation Defense)](#57-final-examination--dissertation-defense-)
-    + [5.7.1 PhD Defense Announcement](#571-phd-defense-announcement)
-    + [5.7.2 Graduate School Clearance](#572-graduate-school-clearance)
-    + [5.7.3 Dissertation Committee](#573-dissertation-committee)
-    + [5.7.4 Actual Dissertation Defense](#574-actual-dissertation-defense)
-      - [5.7.4.I  Copies of Dissertation](#574i--copies-of-dissertation)
-      - [5.7.4.II    PhD Final Paperwork](#574ii----phd-final-paperwork)
-  * [5.8 PhD Grades](#58-phd-grades)
-  * [5.9 PhD Pass/Fail Courses](#59-phd-pass-fail-courses)
-  * [5.10  PhD Transfer Courses](#510--phd-transfer-courses)
-  * [5.11  PhD Sufficient Progress](#511--phd-sufficient-progress)
-- [6   Assistantships](#6---assistantships)
-  * [6.1 Standard Assistantship Offer](#61-standard-assistantship-offer)
-  * [6.2 Students in Their First Three Years](#62-students-in-their-first-three-years)
-  * [6.3 Students Past Their First Three Years](#63-students-past-their-first-three-years)
-  * [6.4 Types of Assistantships](#64-types-of-assistantships)
-  * [6.5 Annual Review](#65-annual-review)
-  * [6.6 Pay Levels](#66-pay-levels)
-  * [6.7 Administrative Issues](#67-administrative-issues)
-  * [6.8 Grading Positions](#68-grading-positions)
-- [7   Graduate Student Representatives](#7---graduate-student-representatives)
-  * [7.1 Elections](#71-elections)
-  * [7.2 Executive Committee Representative](#72-executive-committee-representative)
-  * [7.3 Graduate Committee Representatives](#73-graduate-committee-representatives)
-  * [7.4 University UGGS Representative](#74-university-uggs-representative)
-  * [7.5 CS Graduate Student Association Executive Board](#75-cs-graduate-student-association-executive-board)
-    + [7.5.1 CSGSA Chair](#751-csgsa-chair)
-    + [7.5.2 CSGSA Vice Chair](#752-csgsa-vice-chair)
-    + [7.5.3 CSGSA Treasurer](#753-csgsa-treasurer)
-- [8   Miscellaneous Administrative Matters](#8---miscellaneous-administrative-matters)
-  * [8.1 Grievance Procedures](#81-grievance-procedures)
-  * [8.2 Independent Study](#82-independent-study)
-  * [8.3 Restricted Enrollment](#83-restricted-enrollment)
-  * [8.4 Resident Status and Procedures](#84-resident-status-and-procedures)
-  * [8.5 Graduate Student Communication](#85-graduate-student-communication)
-  * [8.6 Computer Science Colloquia](#86-computer-science-colloquia)
-  * [8.7 Other Forums for Talks](#87-other-forums-for-talks)
-  * [8.8 Graduate Student Community](#88-graduate-student-community)
+This handbook should answer your questions about the rules and requirements of the department for your degree program. This information is also available [on the department website](http://www.colorado.edu/cs). In case you have questions or are unclear about the rules, it is best to talk to your Graduate Advisor.
 
-1   Introduction
-====================
-
-This handbook should answer your questions about the rules and requirements of the department for your degree program. This information is also available [on our website](http://www.colorado.edu/cs). In case you have questions or are unclear about the rules, it is best to talk to your Graduate Advisor.
-
-1.1 Graduate Advisor
-------------------------
+## 1.1 Graduate Advisor
 
 Rajshree Shrestha is the Computer Science Graduate Advisor. She oversees most aspects of department operation that will affect your stay here. She is here to help you graduate and is your first point of contact any time you have questions, problems, or need some help in any matter related to your studies.
 
@@ -126,13 +94,11 @@ Contact her at:
 - Email address: [Rajshree.Shrestha@colorado.edu](mailto:Rajshree.shrestha@colorado.edu)
 - Phone: 303-492-6361
 - Office: ECOT 727
--  Office Hours: Typically, between 9:30 am -- 12 pm and 1 pm -- 3:30 pm, Tuesdays, Wednesdays and Fridays
+- Office Hours: Typically, between 9:30 am -- 12 pm and 1 pm -- 3:30 pm, Tuesdays, Wednesdays and Fridays
 
-2  Facilities
-==================
+# 2 Facilities
 
-2.1 Card Access
--------------------
+## 2.1 Card Access
 
 Access to all computing labs is controlled by card readers. Students use their Buff OneCard to gain access to the labs. Access authorization is typically given for the lab in which you are assigned desk space, the Computer Science Educational Lab (CSEL), which is ECCS 128, and conference rooms ECCS 1B06, ECOT 831/832. 
 
@@ -146,8 +112,7 @@ Other secured doors in the Engineering Center also use your Buff OneCard and acc
 
 Keys to labs are not usually assigned to graduate students. If you feel that there is a reason an exception should be made in your case send email to the Graduate Advisor.
 
-2.2 Computing Facilities
-----------------------------
+## 2.2 Computing Facilities
 
 There are three different accounts that you might need. First, you'll need a university-wide IdentiKey account. You should have already received your IdentiKey username from the university. The IdentiKey account gets you into MyCuInfo, the CU student web portals where you can register for classes, check and pay your tuition bill, see your transcript, etc. In addition, the IdentiKey account is the one you will use when logging onto computing resources outside the department, such as the computer labs on the 2nd floor of the Engineering Center and the library, even the couple of computers in the gym. The university's Office of Information Technology (OIT) is in charge of the general University computing resources, and therefore administers the IdentiKey accounts. 
 
@@ -157,20 +122,17 @@ Your Buff OneCard is required for access to the lab. Faculty, staff, and student
 
 Now we'll cover email. Every CU student gets a CU email account. Your username here is unique university-wide. Usually the address is firstname.lastname@colorado.edu. You can access your email using your student portal.
 
-2.3 Office and Desk Space
------------------------------
+## 2.3 Office and Desk Space
 
 New PhD students will have desk space assigned to them by their advisor. Where you are placed is typically dependent on who your advisor is and in what general area your research interests lie. All PhD students should have a desk in a grad student lab. 
 
 All labs should be equipped with white boards. If pens or erasers need to be replaced, please let main office administrator know and s/he will organize the replacement. 
 
-2.4 Copy Machine
---------------------
+## 2.4 Copy Machine
 
 Graduate students who are TAs are entitled to use to the department copy machine in the main CS office. The main office administrator will assign an access number to you. Use of the copy machine is for teaching purposes only, and you are not expected to use all of the copies assigned to you each month. It is strictly prohibited to give your copier number to anyone else. You should not copy books or any other material that violates copyright laws.
 
-3   Master's Degree
-=======================
+# 3 Master's Degree
 
 As of Fall 2017, the department of Computer Science offers **three** types of master's degree. 
 
@@ -190,15 +152,13 @@ As of Fall 2017, the department of Computer Science offers **three** types of m
 
 1. ME in CS -- Masters of Engineering in CS degree is a course based degree that can be completed online and is focused for working professionals. Students have to complete a total 30 credits of approved graduate level coursework.Students may also choose sub plan options under this degree.
 
-3.1  The Plan of Study
---------------------------
+## 3.1 The Plan of Study
 
 This form lists the courses you plan to take to complete your degree. The courses listed on your Plan of Study are up to you and your advisor, subject to the general requirements of the degree. Students who are admitted conditionally must take the specific courses listed on their letter of acceptance. 
 
 Your Plan of Study may be changed at any time with the approval of your advisor. It exists to protect both you and the Department. It ensures that you follow a course of study the Department deems worthy of a Master's degree. It also protects you from arbitrary changes in requirements by the Department. As long as you follow a signed Plan of Study and maintain a GPA of 3.0 or better, you will get your degree. Your Plan of Study should be completed by the end of your first semester in the program.
 
-3.2  The Breadth Requirement
---------------------------------
+## 3.2 The Breadth Requirement
 
 One major requirement for your degree is that you must receive a grade of B or better (not B-) in **four** graduate courses at the 5000-level, each one in a different area of Computer Science. The intent of this requirement is that you take the introductory graduate course in at least four areas. Masters of Engineering (ME) students are required to take courses in **three** of the nine different areas to fulfill the breadth requirement. 
 
@@ -208,8 +168,7 @@ The nine areas considered are artificial intelligence, computational biology, hu
 
 Please check the CS website [breadth course page](http://www.colorado.edu/cs/current-students/graduate-students/msme-breadth-requirement) for breadth courses per area. The purpose of this requirement is to assure the breadth of your knowledge in Computer Science. This requirement must be met by all students.
 
-3.3 Taking Classes
-----------------------
+## 3.3 Taking Classes
 
 Students in the Computer Science MS or PhD programs should enroll in all their CS courses as a Boulder campus student. 
 
@@ -234,42 +193,39 @@ There is no limit on the number of distance classes a graduate student may take.
 
 No graduate courses may be taken for Pass/Fail credit. This includes graduate courses which are transferred into the program. You can take courses for No Credit but they will not count towards your degree.
 
-3.4  Masters Transfer Courses
----------------------------------
+## 3.4 Masters Transfer Courses
 
 You may transfer up to NINE semester hours of courses from another university or from within CU (either taken as a non-degree student OR taken as a non-CS student). If you are transferring these courses from another college, you need to submit a Request for Transfer of Credit form. A Request for Transfer of Credit can only be submitted after completing at least **six** credits of graduate level course work with a grade of B or better and a minimum GPA of 3.25 at CU. Typically, this means you will need to wait to submit it until after the first semester. This form will need to be signed by your advisor and the Graduate Director of the department and then will be forwarded to the Graduate School for approval.
 
 Courses taken within CU system, which you want transferred should be listed in the appropriate area on the Masters Application-for-Candidacy form (see Section [Application for Admission to Candidacy Form](applewebdata://0498032F-E975-4E8B-8B87-780218009473#_Application_for_Admission_1)). Once this form has been signed by your advisor and the Graduate Director of the Department, the credits for these courses are automatically transferred. Courses that were taken more than five years ago will have to be validated.
 
-3.5 Research Based Masters in CS (MSCS)
--------------------------------------------
+## 3.5 Research Based Masters in CS
 
 To receive a Research based Masters in CS, you will need to maintain an overall GPA of 3.0, including having a grade of B or better (not B-) in courses in FOUR different areas of Computer Science (details in 3.1.2). You must complete your degree within four years of your entrance to the program.
 
 In addition, you will need to decide between whether or not to do a Master's Thesis (known as Option I.) or to take 30 credit hours of coursework to meet your degree requirements (known as Option II.) 
 
-### 3.5.1  Option I
+### 3.5.1 Option I
 
 Option I requires you to take 24-26 credit hours in coursework plus 4-6 credit hours of thesis to accumulate a total of 30 credit hours. You must also successfully defend your thesis and [upload your thesis electronically](http://www.etdadmin.com/colorado).
 
 If you want to do a thesis, you must find a faculty member willing to be your advisor for that research. The Department's faculty is large enough that you can usually find someone willing to sponsor you and help select a topic appropriate for a Master's thesis in nearly every field of Computer Science.
 
-### 3.5.2  Option II
+### 3.5.2 Option II
 
 Otherwise, you will need to take 30 credit hours of coursework to meet your degree requirements (known as Option II.) In these 30 hours, 6 hours must be independent study credits doing some sort of research. 
 
-3.6 Course Based Masters in CS (MSCPS)
-------------------------------------------
+## 3.6 Course Based Masters in CS
 
 The department requires a candidate to complete an approved plan of study consisting of at least 30 semester hours of approved courses. At least, 24 of these 30 hours must be in Computer Science courses at the 5000 level or above. These courses include courses required by the Breadth Requirement (See Section [The Breadth Requirement](applewebdata://0498032F-E975-4E8B-8B87-780218009473#_The_Breadth_Requirement_1)). Up to 6 courses may be taken outside of the department (subject to restrictions, see Section [Courses External to the Department](applewebdata://0498032F-E975-4E8B-8B87-780218009473#_Courses_External_to_1)). Any course that is cross-listed by Computer Science is considered to be a Computer Science course, regardless of the department in which the student actually registers.
 
-### 3.6.1  Course Based MS Sub-plans
+### 3.6.1 Course Based MS Sub-plans
 
 In addition to the coursework requirements mentioned above, Course Based MS students are required to choose a sub plan. Details on sub-plans are provided below. 
 
 **Students under Course Based MS degree plan cannot choose the Thesis option.**
 
-#### 3.6.1.I   Data Science & Engineering sub-plan (DSE)
+#### 3.6.1.I Data Science & Engineering sub-plan (DSE)
 
 In addition to completing the Breadth requirement, students enrolled in DSE sub plan must fulfill the following course requirements:
 
@@ -291,7 +247,7 @@ Students have to get a grade of at least a B or better in **all** HCC courses t
 
 In addition to completing the Breadth requirement, students enrolled in SCC sub plan must fulfill the following course requirements:
 
--  **four** courses in Software Systems and Cloud Computing (SCC)
+- **four** courses in Software Systems and Cloud Computing (SCC)
 
 Students have to get a grade of at least a B or better in **all **SCC courses to fulfill the requirement. Courses of interest to the student, to be chosen in collaboration with the student's advisor and included in the MS Plan of Study. [Course list for Software Systems and Cloud Computing](http://www.colorado.edu/cs/current-students/graduate-students/ms-degree/professional-ms-degree-requirements/software-systems)is available on the website.
 
@@ -299,7 +255,7 @@ Students have to get a grade of at least a B or better in **all **SCC courses 
 
 In addition to completing the Breadth requirement, students enrolled in IST sub plan must fulfill the following course requirements:
 
--  **four** courses in Intelligent Systems (IST)
+- **four** courses in Intelligent Systems (IST)
 
 Students have to get a grade of at least a B or better in **all** IST courses to fulfill the requirement. Courses of interest to the student, to be chosen in collaboration with the student's advisor and included in the MS Plan of Study. [Course list for Intelligent Systems](http://www.colorado.edu/cs/current-students/graduate-students/ms-degree/professional-ms-degree-requirements/intelligent-systems)is available on the website.
 
@@ -307,7 +263,7 @@ Students have to get a grade of at least a B or better in **all** IST courses t
 
 In addition to completing the Breadth requirement, students enrolled in RBT sub plan must fulfill the following course requirements:
 
--  **four** courses in Robotics (RBT)
+- **four** courses in Robotics (RBT)
 
 Students have to get a grade of at least a B or better in **all** RBT courses to fulfill the requirement. Courses of interest to the student, to be chosen in collaboration with the student's advisor and included in the MS Plan of Study. [Course list for Robotics](http://www.colorado.edu/cs/current-students/graduate-students/ms-degree/professional-ms-degree-requirements/robotics-sub-plan)is available on the website.
 
@@ -315,7 +271,7 @@ Students have to get a grade of at least a B or better in **all** RBT courses t
 
 In addition to completing the Breadth requirement, students enrolled in ANO sub plan must fulfill the following course requirements:
 
--  **four** courses in Algorithms, Network and Optimization sub-plan (ANO)
+- **four** courses in Algorithms, Network and Optimization sub-plan (ANO)
 
 Students have to get a grade of at least a B or better in **all** ANO courses to fulfill the requirement. Courses of interest to the student, to be chosen in collaboration with the student's advisor and included in the MS Plan of Study. [Course list for Algorithms, Network and Optimization](http://www.colorado.edu/cs/algorithms-networks-and-optimization-sub-plan-requirements)is available on the website:
 
@@ -323,7 +279,7 @@ Students have to get a grade of at least a B or better in **all** ANO courses t
 
 In addition to completing the Breadth requirement, students enrolled in NUM sub plan must fulfill the following course requirements:
 
--  **four** courses in Numerical Computation (NUM)
+- **four** courses in Numerical Computation (NUM)
 
 Students have to get a grade of at least a B or better in **all** NUM courses to fulfill the requirement. Courses of interest to the student, to be chosen in collaboration with the student's advisor and included in the MS Plan of Study. [Course list for Numerical Computing](http://www.colorado.edu/cs/current-students/graduate-students/ms-degree/professional-ms-degree-requirements/numerical)is available on the website.
 
@@ -331,8 +287,7 @@ Students have to get a grade of at least a B or better in **all** NUM courses t
 
 In addition to completing the Breadth requirement, students enrolled in GEN sub plan must complete a total of 30 credits of approved graduate level coursework. More information available on the [Course Based MS Degree Requirements](https://www.colorado.edu/cs/current-students/graduate-students/ms-degree/course-based-professional-ms-degree-requirements) page.  
 
-3.7 Masters of Engineering in CS
-------------------------------------
+## 3.7 Masters of Engineering in CS
 
 The principle difference between the Master of Engineering and the Master of Science degrees is that the Master of Engineering degree does not require residency on campus. It is intended to meet the needs of practicing engineers who are working full time outside the university.
 
@@ -342,9 +297,9 @@ It also allows participants to pursue an integrated program of study by speciali
 
 You must complete 30 hours of coursework that meet the following requirements:
 
--  At least 18 credit hours of Computer Science courses at the 5000 level or above are required. CSCI 6800 (Master of Engineering Project) cannot be counted towards these 6 Computer Science courses.
--  The breadth requirement (See Section [The Breadth Requirement](applewebdata://0498032F-E975-4E8B-8B87-780218009473#_The_Breadth_Requirement_2)) must be satisfied, but only in three Computer Science areas rather than four.
--  6 credit hours of courses at the 4000 level or above are allowed. They can be from any department in the College of Engineering as long as they have "significant Computer Science content." However, the course must be taught by a member of the graduate faculty, and the course must be pre-approved by petition to the Graduate Committee. (See Section [Courses External to the Department](applewebdata://0498032F-E975-4E8B-8B87-780218009473#_Courses_External_to_2))
+- At least 18 credit hours of Computer Science courses at the 5000 level or above are required. CSCI 6800 (Master of Engineering Project) cannot be counted towards these 6 Computer Science courses.
+- The breadth requirement (See Section [The Breadth Requirement](applewebdata://0498032F-E975-4E8B-8B87-780218009473#_The_Breadth_Requirement_2)) must be satisfied, but only in three Computer Science areas rather than four.
+- 6 credit hours of courses at the 4000 level or above are allowed. They can be from any department in the College of Engineering as long as they have "significant Computer Science content." However, the course must be taught by a member of the graduate faculty, and the course must be pre-approved by petition to the Graduate Committee. (See Section [Courses External to the Department](applewebdata://0498032F-E975-4E8B-8B87-780218009473#_Courses_External_to_2))
 
 The Master's Degree Plan Approval form must be submitted.
 
@@ -354,15 +309,14 @@ An alternative to the Degree Plan Approval is the Master of Engineering Project.
 
 Students need to identify a sponsoring faculty to work on the project. The faculty needs to be tenured or tenure track in the Department of Computer Science.
 
--  Students must be registered for CSCI 6800 with the sponsoring faculty.
--  Students may take CSCI 6800 twice during their ME degree, and credit earned taking CSCI 6800 is counted toward the required 30 hours of the ME degree.
--  A minimum of 3 credits of CSCI 6800 is required, and a maximum of 6 credits is allowed.
--  It is up to the faculty to decide on the format, content and evaluation mechanism of the project work.
+- Students must be registered for CSCI 6800 with the sponsoring faculty.
+- Students may take CSCI 6800 twice during their ME degree, and credit earned taking CSCI 6800 is counted toward the required 30 hours of the ME degree.
+- A minimum of 3 credits of CSCI 6800 is required, and a maximum of 6 credits is allowed.
+- It is up to the faculty to decide on the format, content and evaluation mechanism of the project work.
 
 If you are interested in signing up for ME project hours, please fill out the ME Project form get the faculty approval and email it to graduate advisor.
 
-3.8 Graduation
-------------------
+## 3.8 Graduation
 
 ### 3.8.1 Master's Thesis Defense
 
@@ -380,7 +334,7 @@ Course based Master's degree students and ME students **do not** have the optio
 
 If there is a possibility that you will graduate, or defend a thesis during a given semester please notify the graduate advisor at the beginning of the semester. This does not commit you to completing your degree that semester.
 
-### 3.8.3  Application for Admission to Candidacy Form
+### 3.8.3 Application for Admission to Candidacy Form
 
 In order to graduate, you must file an [Application for Candidacy](http://www.colorado.edu/graduateschool/sites/default/files/attached-files/newform.pdf) form the semester you intend to graduate. Once you have filed one of these forms you don't have to do so again, although you will need to submit any changes to courses listed on your Application-for-Candidacy. The filing deadlines are listed in the University Catalog and posted on the graduate bulletin board. However, your graduate advisor emails this at the beginning of each term as a reminder.
 
@@ -388,7 +342,7 @@ In order to graduate, you must file an [Application for Candidacy](http://www.c
 
 In order to graduate, you must log into your myCUInfo portal and click on the student tab. Then you must select the 'Apply for Graduation' link in the middle of the page. Follow the instructions to apply for the semester you plan to graduate. If you do not graduate in the semester you plan to, then you will have to go to your myCUInfo and apply for the next semester you plan to graduate. The application deadlines are listed in the University Catalog and posted on the graduate bulletin board. You must do this at the beginning of the semester in which you plan to graduate. 
 
-### 3.8.5  Masters Candidate-for-Degree
+### 3.8.5 Masters Candidate-for-Degree
 
 If you are Option I student and have completed your course work, including six hours of thesis credit, but have not yet defended your thesis you can sign up for one credit hour of CSCI 6940, Masters Candidate-for-Degree. You must be formally registered the semester you defend your thesis. You will need a controlled enrollment number available from the graduate advisor to register for CSCI 6940.
 
@@ -408,8 +362,8 @@ MS students may take up to 6 hours of independent study during their academic ca
 
 You must find a faculty member to sponsor you for your independent study. The form that an independent study may take is up to you and your faculty sponsor. It may consist of a programming project, reading papers from the computing literature, writing a term paper on some topic, participating in a research group or almost any other type of study. However, the work to be done must be specified in an [Independent Study Form](http://www.colorado.edu/cs/node/688/attachment)(like a contract) available on the Graduate Students Forms page of the CS website. When this form has been completed, signed by you and the professor, and returned to the graduate advisor, s/he will provide you with the necessary enrollment information.
 
-3.9 Difference in Requirements between Research Vs Course MS Degree
------------------------------------------------------------------------
+## 3.9 Difference in Requirements between Research Vs Course MS Degree
+
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
@@ -481,7 +435,7 @@ You must find a faculty member to sponsor you for your independent study. The fo
   </tr>
 </table>
 
-4  Moving from MS to PhD
+4 Moving from MS to PhD
 =============================
 
 Research-based MS students may transfer to the PhD program at any time during their academic career at CU Boulder. However, you must fulfill the following requirements and submit the following documents.
@@ -489,26 +443,26 @@ Research-based MS students may transfer to the PhD program at any time during th
 4.1 Requirements
 --------------------
 
--  Be a research-based MS student. Course-based MS students interested in this option should petition and receive prior approval by the Graduate Committee before applying.
--  Must have completed at least one year within our CSEN-MS program and have a GPA of at least 3.5 in the program.
--  Cumulative GPA of at least 3.5 in both undergrad and MS degree.
--  Strong letter of support including funding plan from a CS faculty member.
+- Be a research-based MS student. Course-based MS students interested in this option should petition and receive prior approval by the Graduate Committee before applying.
+- Must have completed at least one year within our CSEN-MS program and have a GPA of at least 3.5 in the program.
+- Cumulative GPA of at least 3.5 in both undergrad and MS degree.
+- Strong letter of support including funding plan from a CS faculty member.
 
 4.2 Process
 ---------------
 
 Please submit the following to the Graduate Advisor via email at <Rajshree.Shrestha@colorado.edu>.
 
--  [Application form](https://www.colorado.edu/cs/node/978/attachment) 
--  Letter of support that includes a funding plan, from a sponsoring CS faculty member
--  Copy of transcripts for undergraduate degree and MS degree
--  Statement of purpose
--  Resume with research and publication details
--  Two more letters of recommendation
+- [Application form](https://www.colorado.edu/cs/node/978/attachment) 
+- Letter of support that includes a funding plan, from a sponsoring CS faculty member
+- Copy of transcripts for undergraduate degree and MS degree
+- Statement of purpose
+- Resume with research and publication details
+- Two more letters of recommendation
 
 The Graduate Committee will review the application and make its decision on a case-by-case basis.
 
-5  Doctoral Degree
+5 Doctoral Degree
 =======================
 
 5.1 Doctoral Preliminary Examination
@@ -524,7 +478,7 @@ In addition, the Introduction to the Computer Science PhD Program (CSCI 6000) is
 
 **Important Note:** If you plan to get a MS diploma while in the Doctoral program, you must fulfill the MS Degree requirements (See Section [Getting a Master's Degree during the Doctoral Program](applewebdata://0498032F-E975-4E8B-8B87-780218009473#_Getting_a_Master%E2%80%99s))
 
-#### 5.1.1.I  Breadth Requirement (15 credit hours)
+#### 5.1.1.I Breadth Requirement (15 credit hours)
 
 Five 5000-level (not 6000 or 7000) Computer Science (CSCI) courses must be taken, according to the following requirements:
 
@@ -546,19 +500,14 @@ The purpose of the Area Examination is to ensure that the student has sufficient
 
 There are currently six areas which PhD students can select for their Area Exam. Each area has different exam procedure and requirements. The areas are:
 
-● Computational Modeling of Complex Systems - Includes Robotics, AI, Machine Learning, NLP, Bioinformatics, and Computational Modeling [(details)](http://www.cs.colorado.edu/~mozer/index.php?dir=/Teaching/Computational_Modeling_Prelim/)
+- Computational Modeling of Complex Systems - Includes Robotics, AI, Machine Learning, NLP, Bioinformatics, and Computational Modeling [(details)](http://www.cs.colorado.edu/~mozer/index.php?dir=/Teaching/Computational_Modeling_Prelim/)
+- Human-Centered Computing  [(details)](https://www.colorado.edu/cs/human-centered-computing-prelim-details)
+- Numerical Computation  [(details)](http://www.cs.colorado.edu/~jessup/prelim.html)
+- Programming Languages  [(details)](https://www.colorado.edu/cs/programming-languages-preliminary-exam)
+- Software Engineering  [(details)](https://www.colorado.edu/cs/software-engineering-preliminary-exam)
+- Systems  [(details)](https://www.colorado.edu/cs/systems-preliminary-exam)
 
-● Human-Centered Computing  [(details)](https://www.colorado.edu/cs/human-centered-computing-prelim-details)
-
-● Numerical Computation  [(details)](http://www.cs.colorado.edu/~jessup/prelim.html)
-
-● Programming Languages  [(details)](https://www.colorado.edu/cs/programming-languages-preliminary-exam)
-
-● Software Engineering  [(details)](https://www.colorado.edu/cs/software-engineering-preliminary-exam)
-
-● Systems  [(details)](https://www.colorado.edu/cs/systems-preliminary-exam)
-
-#### 5.1.2.I  Selecting an Examination
+#### 5.1.2.I Selecting an Examination
 
 Each student is given an advisor on entry to the PhD program. During the first semester of PhD studies, the student must file a PhD Plan of Study, approved by the advisor. The plan specifies the courses and the Area Exam.
 
@@ -568,7 +517,7 @@ Each student is given an advisor on entry to the PhD program. During the first s
 4. A student may switch academic advisors with the approval of the new advisor. The new advisor will approve a revised Preliminary Exam Plan. A student changing areas who has already completed an Area Exam will not be required to take another. Instead the student will be required to make up any deficiencies as determined by the new advisor.
 5. A student is allowed at most two attempts total to pass the Area Exam.
 
-#### 5.1.2.II    Examination Scope and Scheduling
+#### 5.1.2.II Examination Scope and Scheduling
 
 1. Any three graduate faculty members can offer an Area Examination. Faculty outside the CS department may serve on the committee as members; however, the chair of the committee must be a CS faculty member.
 2. All Area Examinations are open to all students in the department, but each student's advisor must approve of the Area Exam chosen by the student through the Preliminary Exam Plan. Some Area Examinations will only be offered once per year, in the same month every year.
@@ -583,27 +532,21 @@ Many doctoral students enter the program without a Computer Science Master's d
 
 Option A: PhD students who have successfully completed an approved PhD prelim/Area exam.
 
--  Must complete 30 course credits (may or may not include independent study credits).
-
--  Must have completed PhD BREADTH requirement in their current area of research.
-
--   The graduate committee reserves the right to review these petitions if course work includes more than 2 courses outside the CS department.
+- Must complete 30 course credits (may or may not include independent study credits).
+- Must have completed PhD BREADTH requirement in their current area of research.
+- The graduate committee reserves the right to review these petitions if course work includes more than 2 courses outside the CS department.
 
  Option B: PhD students who have not successfully completed PhD prelim exam.
 
 - The MS breadth requirement. MS degree requirements are listed [here](https://www.colorado.edu/cs/current-students/graduate-students/ms-degree/research-based-traditional-ms-degree-requirements)
-
 - Must have completed 24 course credits and 6 credits of independent study.
-
 - May count only two non -CS approved courses towards MS degree.
 
 During the term you have COMPLETED the above degree requirements, if you are interested in picking up the MS degree on way to PhD, at the beginning of the semester,
 
--  Inform the Graduate Advisor that you plan to pick up your MS degree so that an MS stack is created in your portal. 
-
--  File an Application-for-Candidacy Form 
-
--  Log into your myCUInfo, click on the Student tab and click on 'Apply for Graduation'
+- Inform the Graduate Advisor that you plan to pick up your MS degree so that an MS stack is created in your portal. 
+- File an Application-for-Candidacy Form 
+- Log into your myCUInfo, click on the Student tab and click on 'Apply for Graduation'
 
 It is to your benefit to consider doing this so that if you have to leave the doctoral program for financial or personal reasons you will have something to show for your efforts.
 
@@ -616,7 +559,7 @@ If your research interests do not align with the assigned advisor, you should se
 
 You must to find an advisor to sponsor your thesis research within one year after passing your preliminary exams. 
 
-5.4 Doctoral Comprehensive Examination(Proposal)
+5.4 Doctoral Comprehensive Examination/Proposal
 ----------------------------------------------------
 
 In the CS Department, the University requirement of a Doctoral Comprehensive Examination consists solely of an oral defense of a thesis proposal (Proposal Defense.) Ideally, this should be taken within two years of passing your preliminary exams.
@@ -659,7 +602,7 @@ This will put you into the highest pay bracket for TAs and RAs in the department
 
 If you would prefer to be a full fee-paying student in order to take advantage of these services you must go to the Bursar's Office in Regent Hall each semester and ask them to change this and issue you a new student ID sticker. Those students employed by the department also have the option of obtaining a recreation center pass at the staff rate. To do this, you need to ask the person who handles your appointment in the department (see Section 6.7, Administrative Issues) for a copy of your PAF form that proves that you are employed by the department. You can then take this form to the recreation center to buy a pass. 
 
-5.7 Final Examination (Dissertation Defense)
+5.7 Final Examination / Dissertation Defense
 ------------------------------------------------
 
 The last requirement for graduation is the Final Examination; an oral defense of your dissertation. This may be done at any time after you have the required number of course credits (30) and the required number of dissertation credits (30). You must pass the defense within six years of entrance into the PhD program. Extensions of up to one year can be made, however, by the student and advisor petitioning the Graduate School. This petition has to be submitted each semester for which an extension is desired.
@@ -682,11 +625,11 @@ The committee members must be approved by the Graduate Chair of the Department a
 
 More than one dissenting vote on your defense by members of the committee means that you have failed your defense. Upon the recommendation of the examining committee, a doctoral student who fails the final examination may retake the examination. A student in the program may not take more than two Final Examinations.
 
-#### 5.7.4.I  Copies of Dissertation
+#### 5.7.4.I Copies of Dissertation
 
 It is considered good form to give copies of your thesis to the members of your committee at least two weeks prior to the exam. One copy of your thesis must be [uploaded electronically](http://etdadmin.com/colorad). The Graduate School has strict requirements for the format of the thesis. These requirements can be [found on the graduate school website](http://www.colorado.edu/GraduateSchool/academics/index.html)[. ](http://www.colorado.edu/graduateschool/academics/graduation-requirements)
 
-#### 5.7.4.II    PhD Final Paperwork
+#### 5.7.4.II PhD Final Paperwork
 
 Doctoral candidate must fill out the Doctoral Examination form and submit it to the Graduate Advisor at least two weeks before the final defense. This form will go to the graduate school for approval of your committee and will then be sent back to the Graduate Advisor. The Graduate Advisor will hold onto the paperwork and you will pick it up from the Graduate Advisor on the day of your defense. Along with the Exam form, you will pick up a final grade card that needs to be signed by the chair of your committee. After your defense, bring the Exam form (with all signatures), the final grade card, and your signature page to the Graduate Advisor. The Graduate Advisor will forward this along to the graduate school.
 
@@ -700,19 +643,19 @@ Unlike the Master's degree, you may not count any course in which you received a
 
 No graduate courses may be taken for Pass/Fail credit. This includes graduate courses which are transferred into the program. You can take courses for No Credit.
 
-5.10  PhD Transfer Courses
+5.10 PhD Transfer Courses
 --------------------------
 
 You may transfer up to 21 semester hours of qualified courses from another university or from the ACCESS program, with the approval of your advisor, the Graduate Director of the Department, and the Graduate School. If you are transferring these courses from another college, a Request for Transfer of Credit form needs to be filled out. After one full semester here, please fill out the [Transfer of Credit form](http://www.colorado.edu/graduateschool/sites/default/files/attached-files/transfercredit.pdf). This form will need to be signed by your advisor and the Graduate Director of the Department and then forwarded for approval by the Graduate School. 
 
-5.11  PhD Sufficient Progress
+5.11 PhD Sufficient Progress
 -----------------------------
 
 All students should note that the Department is given the authority to drop any student who fails to make sufficient progress toward a degree. The definition of sufficient progress is left to the Department so it is wise to notify the Department through the Graduate Advisor if you will not be taking any courses or thesis credits during a semester. If you decide not to take any courses in a particular semester it is mandatory that you
 
 Apply for the Time Off Program (TOP) to ensure you will be able to register for the next semester. See the Registrar's website for more details on the Time Off Program. Failure to register or sign up for the Time Off Program will result in your being dropped from the program. i.e., you would have to reapply and be accepted again to resume your studies. The Computer Science Department will take no action under this authority without first informing you of what you must do to resume sufficient progress and giving you a fair amount of time to satisfy those requirements. The best way to avoid problems is to maintain regular contact with your advisor and the Graduate Advisor.
 
-6   Assistantships
+6 Assistantships
 ======================
 
 6.1 Standard Assistantship Offer
@@ -768,7 +711,7 @@ The Graduate Advisor is responsible for appointing all TA's. If you are a resear
 
 There are usually grading positions available each semester. Professors looking for a grader for their course will usually send out an e-mail notification. If you are interested in grading for a particular course see the professor teaching that course.
 
-7   Graduate Student Representatives
+7 Graduate Student Representatives
 ========================================
 
 The Computer Science Graduate Students Association (CSGSA) is a student organization run by and for graduate students from the Computer Science Department at CU Boulder. Its main goal is to foster community amongst graduate students in the Department of Computer Science and other affiliated departments/institutes. In addition, the CSGSA serves as a central forum of representation for graduate students, representing graduate students' interests to the department and broader university administration. 
@@ -840,7 +783,7 @@ The treasurer's responsibilities are to:
 4. Assist the Chair where necessary
 5. Report regularly on financial status of the organization
 
-8   Miscellaneous Administrative Matters
+8 Miscellaneous Administrative Matters
 ============================================
 
 8.1 Grievance Procedures
@@ -874,9 +817,9 @@ You should note that if you are a TA, RA, GPTI, or working for the Department in
 
 Almost all communication is done via email using the various mailing lists for the department. Updates regarding classes, fellowships, employment opportunities etc. will all be sent out via email. Available mailing lists are:
 
--  <cs-phd@lists.colorado.edu>
--  <cs-me@lists.colorado.edu>
--  <cs-ms@lists.colorado.edu>
+- <cs-phd@lists.colorado.edu>
+- <cs-me@lists.colorado.edu>
+- <cs-ms@lists.colorado.edu>
 
 All messages sent to these lists are reviewed before going to the full mailing group. Expect up to 1 business day turn around.  
 
@@ -914,6 +857,6 @@ Outside of Slack, the department and CSGSA also organize a few community events 
 - Graduate Student Research Expo :  Students present research in the form of posters and talks
 - Spring Picnic : In May, the department hands out awards and provides free-food
 
-These events are usually advertised on Slack and via the department mailing lists: <cs-phd@lists.colorado.edu> and  <cs-ms@lists.colorado.edu>
+These events are usually advertised on Slack and via the department mailing lists: <cs-phd@lists.colorado.edu> and <cs-ms@lists.colorado.edu>
 
 If you want to get involved in planning events or you have an idea for an event that you would like to see happen, you should contact the CSGSA (<csgsa@colorado.edu>)
