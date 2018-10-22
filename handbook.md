@@ -79,14 +79,121 @@ menu:
         url: 39-difference-in-requirements-between-research-vs-course-ms-degree
   - title: Moving MS to PhD
     groupID: G4
+    subfolderitems:
+      - page: Requirements
+        url: 41-requirements
+      - page: Process
+        url: 42-process
   - title: Doctoral Degree
     groupID: G5
+    subfolderitems:
+    - page: Doctoral Preliminary Examination
+      url: 51-doctoral-preliminary-examination
+      subsubfolderitems:
+        - page: Course Requirement
+          url: 511-course-requirement
+        - page: Area Examination Requirement
+          url: 512-area-examination-requirement
+    - page: Getting a Master's Degree during the Doctoral Program
+      url: 52-getting-a-master-s-degree-during-the-doctoral-program
+    - page: Finding an Advisor
+      url: 53-finding-an-advisor
+    - page: Doctoral Comprehensive Examination/Proposal
+      url: 54-doctoral-comprehensive-examinationproposal
+      subsubfolderitems:
+        - page: Dissertation Credit Before the Proposal Defense
+          url: 541-dissertation-credit-before-the-proposal-defense
+        - page: Admission to Candidacy Form
+          url: 542-admission-to-candidacy-form
+        - page: Committee for Your Proposal Defense
+          url: 543-committee-for-your-proposal-defense
+        - page: Examination Report Approval Form
+          url: 544-examination-report-approval-form
+        - page: Copies of Written Proposal
+          url: 545-copies-of-written-proposal
+        - page: The Actual Proposal Defense
+          url: 546-the-actual-proposal-defense
+    - page: Dissertation Hours
+      url: 55-dissertation-hours
+    - page: Admission to Candidacy
+      url: 56-admission-to-candidacy
+    - page: Final Examination / Dissertation Defense
+      url: 57-final-examination--dissertation-defense
+      subsubfolderitems:
+        - page: PhD Defense Announcement
+          url: 571-phd-defense-announcement
+        - page: Graduate School Clearance
+          url: 572-graduate-school-clearance
+        - page: Dissertation Committee
+          url: 573-dissertation-committee
+        - page: Actual Dissertation Defense
+          url: 574-actual-dissertation-defense
+    - page: PhD Grades
+      url: 58-phd-grades
+    - page: PhD Pass/Fail Courses
+      url: 59-phd-pass-fail-courses
+    - page: PhD Transfer Courses
+      url: 510-phd-transfer-courses
+    - page: PhD Sufficient Progress
+      url: 511-phd-sufficient-progress
   - title: Assistantships
     groupID: G6
+    subfolderitems:
+    - page: Standard Assistantship Offer
+      url: 61-standard-assistantship-offer
+    - page: Students in Their First Three Years
+      url: 62-students-in-their-first-three-years
+    - page: Students Past Their First Three Years
+      url: 63-students-past-their-first-three-years
+    - page: Types of Assistantships
+      url: 64-types-of-assistantships
+    - page: Annual Review
+      url: 65-annual-review
+    - page: Pay Levels
+      url: 66-pay-levels
+    - page: Administrative Issues
+      url: 67-administrative-issues
+    - page: Grading Positions
+      url: 68-grading-positions
   - title: Graduate Student Representatives
     groupID: G7
+    subfolderitems:
+    - page: Elections
+      url: 71-elections
+    - page: Executive Committee Representative
+      url: 72-executive-committee-representative
+    - page: Graduate Committee Representatives
+      url: 73-graduate-committee-representatives
+    - page: University UGGS Representative
+      url: 74-university-uggs-representative
+    - page: CS Graduate Student Association Executive Board
+      url: 75-cs-graduate-student-association-executive-board
+      subsubfolderitems:
+        - page: CSGSA Chair
+          url: 751-csgsa-chair
+        - page: CSGSA Vice Chair
+          url: 752-csgsa-vice-chair
+        - page: CSGSA Treasurer
+          url: 753-csgsa-treasurer
   - title: Miscellaneous Administrative Matters
     groupID: G8
+    subfolderitems:
+    - page: Grievance Procedures
+      url: 81-grievance-procedures
+    - page: Independent Study
+      url: 82-independent-study
+    - page: Restricted Enrollment
+      url: 83-restricted-enrollment
+    - page: Resident Status and Procedures
+      url: 84-resident-status-and-procedures
+    - page: Graduate Student Communication
+      url: 85-graduate-student-communication
+    - page: Computer Science Colloquia
+      url: 86-computer-science-colloquia
+    - page: Other Forums for Talks
+      url: 87-other-forums-for-talks
+    - page: Graduate Student Community
+      url: 88-graduate-student-community
 ---
 
 ![View of the Engineering Center with Flatirons in background](assets/img/engineering_center.png)
