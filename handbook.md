@@ -77,6 +77,16 @@ menu:
             url: 388-independent-study-hours
       - page: Difference in Requirements between Research Vs Course MS Degree
         url: 39-difference-in-requirements-between-research-vs-course-ms-degree
+  - title: Moving MS to PhD
+    groupID: G4
+  - title: Doctoral Degree
+    groupID: G5
+  - title: Assistantships
+    groupID: G6
+  - title: Graduate Student Representatives
+    groupID: G7
+  - title: Miscellaneous Administrative Matters
+    groupID: G8
 ---
 
 ![View of the Engineering Center with Flatirons in background](assets/img/engineering_center.png)
