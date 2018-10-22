@@ -1,40 +1,40 @@
 - name: Startups2Students Fall
   image-url: assets/img/startups2students.png
-  line: Bridging the gap between students and startups
-  date: 2018-10-23 6:00 PM 
-  end-date: 2018-10-23 8:00 PM 
+  line: A different kind of hiring event - Bridging the gap between students and local startups.
+  date: 2018-10-23 6:00 PM
+  end-date: 2018-10-23 8:00 PM
   location: Idea Forge
   url: http://startups2students.org
 
 - name: Phase
   image-url: assets/img/phase.png
-  line: 16h hardware hackathon
-  date: 2018-11-10 7:00 AM 
-  end-date: 2018-11-11 2:30 AM 
+  line: Our first ever 16 hour hardware hackathon - Come learn and build with hardware!
+  date: 2018-11-10 7:00 AM
+  end-date: 2018-11-11 2:30 AM
   location: Idea Forge
   url: https://phase.hackcu.org
 
 # - name: Boulder Hacktoberfest
 #   image-url: assets/img/hacktoberfest.png
 #   line: Learning about open source development with professionals.
-#   date: 2017-10-30 5:30 PM 
-#   end-date: 2017-10-30 8:00 PM 
+#   date: 2017-10-30 5:30 PM
+#   end-date: 2017-10-30 8:00 PM
 #   location: Galvanize Boulder
 #   url: https://www.eventbrite.com/e/boulder-hacktoberfest-an-open-source-celebration-tickets-39026755075
 
 # - name: "Vim: A robust text editor"
 #   image-url: assets/img/vim-event.jpg
 #   line: Learn how vim can help you everywhere
-#   date: 2017-11-16 5:00 PM 
-#   end-date: 2017-11-16 6:00 PM 
+#   date: 2017-11-16 5:00 PM
+#   end-date: 2017-11-16 6:00 PM
 #   location: ECCR 155
 #   url: https://www.facebook.com/events/128370294597577/
 
 - name: Local Hack Day
   image-url: assets/img/flatirons.jpg
-  line: 12 hour hack day. Bringing together the local hacker community to learn and build awesome tech.
-  date: 2018-12-1 8:00 AM 
-  end-date: 2018-12-1 9:15 PM 
+  line: Our annual 12 hour hack day - Bringing together the local hacker community to learn and build new things.
+  date: 2018-12-1 8:00 AM
+  end-date: 2018-12-1 9:15 PM
   location: Idea Forge
   url: https://local.hackcu.org
 
@@ -44,14 +44,14 @@
 #   location: Idea Forge
 #   line: "Meet peers and leaders from the Front Range’s active entrepreneurship scene."
 #   url: https://siliconflatirons.org/events/tuesday-morning-coffee-2/
-  
+
 # - name: "Amazon Alexa Skills Workshops"
 #   date: 2018-01-31 6:00 PM
 #   end-date: 2018-01-31 8:30 PM
 #   location: ECCR 265
 #   line: "Learn more about building applications for Amazon Alexa! Learn to create applications for a voice user interface."
 #   url: https://www.eventbrite.com/e/amazon-alexa-skill-development-workshops-boulder-tickets-42466155414?aff=es2
-  
+
 # - name: "Intro to Blockchain"
 #   date: 2018-02-03 12:00 PM
 #   end-date: 2018-01-31 5:00 PM
@@ -70,8 +70,7 @@
 # - name: Startups2Students Spring
 #   image-url: assets/img/startups2students.png
 #   line: Bridging the gap between students and startups
-#   date: 2018-4-5 6:00 PM 
-#   end-date: 2018-4-5 8:00 PM 
+#   date: 2018-4-5 6:00 PM
+#   end-date: 2018-4-5 8:00 PM
 #   location: Idea Forge
 #   url: http://startups2students.org
-
