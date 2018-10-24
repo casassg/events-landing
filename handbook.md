@@ -1,6 +1,6 @@
 ---
 layout: handbook
-title: Computer Science Supplement to the University of Colorado Boulder Graduate Student Handbook
+title: University of Colorado Boulder Computer Science Graduate Student Handbook
 date: October 22, 2018
 menu:
   - title: Introduction
@@ -8,6 +8,8 @@ menu:
     subfolderitems:
       - page: Graduate Advisor
         url: 11-graduate-advisor
+      - page: Graduate School Policies and Procedures
+        url: 12-graduate-school-policies-and-procedures
   - title: Facilities
     groupID: G2
     subfolderitems:
@@ -202,6 +204,8 @@ menu:
 
 This handbook should answer your questions about the rules and requirements of the department for your degree program. This information is also available [on the department website](http://www.colorado.edu/cs). In case you have questions or are unclear about the rules, it is best to talk to your Graduate Advisor.
 
+A pdf version is also available for [download](https://bouldercsgrads.org/assets/pdf/graduate_student_handbook_fall_2018.pdf).
+
 ## 1.1 Graduate Advisor
 
 Rajshree Shrestha is the Computer Science Graduate Advisor. She oversees most aspects of department operation that will affect your stay here. She is here to help you graduate and is your first point of contact any time you have questions, problems, or need some help in any matter related to your studies.
@@ -212,6 +216,19 @@ Contact her at:
 - Phone: 303-492-6361
 - Office: ECOT 727
 - Office Hours: Typically, between 9:30 am -- 12 pm and 1 pm -- 3:30 pm, Tuesdays, Wednesdays and Fridays
+
+## 1.2 Graduate School Policies and Procedures
+
+The handbook is the Computer Science department supplement to the [Graduate School policies and procedures](https://www.colorado.edu/graduateschool/current-students/graduate-school-policies-and-procedures). At writing, the Graduate school policies covered
+
+- Graduate School Rules
+- Concurrent Bachelor's/Master's degree program guidelines 
+- Graduate School Grievance Policy
+    * Appeal Form
+- Graduate Student Bill of Rights and Responsibilities
+- Parental Leave Policy
+- Academic Integrity Policy
+- Research Policies
 
 # 2 Facilities
 
