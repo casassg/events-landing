@@ -28,4 +28,5 @@ Check the [Calendar](calendar.bouldercsgrads.org) for the next Town Hall date.
 ### Minutes 
 
 - [Town Hall Fall 2017](2018/04/09/Graduate-Student-Town-Hall-2017-Summary-and-Outcomes.html)
-- [Town Hall Spring 2018 - coming soon]
+- [Town Hall Spring 2018](2018/10/01/Town-Hall-Minutes-Spring-2018.html)
+- [Town Hall Fall 2018](2018/10/25/Town-Hall-Minutes-Fall-2018.html)
