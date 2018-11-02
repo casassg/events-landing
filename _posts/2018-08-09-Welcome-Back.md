@@ -1,7 +1,5 @@
 ---
-layout: brochure
-img: /assets/img/CSGSAWelcomeBack2018.png
-img_alt: Event poster for Welcome Back event
+layout: post
 ---
 
 The CSGSA and the Graduate Committee invite you to join us on September 13th for our "Welcome (back) to Boulder" event. A great opportunity to catch up with old friends and meet the new members of our community. All while enjoying some refreshment! 

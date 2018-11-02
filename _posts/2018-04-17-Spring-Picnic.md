@@ -1,7 +1,5 @@
 ---
-layout: brochure
-img: /assets/img/SpringPicnic2018.pdf
-img_alt: Event poster for spring picnic
+layout: post
 ---
 
 The Computer Science Department and CSGSA invite you to the annual Spring Picnic

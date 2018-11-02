@@ -1,7 +1,5 @@
 ---
-layout: brochure
-img: /assets/img/ResearchExpo2018.pdf
-img_alt: Event poster for research expo
+layout: post
 ---
 
 The Computer Science Department and CSGSA invite you to the first annual Graduate Research Expo
