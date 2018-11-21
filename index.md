@@ -8,7 +8,7 @@ layout: base
     <div class="container">
         <div class="row">
             <h2 class="text-center white-text">Our events</h2>
-            {% assign sorted = site.data.events | sort: 'date','last' %}
+            {% assign sorted = site.data.events | sort: 'date','last' | reverse %}
             {% for event in sorted %}               
                 <div class="col-sm-6 col-md-4 ">
                     <a {% unless event.url == null %} href="{{event.url}}" {% endunless %} target="_blank" class="event-url">
