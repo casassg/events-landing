@@ -45,8 +45,10 @@ email: contact@hackersatupc.org
 
 # Social media + community variables
 twitter: hackersupc
-fb: hackersatupc
+fb: hackersupc
 fb-community: hackersatupc
+slack: http://slack.hackersatupc.org
+telegram: http://telegram.hackersatupc.org
 
 # instagram: hackcu
 github-org: hackupc
