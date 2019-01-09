@@ -1,7 +1,9 @@
 ---
-layout: post
+layout: newsletter
 title: Welcome to the CSGSA
 ---
+
+## Welcome to the CSGSA
 
 There’s a new student organization in town; the CSGSA. Our main goal is to foster community amongst graduate students in the Department of Computer Science and other affiliated departments/institutes. We plan to host a broad range of social events, professional development events, and serve as a central forum of representation for graduate students, representing student interests to the department and the broader university administration.
 

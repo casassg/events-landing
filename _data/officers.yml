@@ -11,8 +11,8 @@ vice_chair:
   photo: assets/img/jessie.jpg
 
 treasurer:
-  name: Prasanth Prahladan
-  contact: 
+  name: Yash Sapra
+  contact: yash.sapra@colorado.edu
 
 grad_comm:
   - name: John Stechschulte
@@ -31,5 +31,12 @@ exec_comm:
   photo: assets/img/cecilia.jpg
 
 uggs:
-  - name: These positions are currently vacant
-    contact: csgsa@colorado.edu
+  - name: Emily Jensen
+    contact: emily.jensen@colorado.edu
+    photo: assets/img/emily_headshot.jpg
+
+alumni:
+  - title: Treasurer
+    people:
+      - name: Prasanth Prahladan
+        years: Fall 2018

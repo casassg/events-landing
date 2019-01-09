@@ -7,9 +7,6 @@ layout: base
 	{%if page.title%}
 	<div class="row">
 		<div class="col-md-12">
-			<div class="date pull-right">
-				<small>Written on {{ page.date | date: "%B %e, %Y" }}</small>
-			</div>
 			<h1>{{ page.title }}</h1>
 		</div>
 	</div>
@@ -17,6 +14,7 @@ layout: base
 	
 	<div class="row">
 		<div class="col-md-3" style="position:fixed">
+			<small>Last updated on {{ page.date | date: "%B %e, %Y" }}</small>
 			{% if page.menu[0] %}
 				<h2> Table of Contents </h2>
 				<ol>

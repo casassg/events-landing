@@ -65,4 +65,4 @@ sass:
 collections:
   newsletters:
     output: true
-    permalink: /newsletters/:year/:month/
+    permalink: /newsletters/:year/:month/:day/
