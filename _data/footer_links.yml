@@ -1,2 +1,8 @@
 - name: HackUPC
   url: https://hackupc.com
+- name: HackNights
+  url: https://hackersatupc.org
+- name: HackStart
+  url: https://hackersatupc.org
+- name: CopenHacks
+  url: https://copenhacks.com
