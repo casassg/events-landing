@@ -110,6 +110,30 @@
   location: Aula Estudi
   url: https://www.fib.upc.edu/ca/agenda/hacknights-2a-sessio
 
+- name: HackNight Episode III
+  line: Spend a night hacking in good company.
+  image-url: assets/img/hacknight-iii.jpg
+  date: 2019-03-15 8:00 PM
+  end-date: 2019-03-16 7:00 AM
+  location: Aula Estudi
+  url: https://www.fib.upc.edu/ca/agenda/hacknights-3a-sessio
+
+- name: HackNight Episode IV
+  line: Spend a night hacking in good company.
+  image-url: assets/img/hacknight-iv.jpg
+  date: 2019-03-29 8:00 PM
+  end-date: 2019-03-30 7:00 AM
+  location: Aula Estudi
+  url: https://www.fib.upc.edu/ca/agenda/hacknights-4a-sessio
+
+- name: HackNight Episode V
+  line: Spend a night hacking in good company.
+  image-url: assets/img/hacknight-v.jpg
+  date: 2019-04-12 8:00 PM
+  end-date: 2019-04-13 7:00 AM
+  location: Aula Estudi
+  url: https://www.fib.upc.edu/ca/agenda/hacknights-5a-sessio
+
 - name: CopenHacks 2019
   line: Microsoft's hackathon. 150 hackers. 24h. April 6-7th.
   image-url: assets/img/copenhacks.jpg
@@ -117,3 +141,27 @@
   end-date: 2019-04-07 5:00 PM
   location: Lyngby, Denmark
   url: https://copenhacks.com/
+
+- name: HackNight Episode VI
+  line: Spend a night hacking in good company.
+  image-url: assets/img/hacknight-vi.jpg
+  date: 2019-05-10 8:00 PM
+  end-date: 2019-05-11 7:00 AM
+  location: Aula Estudi
+  url: https://www.fib.upc.edu/ca/agenda/hacknights-6a-sessio
+
+- name: HackStart 2019
+  line: Meet the best startups of Barcelona.
+  image-url: assets/img/hackstart.png
+  date: 2019-05-22 12:00 AM
+  end-date: 2019-05-22 3:00 PM
+  location: Sala Agora
+  url: https://hackersatupc.org/
+
+- name: HackNight Episode VII
+  line: Spend a night hacking in good company.
+  image-url: assets/img/hacknight-vii.jpg
+  date: 2019-05-24 8:00 PM
+  end-date: 2019-05-25 7:00 AM
+  location: Aula Estudi
+  url: https://www.fib.upc.edu/ca/agenda/hacknights-7a-sessio
