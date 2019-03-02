@@ -11,4 +11,15 @@ $(function(){
 			event.parent().addClass('past');
 		}
 	})
+
+	$('.past').hide();
+
+	$('#event-slider').on('change', function() {
+		if(this.checked) {
+			$('.past').hide();
+		} else {
+			$('.past').show();
+		}
+	});
+
 })

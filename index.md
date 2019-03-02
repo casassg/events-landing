@@ -8,6 +8,12 @@ layout: base
     <div class="container">
         <div class="row">
             <h2 class="text-center white-text">Our events</h2>
+            <div class="col-md-12 center">
+                <label class="switch col-md-2">
+                    <input id="event-slider" type="checkbox" checked>
+                    <span class="slider round"></span>
+                </label>
+            </div>
             {% assign sorted = site.data.events | sort: 'date','last' | reverse %}
             {% for event in sorted %}               
                 <div class="col-sm-6 col-md-4 ">
