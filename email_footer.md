@@ -3,6 +3,7 @@ title: Legal Email Footer
 layout: legal
 ---
 
+<div class="container">
 “In compliance with the current data protection regulations we inform you of the following:
  
 DATA CONTROLLER
@@ -84,3 +85,4 @@ Furthermore, if you consider the processing of your personal data violates the r
 -	To HACKERS AT UPC, through the electronic and postal addresses indicated.
 -	To the Spanish Data Protection Agency (Agencia Española de Protección de Datos) through its electronic or postal addresses.”
 
+</div>
