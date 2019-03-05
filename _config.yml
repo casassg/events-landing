@@ -39,8 +39,9 @@ footer_text_color: "#666666"
 
 # Author variables
 author: Hackers@UPC
-author-description: "Hackers@UPC is an organization that brings together people for our technology and design event:
-    HackUPC. Our mission is to foster learning, designing, and building in order to turn student's ideas into a reality!"
+author-description: "Hackers@UPC is a student organization at Universitat Politècnica de Catalunya who brings together
+    people for our technology and design event: HackUPC. Our mission is to foster learning, designing, and building in order to turn 
+student's ideas into a reality!"
 email: contact@hackersatupc.org
 
 # Social media + community variables
