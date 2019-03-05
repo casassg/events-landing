@@ -1,5 +1,6 @@
 ---
 title: Legal Email Footer
+layout: legal
 ---
 
 “In compliance with the current data protection regulations we inform you of the following:
