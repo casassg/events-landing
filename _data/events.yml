@@ -142,9 +142,17 @@
   location: Aula Estudi
   url: https://www.fib.upc.edu/ca/agenda/hacknights-5a-sessio
 
+- name: Creating an Intelligent World Hackathon
+  line: IoT and ML hackathon. 75 hackers. Milestone Systems.
+  image-url: assets/img/milestone-hackathon.png
+  date: 2019-05-11 9:00 AM
+  end-date: 2019-05-12 5:00 PM
+  location: Sala Agora
+  url: https://www.milestonesys.com/events/events-and-webinars/hackathon-barcelona/
+
 - name: HackStart 2019
   line: Meet the best startups of Barcelona.
-  image-url: assets/img/hackstart.png
+  image-url: assets/img/hackstart.jpg
   date: 2019-05-22 12:00 AM
   end-date: 2019-05-22 3:00 PM
   location: Sala Agora
