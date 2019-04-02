@@ -1,7 +1,20 @@
 $(function(){
+
+	handleEvents = function(hide) {
+		var pastEvents = $('.past')
+		pastEvents.each(function(i, event) {
+			event = $(event);
+			if (hide) {
+				event.parent().parent().hide();
+			} else {
+				event.parent().parent().show();
+			}
+		});
+	};
+
 	var events = $('.event');
 
-	events.each(function(i,event){
+	events.each(function(i, event) {
 		event = $(event);
 		var date = event.data('date');
 		var until = event.find('.until');
@@ -10,16 +23,16 @@ $(function(){
 		if (date.isBefore(moment())){
 			event.parent().addClass('past');
 		}
-	})
+	});
 
-	$('.past').hide();
-
+	handleEvents(true);
 	$('#event-slider').on('change', function() {
-		if(this.checked) {
-			$('.past').hide();
+		if (this.checked) {
+			handleEvents(true);
 		} else {
-			$('.past').show();
+			handleEvents(false);
 		}
 	});
+
 
 })
