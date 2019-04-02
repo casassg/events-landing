@@ -7,13 +7,25 @@ layout: base
 <section class="events">
     <div class="container">
         <div class="row">
-            <h2 class="text-center white-text">Our events</h2>
-            <div class="col-md-12 center">
-                <label class="switch col-md-2">
-                    <input id="event-slider" type="checkbox" checked>
-                    <span class="slider round"></span>
-                </label>
+            <h2 class="text-center white-text">Our activities</h2>
+        </div>
+        <div class="row">
+            <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 events-switch">
+                <div class="col-xs-4 col-sm-5 col-md-5 col-lg-5 right">
+                    <h4 class="label-text">All events</h4>
+                </div>
+                <div class="col-xs-4 col-sm-2 col-md-2 col-lg-2 center">
+                    <label class="switch">
+                        <input id="event-slider" type="checkbox" checked>
+                        <span class="slider round"></span>
+                    </label>
+                </div>
+                <div class="col-xs-4 col-sm-5 col-md-5 col-lg-5 left">
+                    <h4 class="label-text">Incoming</h4>
+                </div>
             </div>
+        </div>
+        <div class="row">
             {% assign sorted = site.data.events | sort: 'date','last' %}
             {% for event in sorted %}               
                 <div class="col-sm-6 col-md-4 ">

@@ -358,6 +358,22 @@ section.events{
     margin-bottom: 35px;
 }
 
+.right {
+    text-align: right !important;
+    display: flex;
+    margin-right: -5%
+}
+
+.left {
+    text-align: left !important;
+    display: flex;
+    margin-left: -5%
+}
+
+.events-switch {
+    margin-left: 5%;
+}
+
 .switch {
     position: relative;
     display: inline-block;
@@ -417,4 +433,11 @@ input:checked + .slider:before {
   
 .slider.round:before {
     border-radius: 50%;
+}
+
+/* Label text */
+.label-text {
+    color: $accent-text-color;
+    width: 100%;
+    opacity: 0.7;
 }
