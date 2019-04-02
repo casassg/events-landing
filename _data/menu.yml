@@ -17,13 +17,10 @@
   subcategories:
   - name: Graduate Student Handbook
     url: /assets/pdf/graduate_student_handbook_fall_2018.pdf
-  - name: Don't Ignore It (Reporting and Support)
-    external: https://www.colorado.edu/dontignoreit
+  - name: Reporting and Support
+    url: concerns
   - name: Quality of Life
     url: quality_of_life
-#  - name: Course Surveys
-#    url:
-
   - name: Moving to Boulder
     url: moving
   - name: Grad Student Jobs
