@@ -118,6 +118,14 @@
   location: Aula Estudi
   url: https://www.fib.upc.edu/ca/agenda/hacknights-3a-sessio
 
+- name: Hands-on introduction to Go
+  line: Learn Go, while seeing who can find the fastest solution.
+  image-url: assets/img/intro-to-go.png
+  date: 2019-04-03 12:00 PM
+  end-date: 2019-04-03 2:00 PM
+  location: C6S302, Campus Nord
+  url: https://www.facebook.com/events/364777774122695/
+
 - name: HackNight Episode IV
   line: Spend a night hacking in good company.
   image-url: assets/img/hacknight-iv.jpg
