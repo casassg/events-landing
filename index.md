@@ -21,7 +21,7 @@ layout: base
                     </label>
                 </div>
                 <div class="col-xs-4 col-sm-5 col-md-5 col-lg-5 left">
-                    <h4 class="label-text">Incoming</h4>
+                    <h4 class="label-text">Upcoming</h4>
                 </div>
             </div>
         </div>
