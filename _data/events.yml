@@ -100,7 +100,7 @@
   date: 2019-02-15 8:00 PM
   end-date: 2019-02-16 7:00 AM
   location: Aula Estudi
-  url: https://www.fib.upc.edu/ca/agenda/hacknights-1a-sessio
+  url: https://hacknights.dev/
 
 - name: HackNight Episode II
   line: Spend a night hacking in good company.
@@ -108,7 +108,7 @@
   date: 2019-03-01 8:00 PM
   end-date: 2019-03-02 7:00 AM
   location: Aula Estudi
-  url: https://www.fib.upc.edu/ca/agenda/hacknights-2a-sessio
+  url: https://hacknights.dev/
 
 - name: HackNight Episode III
   line: Spend a night hacking in good company.
@@ -116,7 +116,7 @@
   date: 2019-03-29 8:00 PM
   end-date: 2019-03-30 7:00 AM
   location: Aula Estudi
-  url: https://www.fib.upc.edu/ca/agenda/hacknights-3a-sessio
+  url: https://hacknights.dev/
 
 - name: Hands-on introduction to Go
   line: Learn Go, while seeing who can find the fastest solution.
@@ -132,7 +132,7 @@
   date: 2019-04-12 8:00 PM
   end-date: 2019-04-13 7:00 AM
   location: Aula Estudi
-  url: https://www.fib.upc.edu/ca/agenda/hacknights-4a-sessio
+  url: https://hacknights.dev/
 
 - name: CopenHacks 2019
   line: Microsoft's hackathon. 150 hackers. 24h. April 6-7th.
@@ -142,14 +142,6 @@
   location: Lyngby, Denmark
   url: https://copenhacks.com/
 
-- name: HackNight Episode V
-  line: Spend a night hacking in good company.
-  image-url: assets/img/hacknight-v.jpg
-  date: 2019-05-10 8:00 PM
-  end-date: 2019-05-11 7:00 AM
-  location: Aula Estudi
-  url: https://www.fib.upc.edu/ca/agenda/hacknights-5a-sessio
-
 - name: Creating an Intelligent World Hackathon
   line: IoT and ML hackathon. 75 hackers. Milestone Systems.
   image-url: assets/img/milestone-hackathon.png
@@ -157,6 +149,14 @@
   end-date: 2019-05-12 5:00 PM
   location: Sala Agora
   url: https://www.milestonesys.com/events/events-and-webinars/hackathon-barcelona/
+
+- name: HackNight Episode V
+  line: Spend a night hacking in good company.
+  image-url: assets/img/hacknight-v.jpg
+  date: 2019-05-17 8:00 PM
+  end-date: 2019-05-18 7:00 AM
+  location: Aula Estudi
+  url: https://hacknights.dev/
 
 - name: HackStart 2019
   line: Come and meet the best startups of Barcelona in a different way.
@@ -172,4 +172,4 @@
   date: 2019-05-24 8:00 PM
   end-date: 2019-05-25 7:00 AM
   location: Aula Estudi
-  url: https://www.fib.upc.edu/ca/agenda/hacknights-6a-sessio
+  url: https://hacknights.dev/
