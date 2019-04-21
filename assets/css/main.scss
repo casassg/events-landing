@@ -7,10 +7,10 @@ $background-color: {{site.background_color}};
 // $accent-color: #165E33; 
 // $events-color:#AA504A;
 $accent-color: {{site.accent_color}};
-$events-color:{{site.events_overlay_color}};
+$events-color: {{site.events_overlay_color}};
 // $accent-color: #AA401B;
 // $events-color:#225E50;
-$accent-text-color:white;
+$accent-text-color: white;
 
 $footer-text: {{site.footer_text_color}};
 
@@ -48,19 +48,24 @@ section.social-media {
             &:hover {
                 color: rgba($accent-text-color, 0.7);
             }
-
         }
     }
 }
 
 .social-icons  {
-    a{
+    padding-top: 5px !important;
+
+    a {
         text-decoration: none;
         padding: 10px;
         font-size: 100%;
     }
+}
 
-   
+.web-links  {
+    li {
+        padding-top: 5px;
+    }
 }
 
 .btn {
@@ -74,14 +79,13 @@ section.social-media {
     &:hover {
         top: 1px;
         @include box-shadow(0 1px 2px 0 rgba(0, 0, 0, 0.2), 0 1.5px 5px 0 rgba(0, 0, 0, 0.19));
-
-
     }
 
     i {
         color: inherit;
         margin-right: 0.5em;
     }
+
     a {
         color: inherit;
         text-decoration: none;
@@ -107,16 +111,9 @@ section.social-media {
         &:hover{
             background-color: lighten($accent-color, 5%);
             border-color: lighten($accent-color, 5%);
-        }
-
-        
+        }   
     }
-
-
 }
-
-
-
 
 header {
     padding-top: 4em;
@@ -125,12 +122,10 @@ header {
 
     img.logo {
         width: 50%;
-        
     }
 
     img.logo, .lead,  .btn {
         margin-bottom: 2em;
-
     }
 
      div.panel {
@@ -141,12 +136,10 @@ header {
             padding: 10px;
         }
 
-        p{
+        p {
             font-size: 14px;
         }
     }
-
-
 }
 
 footer {
@@ -155,20 +148,14 @@ footer {
   
     p {
         color: $footer-text;
-        opacity: 0.5;
         font-size: 70%; 
-
     }
-
-
-    
 
     .row {
         margin-bottom: 10px;
     }
 
     a {
-        opacity: 0.5;   
         color: $footer-text;
         @include transition(0.5s ease);
         font-size: 70%; 
@@ -195,13 +182,9 @@ footer {
             color: darken($footer-text,100%);
             opacity: 0.9;
         }
-
     }
 
-    
 }
-
-
 
 .white-text {
     color: $accent-text-color;
@@ -212,11 +195,9 @@ section {
     padding-top: 2em;
 }
 
-
 section.events{
     background: rgba($events-color, 0.85);
    
-
     h2 {
         padding-bottom: 30px;
     }
@@ -235,13 +216,11 @@ section.events{
             font-size: 14px;
             @include border-radius(0);
             overflow: auto;
-
             p {
                 overflow: auto;
                  height: 40px;
                  margin: 0;
             }
-
         }
 
         .past-text {
@@ -254,7 +233,6 @@ section.events{
             color: white;
             padding: 5px;
             padding-left: 10px;
-
             @include border-radius(0 0 0 3px);
         }
 
@@ -264,7 +242,6 @@ section.events{
             background-color: darken($accent-color,5%);
             @include border-radius(0);
 
-            
             img {
                 position: relative; 
                 object-fit: cover;
@@ -284,7 +261,6 @@ section.events{
                 padding: 10px;
                 color: $accent-text-color;
 
-
                 &.light_background{
                     color: black;
                 }
@@ -299,32 +275,23 @@ section.events{
             @include border-radius(0);
         }
 
-
-
         &:hover {
             position: relative;
             top: 1px;
             box-shadow: 1px 1px 3px 1px rgba(0,0,0,.19);
             filter:brightness(95%);
-
         }
-
-
 
         &.past .past-text{ 
             display: inline;
         }
     }
 
-
-
     a.event-url {
         color: black;
-
         &:hover, &:active, &:focus {
             text-decoration: none;
         }
-
     }
 
     .calendar {

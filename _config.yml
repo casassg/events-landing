@@ -15,7 +15,7 @@ domain: hackersatupc.org
 accent_color: "#303AB2"
 events_overlay_color: "#000000"
 background_color: "#FAFAFA"
-footer_text_color: "#666666"
+footer_text_color: "#000000"
 
 # START THEME 2
 # accent_color: "#AA401B"
@@ -44,6 +44,7 @@ We organize events during the year, nationally and internationally, to promote s
 students and create a great community in the technological world. Our mission is to foster learning, designing, 
 and building in order to turn student's ideas into a reality! "
 email: contact@hackersatupc.org
+website: https://hackersatupc.org
 
 # Social media + community variables
 twitter: hackersupc
@@ -55,7 +56,10 @@ telegram: http://telegram.hackersatupc.org
 # instagram: hackcu
 github-org: hackupc
 
-
+# legal
+legal_notice: https://hackupc.com/legal_notice/
+terms_and_conditions: https://hackersatupc.org/assets/docs/HackNights_Terms_And_Conditions.pdf
+privacy_and_cookies: https://hackersatupc.org/assets/docs/Privacy_And_Cookies_Policy.pdf
 
 # TIMEZONE
 # Needs to be string from: https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
