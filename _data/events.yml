@@ -158,14 +158,6 @@
   location: Sala Agora
   url: https://www.milestonesys.com/events/events-and-webinars/hackathon-barcelona/
 
-- name: HackNight Episode V
-  line: Spend a night hacking in good company.
-  image-url: assets/img/hacknight-v.jpg
-  date: 2019-05-17 8:00 PM
-  end-date: 2019-05-18 7:00 AM
-  location: Aula Estudi
-  url: https://hacknights.dev/
-
 - name: HackStart 2019
   line: Come and meet the best startups of Barcelona in a different way.
   image-url: assets/img/hackstart.jpg
@@ -174,9 +166,9 @@
   location: Sala Agora
   url: https://hackstart.dev/
 
-- name: HackNight Episode VI
+- name: HackNight Episode V
   line: Spend a night hacking in good company.
-  image-url: assets/img/hacknight-vi.jpg
+  image-url: assets/img/hacknight-v.jpg
   date: 2019-05-24 8:00 PM
   end-date: 2019-05-25 7:00 AM
   location: Aula Estudi
