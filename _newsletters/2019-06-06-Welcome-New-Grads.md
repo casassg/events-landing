@@ -28,7 +28,7 @@ There are two slack channels you need to know about:
 
 Rajshree has set up a slack just for incoming students. There are also some CSGSA reps on this channel. If you have questions for Rajshree, or discussion specific to starting at CU Boulder, this channel will be ideal. Rajshree will also be using this channel to communicate information in the run up to Fall. You should have received an invite to this slack.
 
-We also have a general slack for CS Grad Students in the department. This is all current graduate students, **with no staff or faculty**. You will need a \@colorado.edu email address in order to join. Once you are logged in, We recommend #newgrads, #housing, #2019cohort_phd (if applicable), and #courses if you are looking to get advice from current students!
+We also have a general slack for CS Grad Students in the department. This is all current graduate students, **with no staff or faculty**. You will need a @colorado.edu email address in order to join. Once you are logged in, We recommend #newgrads, #housing, #2019cohort_phd (if applicable), and #courses if you are looking to get advice from current students!
 
 {% include emails/button.html action='Join the CS Grad Students Slack' url='https://boulder-cs-grads.slack.com/#newgrads' %}
 
