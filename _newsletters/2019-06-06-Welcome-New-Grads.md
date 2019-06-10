@@ -13,7 +13,7 @@ CSGSA is a student organization run by and for graduate students from the Comput
 
 As mentioned in Rajshree’s email we will be having a social as part of orientation. This is a great opportunity to meet grad students in the department! We will have pizza and a Scavenger Hunt!
 
-We are trying to plan some events to help folks get settled in here in Boulder and get set up. Once you have decided your travel plans, please let us know when you will be arriving in Boulder by [filling out this form](https://forms.gle/HaCCyknEMCxj3FcRA)!
+We are trying to plan some events to help folks get settled in here in Boulder and get set up. Once you have decided your travel plans, please let us know when you will be arriving in Boulder by [filling out this form](https://forms.gle/HaCCyknEMCxj3FcRA)! You may have already shared this information with another group on campus (or intend to do so), if this is the case, please indicate that on the form. 
 
 If you’d like to learn more about the CSGSA and who we are, check out our [website](https://bouldercsgrads.org/)!
 
