@@ -18,6 +18,6 @@ title: Archive
 ## Photo Albums
 
 {% for item in site.data.carousel %}
-  * {{ item.date | date_to_string }} &raquo; [{{item.title}}]({item.url})
+  * {{ item.date | date_to_string }} &raquo; [ {{item.title}} ]({{ item.url | absolute_url }})
 {% endfor %}
 
