@@ -1,0 +1,18 @@
+# This populates the FAQ section on the front page
+
+FAQ:
+  - "Current Students":
+    - title: "What are the degree requirements?"
+      url: assets/pdf/graduate_student_handbook_fall_2018.pdf
+    - title: "Where can I find support for conflicts with my advisor or others in the CS department?"
+      url: concerns
+    - title: "Can I get funding to attend a conference?"
+      url: 2018/09/12/Travel-Grants.html
+  - "New Students":
+    - title: "Where should I live in Boulder and how do I find an apartment?"
+      url: moving
+    - title: "What's the difference between a Grader and a TA position?"
+      url: 2018/07/02/CS-Graduate-Student-Jobs.html
+  - "About Us":
+    - title: "What's the CSGSA working on?"
+      url: quality_of_life      

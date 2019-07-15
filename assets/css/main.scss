@@ -50,7 +50,8 @@ section.social-media {
     @include box-shadow(0 0 2px 2px rgba(0,0,0,.2));
     background-color: $accent-color;
     color: $accent-text-color;
-    padding-bottom: 3em;
+    padding-bottom: 1em;
+    padding-top: 1em;
 
     .social-icons {
         a {
@@ -145,7 +146,6 @@ section.social-media {
 header {
     padding-top: 1em;
     padding-bottom: 1em;
-    min-height: 80%;
 
     img.logo {
         width: 100%;
@@ -156,7 +156,7 @@ header {
         @include box-shadow(1px 5px 8px 1px rgba(0,0,0,.19));
     }
 
-    img.logo, .lead,  .btn {
+    img.logo, .lead {
         margin-bottom: 2em;
 
     }
@@ -236,8 +236,8 @@ footer {
 }
 
 section {
-    padding-bottom: 2em;
-    padding-top: 2em;
+    padding-bottom: 1em;
+    padding-top: 1em;
 }
 
 section#carousel {
