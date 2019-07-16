@@ -4,7 +4,7 @@ title: Travel Grants
 author: Cecilia Mauceri
 ---
 
-So you've been accepted as a presenter at a conference, or you just want to go to further your knowledge of the field. This FAQ lays out the process for getting funding.  
+So you've been accepted as a presenter at a conference, or you just want to go to further your knowledge of the field. This post lays out the process for getting funding.  
 
 ## To Do List / Overview
 

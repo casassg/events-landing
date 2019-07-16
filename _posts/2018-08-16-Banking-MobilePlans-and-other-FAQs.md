@@ -4,7 +4,7 @@ author: Prasanth Prahladan
 title: Banking, mobile plans, and other FAQs
 ---
 
-This FAQ focuses on my experience as an international student, arriving at CU and the help I received from the current-students at that time. 
+This post focuses on my experience as an international student, arriving at CU and the help I received from the current-students at that time. 
 
 Key areas of focus include
 
