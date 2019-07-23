@@ -84,7 +84,7 @@
   date: 2018-10-19 3:00 PM 
   end-date: 2018-10-21 4:30 PM 
   location: Campus Nord
-  url: https://hackupc.com
+  url: https://2018.hackupc.com
 
 - name: Intro to Artificial Neural Networks
   line: An Introduction to convolutional neural networks for Computer Vision.
@@ -173,3 +173,11 @@
   end-date: 2019-05-25 7:00 AM
   location: Aula Estudi
   url: https://hacknights.dev/
+
+- name: HackUPC 2019
+  line: BarcelonaTech's hackathon. 700 hackers. 36h. Oct 11th-13th.
+  image-url: assets/img/hackupc2019.png
+  date: 2019-10-11 3:00 PM 
+  end-date: 2019-10-13 4:30 PM 
+  location: Campus Nord
+  url: https://hackupc.com
