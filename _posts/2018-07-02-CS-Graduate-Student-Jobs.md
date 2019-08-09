@@ -53,7 +53,7 @@ text-align:right;
     <td>&lt;= 20**</td>
     <td></td>
     <td></td>
-    <td>Responsibilities vary by course, but can include Grading, administration and office hours. Will not include teaching recitation </td>
+    <td>Responsibilities vary by course, but can include grading, administration and office hours. Will not include teaching recitation </td>
     <td>Both undergraduate and graduate classes</td>
   </tr>
 </table>
@@ -74,17 +74,17 @@ Typically, TAs are assigned with the following priorities
 
 1. PhD students with funding commitment
 2. PhD students without funding commitment and MS students who have previously held TAs
-3. Outstanding GCAs and graders are also at times considered for TA positions, if needed.
+3. Outstanding GSS are also at times considered for TA positions, if needed.
 
 At all priority levels, you must perform your TA duties well. Students who have previously held TA positions and underperformed do not get picked up again.  
 
-GCAs and grader positions mostly go to Masters students.
+GSS and grader positions mostly go to Masters students.
 
 If you want an RA, you need to speak to a professor with research funding and convince them to hire you. For PhD students, the professor who funds your RA is typically your research advisor.
 
 ## How many hours will I get?
 
-Hours for GCAs and Graders vary based on the enrollment in the courses, and are usually determined just before the start of the semester. In general, more students mean more available hours. For GCA's, the course instructor receives 20 hrs of GCA help per 60 enrolled students.
+Hours for GSS vary based on the enrollment in the courses, and are usually determined just before the start of the semester. In general, more students mean more available hours. 
 
 I went through the historical FCQs of courses being offered Fall 2018 to get an idea of past enrollment. Larger course size means more hours will be available. The department has been growing steadily for the past few years and interest in topics can vary, but the historical numbers can give you a rough idea of how many hours you might get.
 
