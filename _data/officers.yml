@@ -3,43 +3,56 @@
 chair: 
   name: Stephen Hutt
   contact: Stephen.Hutt@colorado.edu
-  photo: assets/img/stephen.jpg
+  photo: assets/img/officers/stephen.jpg
 
 vice_chair:
   name: Jessie Finocchiaro
   contact: jefi8453@colorado.edu
-  photo: assets/img/jessie.jpg
+  photo: assets/img/officers/jessie.jpg
 
 treasurer:
   name: Yash Sapra
   contact: yash.sapra@colorado.edu
+  photo: assets/img/officers/yash.jpg
 
 grad_comm:
-  - name: John Stechschulte
-    contact: John.Stechschulte@colorado.edu
-    photo: assets/img/john.jpeg
-  - name: Prashil Bhimani
-    contact: prashil.bhimani@colorado.edu
-    photo: assets/img/prashil.jpg
-  - name: Stephen Hutt
-    contact: Stephen.Hutt@colorado.edu
-    photo: assets/img/stephen.jpg
+  - name: Emily Jensen
+    contact: Emily.Jensen@colorado.edu
+    photo: assets/img/officers/emily_headshot.jpg
+  - name: Isabella Huang
+    contact: Isabella.Huang@colorado.edu
+    photo: assets/img/officers/isabella.jpg
+  - name: Nagarajan Shanmuganathan
+    contact: Nagarajan.Shanmuganathan@Colorado.EDU
+    photo: assets/img/officers/flowers.png
 
 exec_comm:
-  name: Cecilia Mauceri
-  contact: cecilia.mauceri@colorado.edu
-  photo: assets/img/cecilia.jpg
+  name: Layne Jackson Hubbard
+  contact: Layne.Hubbard@colorado.edu
+  photo: assets/img/officers/layne.jpg
 
 uggs:
-  - name: Emily Jensen
-    contact: emily.jensen@colorado.edu
-    photo: assets/img/emily_headshot.jpg
+  name: Soumyajyoti Bhattacharya
+  contact: soumyajyoti.bhattacharya@colorado.edu
+  photo: assets/img/officers/soumyajyoti.jpg
 
 alumni:
   - title: Treasurer
     people:
       - name: Prasanth Prahladan
         years: Fall 2018
+  - title: Graduate Committee
+    people:
+      - name: Prashil Bhimani
+        years: 2018-2019
+      - name: John Stechschulte
+        years: 2017-2019
+      - name: Stephen Hutt
+        years: 2017-2019
+  - title: Executive Committee
+    people:
+      - name: Cecilia Mauceri
+        years: 2017-2019
   - title: Web Guru
     people:
       - name: Gerard Casas

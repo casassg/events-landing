@@ -1,35 +1,24 @@
 <header>
-	<div class="container">
-		<div class="row">
-			<div class="col-md-12">
-				<h1> Welcome {{site.name}}! </h1>
-				<p class="lead"> {{site.author-description | markdownify | remove: '<p>' | remove: '</p>'}}</p>
-			</div>
-			<div class="col-md-5">
-				<figure>
-					<img src="{{site.front_photo.photo}}" alt="{{site.front_photo.alt}}" class="logo">
-					<!-- <figcaption style="padding-bottom: 20pt">{{site.front_photo.caption}}</figcaption> -->
-				</figure>
-			</div>
-			<div class="col-md-7">
-				<div class="panel panel-default">
-					<div class="panel-body">
-						{% for point in site.data.what_we_do %}
-						<h2>{{point.title}}</h2>
-						<p>{{point.description}}</p>
-						{%unless forloop.last %}
-						<hr>{%endunless%} {% endfor %}
-					</div>
-				</div>
-			
-			</div>
-		</div>
-		<div class="row">
-			<div class="col-md-12">
-				<a class="btn btn-accent btn-block" href="{{site.slack-signup}}" target="_blank">
-					<i class="fa fa-slack" aria-hidden="true"></i> Join on Slack
-				</a>
-			</div>
-		</div>
-	</div>
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <h1> Welcome to the CSGSA! </h1>
+            </div>
+            <div class="col-md-5">
+                <figure>
+                    <img src="{{site.front_photo.photo}}" alt="{{site.front_photo.alt}}" class="logo">
+                        <!-- <figcaption style="padding-bottom: 20pt">{{site.front_photo.caption}}</figcaption> -->
+                        </figure>
+            </div>
+            <div class="col-md-7">
+                <div class="lead">
+                    {{site.data.what_we_do.description | markdownify}}
+                </div>
+                
+                <a class="btn btn-accent btn-block" href="{{site.slack-signup}}" target="_blank">
+                    <i class="fa fa-slack" aria-hidden="true"></i> Join on Slack
+                </a>
+            </div>
+        </div>
+    </div>
 </header>

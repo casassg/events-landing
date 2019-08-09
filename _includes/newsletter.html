@@ -1,8 +1,27 @@
-<section id="newsletter" class="accent-section">
+<section id="FAQ">
 <div class="container">
 	<div class="row">
 		<div class="col-md-12">
-			<h2> Posts and FAQs </h2>
+			<h2> Useful Resources </h2>
+			{% for header in site.data.FAQ.FAQ %}
+			{% for group in header %}
+			<h3> {{ group[0] }} </h3>
+			<ul class="list">
+			{% for question in group[1] %}
+			<li><a href="{{question.url  | relative_url}}">{{ question.title }}</a></li>
+			{% endfor %}
+</ul>
+      			{% endfor %}
+{% endfor %}
+		</div>
+	</div>
+</div> 
+</section>
+<section id="newsletter">
+<div class="container">
+	<div class="row">
+		<div class="col-md-12">
+			<h2> Newsletter </h2>
 		</div>
 	</div>
 	<div class="row">

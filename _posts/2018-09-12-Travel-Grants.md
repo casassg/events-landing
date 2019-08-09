@@ -4,7 +4,7 @@ title: Travel Grants
 author: Cecilia Mauceri
 ---
 
-So you've been accepted as a presenter at a conference, or you just want to go to further your knowledge of the field. This FAQ lays out the process for getting funding.  
+So you've been accepted as a presenter at a conference, or you just want to go to further your knowledge of the field. This post lays out the process for getting funding.  
 
 ## To Do List / Overview
 
@@ -28,6 +28,32 @@ Apply for all the grants that you are eligible for to cover as much of your trav
 
 There are four main sources of travel grants available to CS graduate students. Click grant titles to expand.
 
+<details><summary markdown="span">Computer Science Department Conference Support Scholarships </summary>
+<div class="tip" markdown="1"> 
+
+**[Website](https://www.colorado.edu/cs/current-students/graduate-students/funding-opportunities)**
+
+Cycle :
+
+- Rolling basis throughout academic year until funds are exhausted
+
+Amount : 
+
+- $300 - $1,000
+
+Eligibility :
+
+- Must be presenting a paper
+- Fill out and submit [Department Conference Support Scholarship form](https://www.colorado.edu/cs/sites/default/files/attached-files/dept_conference_scholarship_application_0.pdf) to [Rajshree](mailto:Rajshree.shrestha@colorado.edu)
+- Have faculty advisor send [Rajshree](mailto:Rajshree.shrestha@colorado.edu) an email attesting to the quality of the conference (e.g., top tier, acceptance rate, stature) and whether you will be presenting a paper.
+- Priority given to students presenting at national CS meetings
+- Students can receive funding once per year
+
+</div>
+</details>
+
+-----------
+
 <details><summary markdown="span">Graduate School Travel Grants</summary>
 <div class="tip" markdown="1">
 
@@ -35,16 +61,20 @@ There are four main sources of travel grants available to CS graduate students. 
 
 Cycle : 
 
-- November applications fund travel between January 1, 2018 and March 31, 2018
-- March applications fund travel between April 1, 2018 and August 31, 2018
-- July applications fund travel between September 1, 2018 and December 31, 2018
+This application for travel occurring 9/1/19-12/31/19 will be open: July 17-18, 2019
+This application for travel occurring 1/1/20-3/31/20 will be open: November 13-14, 2019
+This application for travel occurring 4/1/20-8/31/20 will be open: March 11-12, 2020
+
+- July applications fund travel between September 1, 2019 and December 31, 2019
+- November applications fund travel between January 1, 2019 and March 31, 2019
+- March applications fund travel between April 1, 2020 and August 31, 2020
 
 Deadline :
 
 - Application is always only open for 48 hours, midnight to midnight
-	- November 15-16, 2017
-	- March 14-15, 2018
-	- July 11-12, 2018
+	- July 17-18, 2019
+	- November 13-14, 2019
+	- March 11-12, 2020
 
 Amount :
 
@@ -61,31 +91,6 @@ Eligibility :
 </details>
 
 ------------
-
-<details><summary markdown="span">Computer Science Department Travel Grants </summary>
-<div class="tip" markdown="1"> 
-
-**[Website](https://www.colorado.edu/cs/current-students/graduate-students/funding-opportunities)**
-
-Cycle :
-
-- Rolling basis throughout academic year until funds are exhausted
-
-Amount : 
-
-- $600 - $1,000
-
-Eligibility :
-
-- Must be presenting a paper
-- Priority given to students presenting at national CS meetings
-- Students can receive funding once per year
-- Recommended that you first apply for a Graduate School Grant (see above)
-
-</div>
-</details>
-
------------
 
 <details><summary markdown="span">UGGs Travel Grants</summary>
 <div class="tip" markdown="1">

@@ -1,0 +1,18 @@
+# This populates the FAQ section on the front page
+
+FAQ:
+  - "Current Students":
+    - title: "Computer Science Graduate Student Handbook"
+      url: assets/pdf/graduate_student_handbook_fall_2018.pdf
+    - title: "Reporting Conflicts within the Department"
+      url: concerns
+    - title: "Travel Funding How-to"
+      url: 2018/09/12/Travel-Grants.html
+  - "New Students":
+    - title: "Moving to Boulder"
+      url: moving
+    - title: "Computer Science Graduate Student Jobs"
+      url: 2018/07/02/CS-Graduate-Student-Jobs.html
+  - "About Us":
+    - title: "Quality of Life Survey"
+      url: quality_of_life      
