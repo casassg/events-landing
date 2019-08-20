@@ -4,7 +4,7 @@ title: CS Graduate Student Jobs
 author: Cecilia Mauceri
 ---
 
-This FAQ gives a brief overview of the differences between various jobs offered by the department. It is intended to help students choose between available job options. If you have other questions about jobs, come ask us on [Slack](https://boulder-cs-grads.slack.com/). We'll also update this FAQ periodically. 
+This FAQ gives a brief overview of the differences between various jobs offered by the department. It is intended to help students choose between available job options. If you have other questions about jobs, come ask us on [Slack](https://boulder-cs-grads.slack.com/). We'll also update this FAQ periodically.
 
 ## Job Comparison
 
@@ -48,54 +48,45 @@ text-align:right;
     <td>Undergraduate Only</td>
   </tr>
   <tr>
-    <td>Graduate Course Assistant (GCA)</td>
-    <td>$20 / hr</td>
-    <td>&lt;= 20**</td>
-    <td></td>
-    <td></td>
-    <td>Same as TA except will not teach recitation</td>
-    <td>Graduate Only</td>
-  </tr>
-  <tr>
-    <td>Grader</td>
+    <td>Graduate Student Staff (GSS)</td>
     <td>$15 / hr</td>
     <td>&lt;= 20**</td>
     <td></td>
     <td></td>
-    <td>Grading only</td>
-    <td>Both undergraduate and graduate</td>
+    <td>Responsibilities vary by course, but can include grading, administration and office hours. Will not include teaching recitation </td>
+    <td>Both undergraduate and graduate classes</td>
   </tr>
 </table>
 
 '*' This amount is distributed monthly. The fall semester has 4 months, and the spring semester has 5. So the monthly earnings are $3081 and $2465 respectively. Also, post proposal PhD students in the CS department get a raise to $13,053 / semester.
 
-'**' GCA and Grader hours depend on course enrollment. 
+'**' GSS hours depend on course enrollment.
 
 There are a few other rarer jobs, such as lead TA and graduate part time instructor (GPTI), but the above are the most common.
 
 ## How to get one of these jobs
 
-Rajshree sends out a survey about three months before each semester to look for TAs, GCAs, and graders for courses. She then works with the curriculum/TA sub-committee to try and match the respondents with available courses. You can also find out about courses that need TAs, GCAs and graders from Rajshree. For PhD students, your research advisor might occasionally ask you to TA their course.
+Rajshree sends out a survey about three months before each semester to look for TAs, and GSS for courses. She then works with the curriculum/TA sub-committee to try and match the respondents with available courses. You can also find out about courses that need TAs, GSS from Rajshree. For PhD students, your research advisor might occasionally ask you to TA their course.
 
-For upper-level courses, you need to have taken the course before or have relevant experience in order to qualify to be a TA or GCA.  
+For upper-level courses, you need to have taken the course before or have relevant experience in order to qualify to be a TA or GSS.  
 
 Typically, TAs are assigned with the following priorities
 
-1. PhD students with funding commitment 
-2. PhD students without funding commitment and MS students who have previously held TAs 
-3. Outstanding GCAs and graders are also at times considered for TA positions, if needed. 
+1. PhD students with funding commitment
+2. PhD students without funding commitment and MS students who have previously held TAs
+3. Outstanding GSS are also at times considered for TA positions, if needed.
 
 At all priority levels, you must perform your TA duties well. Students who have previously held TA positions and underperformed do not get picked up again.  
 
-GCAs and grader positions mostly go to Masters students.
+GSS positions mostly go to Masters students.
 
 If you want an RA, you need to speak to a professor with research funding and convince them to hire you. For PhD students, the professor who funds your RA is typically your research advisor.
 
 ## How many hours will I get?
 
-Hours for GCAs and Graders vary based on the enrollment in the courses, and are usually determined just before the start of the semester. In general, more students mean more available hours. For GCA's, the course instructor receives 20 hrs of GCA help per 60 enrolled students.
+Hours for GSS vary based on the enrollment in the courses, and are usually determined just before the start of the semester. In general, more students mean more available hours.
 
-I went through the historical FCQs of courses being offered Fall 2018 to get an idea of past enrollment. Larger course size means more hours will be available. The department has been growing steadily for the past few years and interest in topics can vary, but the historical numbers can give you a rough idea of how many hours you might get. 
+I went through the historical FCQs of courses being offered Fall 2018 to get an idea of past enrollment. Larger course size means more hours will be available. The department has been growing steadily for the past few years and interest in topics can vary, but the historical numbers can give you a rough idea of how many hours you might get.
 
 <table>
   <tr>
