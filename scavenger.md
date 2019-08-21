@@ -11,7 +11,7 @@ title: 2018 Welcome CS Grad Scavenger Hunt
 
 ## Anagrams and clues
 
-Each image has an anagram assigned. Find the picture location to solve the anagram. 
+Each image has an anagram assigned. Find the picture location to solve the anagram.
 
 <section id="carousel" class="accent-section">
 
@@ -23,7 +23,7 @@ Each image has an anagram assigned. Find the picture location to solve the anagr
             <li data-target="#myCarousel" data-slide-to="{{forloop.index0}}" {% if forloop.index0 == 0 %}class="active"{%endif%}></li>
           {% endfor %}
         </ol>
-  
+
         <!-- Wrapper for slides -->
         <div class="carousel-inner">
           {% for item in site.data.anagrams %}
@@ -34,10 +34,10 @@ Each image has an anagram assigned. Find the picture location to solve the anagr
             </div>
           </div>
           {%endfor %}
-  
-          
+
+
         </div>
-  
+
         <!-- Left and right controls -->
         <a class="left carousel-control" href="#myCarousel" data-slide="prev">
           <span class="glyphicon glyphicon-chevron-left"></span>
@@ -60,7 +60,7 @@ Done already? Send your answers here.
 
 <div class="row">
   <div class="col-md-5">
-    <a class="btn btn-accent btn-block" href="https://docs.google.com/forms/d/e/1FAIpQLSfylJB-yEkgG4uSyBmMKF8G77HSkaKPsQnMx3iRgJ2elW75zw/viewform?usp=sf_link" target="_blank">
+    <a class="btn btn-accent btn-block" href="https://forms.gle/AjuvKN44SES4YWps5" target="_blank">
       Send answers
     </a>
   </div>
