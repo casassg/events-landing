@@ -3,7 +3,7 @@ layout: page
 title: 2018 Welcome CS Grad Scavenger Hunt
 ---
 
-<p class="lead">Get ready to join the 2018 Scavenger Hunt. Solve the anagrams by finding the location shown in the image. Look around to find a text that is an anagram.</p>
+<p class="lead">Get ready to join the 2019 Scavenger Hunt. Solve the anagrams by finding the location shown in the image. Look around to find a text that is an anagram.</p>
 
 <p class="lead">Once you are done, send your answers in the button below.</p>
 
