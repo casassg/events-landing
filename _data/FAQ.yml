@@ -8,6 +8,8 @@ FAQ:
       url: concerns
     - title: "Travel Funding How-to"
       url: 2018/09/12/Travel-Grants.html
+    - title: "CEAS ProReady"
+      url: "https://www.colorado.edu/engineering/proready"
   - "New Students":
     - title: "Moving to Boulder"
       url: moving
@@ -15,4 +17,4 @@ FAQ:
       url: 2018/07/02/CS-Graduate-Student-Jobs.html
   - "About Us":
     - title: "Quality of Life Survey"
-      url: quality_of_life      
+      url: quality_of_life
