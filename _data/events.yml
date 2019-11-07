@@ -181,3 +181,11 @@
   end-date: 2019-10-13 4:30 PM 
   location: Campus Nord
   url: https://hackupc.com
+
+- name: bitsxlaMarato 2019
+  line: La Marató hackathon. 36h. Dec 13th-15th.
+  image-url: assets/img/bitsxlamarato2019.jpg
+  date: 2019-12-13 6:00 PM 
+  end-date: 2019-12-15 4:30 PM 
+  location: Campus Nord
+  url: https://www.fib.upc.edu/la-marato
