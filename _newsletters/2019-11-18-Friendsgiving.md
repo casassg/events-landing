@@ -6,7 +6,7 @@ date: 18-11-2019
 
 ## Upcoming Events
 
-<img src="https://bouldercsgrads.org/assets/img/friendsgiving_squirrels2.png" alt="Friendsgiving 2018" style="max-width: 100%;">
+<img src="https://bouldercsgrads.org/assets/img/friendsgiving_squirrels_noText.png" alt="Friendsgiving 2018" style="max-width: 100%;">
 
 
 ### Saturday, November 23rd, 2pm at 1203 High St, Boulder
