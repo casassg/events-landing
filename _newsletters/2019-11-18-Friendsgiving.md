@@ -4,7 +4,7 @@ title: Friendsgiving
 date: 18-11-2019
 ---
 
-## Upcoming Events
+## Friendsgiving 2019
 
 <img src="https://bouldercsgrads.org/assets/img/friendsgiving_squirrels_noText.png" alt="Friendsgiving 2018" style="max-width: 100%;">
 
