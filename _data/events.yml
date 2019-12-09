@@ -189,3 +189,11 @@
   end-date: 2019-12-15 4:30 PM 
   location: Campus Nord
   url: https://www.fib.upc.edu/la-marato
+  
+- name: Probabilistic data structures in Golang
+  line: We will discuss how multiple algorithms/data structures are used.
+  image-url: assets/img/data-structures-go.jpg
+  date: 2019-12-11 12:00 PM
+  end-date: 2019-12-11 2:00 PM
+  location: C6S302, Campus Nord
+  url: https://www.facebook.com/events/596405280901217/
