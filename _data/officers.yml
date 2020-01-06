@@ -1,19 +1,19 @@
 # This populates the Officers page
 
-chair: 
-  name: Stephen Hutt
-  contact: Stephen.Hutt@colorado.edu
-  photo: assets/img/officers/stephen.jpg
-
-vice_chair:
+chair:
   name: Jessie Finocchiaro
   contact: jefi8453@colorado.edu
   photo: assets/img/officers/jessie.jpg
 
+vice_chair:
+  name: Emily Jensen
+  contact: Emily.Jensen@colorado.edu
+  photo: assets/img/officers/emily_headshot.jpg
+
 treasurer:
-  name: Yash Sapra
-  contact: yash.sapra@colorado.edu
-  photo: assets/img/officers/yash.jpg
+  name: Dylan Fox
+  contact: dylan.fox@colorado.edu
+  photo: assets/img/officers/dylan.jpg
 
 grad_comm:
   - name: Emily Jensen
@@ -37,10 +37,16 @@ uggs:
   photo: assets/img/officers/soumyajyoti.jpg
 
 alumni:
+  - title: chair
+    people:
+      - name: Stephen Hutt
+        years: Spring 2018 - Fall 2019
   - title: Treasurer
     people:
       - name: Prasanth Prahladan
         years: Fall 2018
+      - name: Yash Sapra
+        years: Spring - Fall 2019
   - title: Graduate Committee
     people:
       - name: Prashil Bhimani
