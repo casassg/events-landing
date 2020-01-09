@@ -1,0 +1,27 @@
+---
+layout: newsletter
+title: Welcome back for Spring 2020
+date: 10-01-2020
+---
+
+## Welcome Back lunch hour 2020
+
+Come reunite with your friends, labmates, faculty, and CSGSA for some snacks and friendship and get to meet the new CSGSA officers if you don't already know us.  
+
+The department will be hosting a welcome back get-together with light snacks this _Wednesday, January 15 from 11:30a-1p in DLC lobby_.  Hope to see you there!
+
+## Introducing new CS GSA officers
+
+The Computer Science Graduate Student Association (CSGSA) is a student organization run by and for graduate students from the Computer Science Department at CU Boulder. Our main goal is to foster community amongst graduate students in the Department of Computer Science and other affiliated departments/institutes.
+
+Any student is welcome to attend our meetings on _Mondays from 12-12:50pm in ECES 112_ this semester!  
+
+CSGSA officers include elected GSA officers (chair, vice chair, and treasurer) and committee representatives (executive committee, graduate committee, and UGGS).  GSA officers are elected every calendar year, while committee representatives are elected every school year.  We do this so there is not an entirely new CSGSA at one, but instead provide continuous opportunities for you to run for a position and get involved in that way if you would like.
+
+With that, we wanted to introduce our three new CSGSA officers this semester:
+
+* _Chair:_ Jessie Finocchiaro, 3rd year PhD student
+* _Vice Chair:_ Emily Jensen, 2nd year PhD student
+* _Treasurer_: Dylan Fox, 1st year MS student
+
+Please do not hesitate to contact us with any questions or comments!  Email the CSGSA [here](mailto:csgsa@colorado.edu) or find officer emails [on our website](https://bouldercsgrads.org/officers).
