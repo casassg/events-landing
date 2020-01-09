@@ -1,9 +1,8 @@
 ---
 layout: newsletter
-title: Welcome back for Spring 2020
+title: Welcome Back!
 date: 10-01-2020
 ---
-
 ## Welcome Back lunch hour 2020
 
 Come reunite with your friends, labmates, faculty, and CSGSA for some snacks and friendship and get to meet the new CSGSA officers if you don't already know us.  
