@@ -199,7 +199,6 @@
   url: https://www.facebook.com/events/596405280901217/
   
 - name: Hash Code 2020 #Event name
-  light_background: True # Optional: only put if image-url is set and image is light
   image-url: assets/img/hash_code.JPG # Optional: only if you want a preview image in the heading
   line: Hackers@UPC hub for Google coding competition # Small description of event
   date: 2020-02-20 6:00 PM # Optional: When is the event starting
