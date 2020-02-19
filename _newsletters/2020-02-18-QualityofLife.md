@@ -13,6 +13,10 @@ The CSGSA is putting out our annual quality of life survey, and would love for y
 
 {% include emails/button.html action='Take the survey' url='https://cuboulder.qualtrics.com/jfe/form/SV_5zGsBBg4CLCbZhH' %}
 
-## And as a "thank you"...
+And as a "thank you," come grab a bagel from Woodgrain Bagels with the CSGSA on _Monday, March 2 in ECES 112 from 12-1pm_ while you take the quality of life survey, or show us that you've taken it and you can take your bagel to go!
 
-Come grab a bagel from Woodgrain Bagels with the CSGSA on _Monday, March 2 in ECES 112 from 12-1pm_ while you take the quality of life survey, or show us that you've taken it and you can take your bagel to go!
+## And mark your calendars
+
+We will be discussing results of the Quality of Life survey (and more!) *with faculty* at the Computer Science graduate town hall this semester on _March 12th_ from _3:30-4:30p in ECCR 265_ (normal colloquium time/location.)  Suggest additional discussion topics below:
+
+{% include emails/button.html action='Suggest a town hall topic' url='https://docs.google.com/forms/d/e/1FAIpQLSef9U6T6Y58_1eNcszcYhaHVA4L7Hls0GwXIVXECQ9xySQyPA/viewform?usp=sf_link' %}
