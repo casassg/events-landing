@@ -16,7 +16,7 @@ Please note these students are mandatory reporters, so while you can choose to s
 A microaggression is a term used for brief and commonplace daily verbal, behavioral, or environmental indignities, whether intentional or unintentional, that communicate hostile, derogatory, or negative prejudicial slights and insults toward any group, particularly culturally marginalized groups.</p>
 <hr>
 <h2>Department Contacts</h2>
-<p>First point of contact for most concerns is the Graduate Advisor, <a href="mailto:Rajshree.Shrestha@colorado.edu" class="alert-link">Rajshree.Shrestha</a>.</p>
+<p>First point of contact for most concerns is the Graduate Advisor, <a href="mailto:Rajshree.Shrestha@colorado.edu" class="alert-link">Rajshree Shrestha</a>.</p>
 
 <p>She will help you identify the resources available and navigate the grievance and reporting procedures. Her office hours are listed on the <a href="http://calendar.bouldercsgrads.org" class="alert-link">calendar</a>.</p>
 <hr>
