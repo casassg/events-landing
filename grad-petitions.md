@@ -2,7 +2,7 @@
 layout: page
 title: Submit a Graduate Petition
 ---
-##Submit a graduate petition
+# Submit a graduate petition
 As of Spring 2020, you may submit your petition online via the form available at [here](https://www.colorado.edu/cs/current-students/graduate-students/forms-policies).
 
 Please use this form to submit your petitions for the following:
