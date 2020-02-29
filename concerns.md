@@ -12,9 +12,9 @@ Please feel free to use <a href="https://forms.gle/ezhYMjs3Q2Y24XBe7" class="ale
 
 Please note these students are mandatory reporters, so while you can choose to stay anonymous, incidents reported on here may have to be reported to the University.
 
-<b>What is a microaggresion?</b>
-A microaggression is a term used for brief and commonplace daily verbal, behavioral, or environmental indignities, whether intentional or unintentional, that communicate hostile, derogatory, or negative prejudicial slights and insults toward any group, particularly culturally marginalized groups.
-
+<p><b>What is a microaggresion?</b>
+A microaggression is a term used for brief and commonplace daily verbal, behavioral, or environmental indignities, whether intentional or unintentional, that communicate hostile, derogatory, or negative prejudicial slights and insults toward any group, particularly culturally marginalized groups.</p>
+<hr>
 <h2>Department Contacts</h2>
 <p>First point of contact for most concerns is the Graduate Advisor, <a href="mailto:Rajshree.Shrestha@colorado.edu" class="alert-link">Rajshree.Shrestha</a>.</p>
 
