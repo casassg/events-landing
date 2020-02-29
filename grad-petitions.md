@@ -2,8 +2,8 @@
 layout: page
 title: Submit a Graduate Petition
 ---
-# Submit a graduate petition
-As of Spring 2020, you may submit your petition online via the form available at [here](https://www.colorado.edu/cs/current-students/graduate-students/forms-policies).
+
+As of Spring 2020, you may submit your petition online via the form available [here](https://www.colorado.edu/cs/current-students/graduate-students/forms-policies).
 
 Please use this form to submit your petitions for the following:
 1.  Request for override of CSEN course prerequisite, if you have completed similar courses elsewhere
