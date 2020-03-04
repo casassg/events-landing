@@ -12,6 +12,10 @@ Welcome to Boulder. We've written the following FAQs about moving to Boulder
 - [International Arrivals](2018/08/16/Banking-MobilePlans-and-other-FAQs.html)
 	- Banking and Mobile Plans 
 	- How to get here from the airport
+- [Learn More About Boulder](https://docs.google.com/presentation/d/1X7jTMxL2pxPcWZBnH9oJmecSq44WV1nCOOzjswJ24NY/edit?usp=sharing)
+	- Covers things to do in Boulder and Denver
+	- Transportation options
+	- Best neighborhoods and suburbs to find housing
 
 You may also want to checkout these official resources
 
