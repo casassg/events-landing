@@ -209,7 +209,7 @@
 - name: HackFromHome #Event name
   image-url: assets/img/hackfromhome.png # Optional: only if you want a preview image in the heading
   line: Online hackathon that brings you home the hacker spirit during the confinement due to the COVID-19  # Small description of event
-  date: 2020-03-20 12:00 PM # Optional: When is the event starting
-  end-date: 2020-03-21 00:00 AM # Optional: When is the event ending, make sure you set it if date is set
+  date: 2020-03-21 12:00 PM # Optional: When is the event starting
+  end-date: 2020-03-22 00:00 AM # Optional: When is the event ending, make sure you set it if date is set
   location: Your house # Optional: Location where the event will be celebrated, set TBD if not sure yet
   url: http://hackfromhome.hackersatupc.org/ # Optional: Url with more info about the event
