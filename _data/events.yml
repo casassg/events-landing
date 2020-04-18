@@ -221,3 +221,11 @@
   end-date: 2020-04-05 00:00 AM
   location: Your house
   url: https://hackfromhome.hackersatupc.org/
+  
+- name: HackFromHome Round 3
+  image-url: assets/img/HackFromHome_R3.png
+  line: Online hackathon that brings you home the hacker spirit during the confinement due to the COVID-19
+  date: 2020-04-18 12:00 PM
+  end-date: 2020-04-19 00:00 AM
+  location: Your house
+  url: https://hackfromhome.hackersatupc.org/
