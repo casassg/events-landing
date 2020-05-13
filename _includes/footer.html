@@ -21,6 +21,10 @@
 				{%unless site.slack == null %}
 					<a class="btns" target="_blank" href="{{ site.slack }}"><i aria-hidden="true" class="fa fa-slack fa-lg"></i></a> 
 				{%endunless%}
+				{%unless site.youtube == null %}
+					<a class="btns" target="_blank" href="https://www.youtube.com/c/{{ site.youtube }}"><i aria-hidden="true" class="fa fa-youtube-play fa-lg"></i></a>
+				{%endunless%}
+			
 			</div>
 			<div class="web-links col-sm-6 text-right text-center-xs">
 				<ul class="list-inline">
