@@ -1,7 +1,7 @@
 ---
 layout: newsletter
 title: MS Faculty Mentorship survey
-date: 06-11-2020
+date: 11-06-2020
 ---
 ## Faculty Mentorship survey for MS students
 
