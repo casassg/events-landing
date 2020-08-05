@@ -7,11 +7,12 @@ This page gathers resource links and information for issues that may arise durin
 
 
 <div class="alert alert-primary accent-section" role="alert">
+<!---
 <h2>Anonymous Bias and Microaggression Reporting</h2>
 Please feel free to use <a href="https://forms.gle/ezhYMjs3Q2Y24XBe7" class="alert-link">this link</a> to report microaggresions and incidences of bias.  This page is monitored by current graduate students, who can take these concerns to the department anonymously if desired.
 
 Please note these students are mandatory reporters, so while you can choose to stay anonymous, incidents reported on here may have to be reported to the University.
-
+-->
 <p><b>What is a microaggresion?</b>
 A microaggression is a term used for brief and commonplace daily verbal, behavioral, or environmental indignities, whether intentional or unintentional, that communicate hostile, derogatory, or negative prejudicial slights and insults toward any group, particularly culturally marginalized groups.</p>
 <hr>
