@@ -12,16 +12,18 @@ This page gathers resource links and information for issues that may arise durin
 Please feel free to use <a href="https://forms.gle/ezhYMjs3Q2Y24XBe7" class="alert-link">this link</a> to report microaggresions and incidences of bias.  This page is monitored by current graduate students, who can take these concerns to the department anonymously if desired.
 
 Please note these students are mandatory reporters, so while you can choose to stay anonymous, incidents reported on here may have to be reported to the University.
--->
+
 <p><b>What is a microaggresion?</b>
 A microaggression is a term used for brief and commonplace daily verbal, behavioral, or environmental indignities, whether intentional or unintentional, that communicate hostile, derogatory, or negative prejudicial slights and insults toward any group, particularly culturally marginalized groups.</p>
 <hr>
+-->
+
 <h2>Department Contacts</h2>
 <p>First point of contact for most concerns is the Graduate Advisor, <a href="mailto:Rajshree.Shrestha@colorado.edu" class="alert-link">Rajshree Shrestha</a>.</p>
 
 <p>She will help you identify the resources available and navigate the grievance and reporting procedures. Her office hours are listed on the <a href="http://calendar.bouldercsgrads.org" class="alert-link">calendar</a>.</p>
 <hr>
-The alternate contacts are the heads of the Graduate Committee, <a href="mailto:qin.lv@colorado.edu" class="alert-link">Christine Lv</a>, and  <a href="mailto:srirams@Colorado.EDU" class="alert-link">Sriram Sankaranarayanan</a>. Please contact them in the case that you do not feel comfortable contacting Rajshree.
+The alternate contacts are the heads of the Graduate Committee, <a href="mailto:qin.lv@colorado.edu" class="alert-link">Christine Lv</a>, and  <a href="mailto:mishras@cs.colorado.edu" class="alert-link">Shiv Mishra</a>. Please contact them in the case that you do not feel comfortable contacting Rajshree.
 <hr>
 <p>Rajshree, Christine, and Sriram are mandatory reporters. If you need confidential support, please use <a href="https://www.colorado.edu/dontignoreit/get-support" class="alert-link">this list of confidential resources</a> instead.</p>
 
