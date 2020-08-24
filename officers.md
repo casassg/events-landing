@@ -131,14 +131,14 @@ The student member of this committee is considered to be the senior student repr
 </div>
 </div>
 
-## UGGs Student Reps
+## GPSG Student Reps
 
 {::options parse_block_html="true" /}
 <div class="container">
 <div class="row">
 <div class="col-sm-4">
 {::options parse_block_html="true" /}
-{%assign person = site.data.officers.uggs%}
+{%assign person = site.data.officers.gpsg%}
 {%if person.photo%}
 ![{{person.name}}]({{person.photo}}){:height="300px"}
 {%endif%}
@@ -148,7 +148,7 @@ Contact: {{person.contact}}
 </div>
 
 <div class="col-sm-8">
-[United Government of Graduate Students](https://www.colorado.edu/uggs/) is the primary advocacy group for graduate and professional students on the CU Boulder campus. They are committed to enhancing the graduate student experience by interacting with CU administration and the University of Colorado Student Government (CUSG) concerning issues such as financial aid, graduate stipends, healthcare, tuition and fees and graduate student well-being. Graduate students from each department and program are solicited to serve on the UGGS Assembly, ensuring diverse representation of the graduate student body. There are two student representatives on UGGS, but any student can attend UGGs meetings. Meetings are held bi-weekly on Mondays, from 5:00 - 6:00 PM.
+[The Graduate and Professional Student Government](https://www.colorado.edu/gpsg/) is the primary advocacy group for graduate and professional students on the CU Boulder campus. They are committed to enhancing the graduate student experience by interacting with CU administration and the University of Colorado Student Government (CUSG) concerning issues such as financial aid, graduate stipends, healthcare, tuition and fees and graduate student well-being. Graduate students from each department and program are solicited to serve on the GPSG Assembly, ensuring diverse representation of the graduate student body. We have an official voting GPSG representative, but any student can attend GPSG meetings. Meetings are held weekly on Mondays, from 4:30 - 5:30 PM.
 </div>
 </div>
 </div>
