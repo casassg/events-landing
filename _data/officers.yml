@@ -8,7 +8,7 @@ chair:
 vice_chair:
   name: Emily Jensen
   contact: Emily.Jensen@colorado.edu
-  photo: assets/img/officers/emily_headshot.jpg
+  photo: assets/img/officers/EmilyJensen.jpg
 
 treasurer:
   name: Dylan Fox
@@ -16,15 +16,17 @@ treasurer:
   photo: assets/img/officers/dylan.jpg
 
 grad_comm:
-  - name: Emily Jensen
-    contact: Emily.Jensen@colorado.edu
-    photo: assets/img/officers/emily_headshot.jpg
-  - name: Isabella Huang
-    contact: Isabella.Huang@colorado.edu
-    photo: assets/img/officers/isabella.jpg
-  - name: Nagarajan Shanmuganathan
-    contact: Nagarajan.Shanmuganathan@Colorado.EDU
-    photo: assets/img/officers/nagarajan.jpeg
+  - name: Amit Rege
+    contact: Amit.Rege@colorado.edu
+    photo: assets/img/officers/AmitKiranRege.jpeg
+  - name: Arjun Rao
+    contact: Arjun.Rao@colorado.edu
+    photo: assets/img/officers/ArjunRao.jpg
+  - name: Charlie Carlson
+    contact: chca0914@colorado.edu
+  - name: Evariste Some
+    contact: Evariste.Some@colorado.edu
+    photo: assets/img/officers/EvaristeSome.jpg
 
 exec_comm:
   name: Layne Jackson Hubbard
@@ -32,9 +34,9 @@ exec_comm:
   photo: assets/img/officers/layne.jpg
 
 uggs:
-  name: Soumyajyoti Bhattacharya
-  contact: soumyajyoti.bhattacharya@colorado.edu
-  photo: assets/img/officers/soumyajyoti.jpg
+  name: Jay Luther
+  contact: James.Luther@colorado.edu
+  photo: assets/img/officers/JamesLuther.jpg
 
 alumni:
   - title: chair
