@@ -27,6 +27,7 @@ We have started taking action to dismantle white supremacy in our department in 
 ## Items in progress (last updated October 1, 2020)
 * Adding resources and demographic data on the CS department website; the goal here is to increase transparency.  We know Boulder is a predominantly white city, and want to be honest with that reality before people move here.
 * Collecting data from folks in our department to learn the state of the culture and extract best practices to support our BIPOC (Black, Indigenous, and People of Color) students.
+* A CSGSA bylaw amendment to create an internal Antiracism and Inclusion chair.
 
 ## Resources
 This list is very incomplete; please [send](mailto:csgsa@colorado.edu) additional resources our way.
