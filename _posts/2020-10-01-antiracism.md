@@ -52,10 +52,10 @@ First of all, to our Black students, I am sorry.  There are no words as trauma i
 
 For non-Black allies, [here](https://docs.google.com/document/u/0/d/1BRlF2_zhNe86SGgHa6-VlBO-QgirITwCTugSfKie5Fs/mobilebasic?fbclid=IwAR159RESzMgYN1MK0Cwhdq7Oo_1oFZAAPDle03k3CrfTpirHDAobSwyDRRo) is a reference on [anti-racism](https://www.youtube.com/watch?v=_OXMgA0Fwsk&feature=youtu.be) that I have recently seen circulating that has resources for education on race if you are wondering what are some things you can do.  As CS students, we would also encourage you to consider the following practices:
 
-    * Collaborate with and cite Black scientists.  If you can't find papers in your field by Black scientists, look harder.
-    * If you still can't find papers by Black scientists, take a second (or longer) to reflect on how we're part of a (collective) institution that excludes so many.
-    * If you work with social data, consider how the data you collect and publish, as well as your research, might affect the humanness of others- specifically the oppressed.  Consider adding [datasheets](https://arxiv.org/abs/1803.09010) to your research, at the very least, as a personal exercise to consider the potential implications of your work.
-    * Read books like "[Race after Technology](https://www.ruhabenjamin.com/race-after-technology)" by Ruha Benjamin, "[Automating Inequality](https://us.macmillan.com/books/9781250074317)" by Virginia Eubanks, and "[Algorithms of Oppression](https://nyupress.org/9781479837243/algorithms-of-oppression/)" by Safiya Umoja Noble.  
+* Collaborate with and cite Black scientists.  If you can't find papers in your field by Black scientists, look harder.
+* If you still can't find papers by Black scientists, take a second (or longer) to reflect on how we're part of a (collective) institution that excludes so many.
+* If you work with social data, consider how the data you collect and publish, as well as your research, might affect the humanness of others- specifically the oppressed.  Consider adding [datasheets](https://arxiv.org/abs/1803.09010) to your research, at the very least, as a personal exercise to consider the potential implications of your work.
+* Read books like "[Race after Technology](https://www.ruhabenjamin.com/race-after-technology)" by Ruha Benjamin, "[Automating Inequality](https://us.macmillan.com/books/9781250074317)" by Virginia Eubanks, and "[Algorithms of Oppression](https://nyupress.org/9781479837243/algorithms-of-oppression/)" by Safiya Umoja Noble.  
 
 I'll leave you with a reminder that technology is not neutral, and that our biases are encoded in everything we do.  I know my words are insufficient, but I hope the sentiment comes across here and that we can collectively learn to dismantle the white supremacy built into academia and better support and include our historically oppressed students; particularly our Black friends, collaborators, classmates, and most importantly, humans.
 
