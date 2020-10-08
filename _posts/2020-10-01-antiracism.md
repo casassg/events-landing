@@ -9,13 +9,13 @@ Hi all! This page is a work in progress, but serves as a central hub to be trans
 We believe work needs to be done in fostering an inclusive community for folks who have been historically marginalized for reasons excluding race, but do not want to pat ourselves on the back for "diversifying our student community" without a concentrated effort on ensuring BIPOC feel included and able to be their genuine selves.  Therefore, a large focus on this page pertains to antiracism.
 
 ## Why does this page exist?
-White privilege is interwoven into the DNA of academia.  Costs of attending universities are rising as state funding is decreasing, which disproportionately excludes poor folks-- many of which are non-white folks in large part due to the inability to accumulate generational wealth thanks to slavery and the oppression that has remained long after its formal abolition.  The process of having to apply and be accepted allows gatekeepers to maintain our power, making inclusion of oppressed folks even more difficult.  The concept of "meritocracy" in the American university assumes that applications are coming from folks on equal playing ground.  
+White privilege is interwoven into the DNA of academia.  Costs of attending universities are rising as state funding is decreasing, which disproportionately excludes poor folks-- many of which are non-white folks in large part due to the inability to accumulate generational wealth thanks to slavery and the oppression that has remained long after its formal abolition.  The process of having to apply and be accepted allows gatekeepers to maintain our power, making inclusion of oppressed folks even more difficult.  The concept of "meritocracy" in the American university assumes that applications are coming from folks on equal playing ground.  See [this paper](https://arxiv.org/abs/2009.14258) from Abeba Birhane and Olivia Guest for their wisdom on decolonizing computational sciences.
 
 Beyond that, Black and brown folks are being disproportionately killed by law enforcement officers.  As technologists, our field is playing an increasing role in this marginalization.  As humans, Black lives matter.  Black lives are valuable.  It's as simple as that.
 
 See [this article](https://newrepublic.com/article/121382/forgotten-racist-past-american-universities) for more information on the history of whiteness in academia.
 
-## Actions Taken since June 1 (last updated October 1, 2020)
+## Actions Taken since June 1 (last updated October 7, 2020)
 We have started taking action to dismantle white supremacy in our department in a few ways, though this list is both incomplete and insufficient.
 
 * The Computer Science department has named [Claire Monteleoni](https://www.colorado.edu/cs/claire-monteleoni) as our new Associate Chair of Inclusive Excellence.
@@ -23,8 +23,9 @@ We have started taking action to dismantle white supremacy in our department in 
 * Our graduate students started meeting biweekly, learning how to be antiracist and planning/coordinating how to take action.  Faculty are also invited to these meetings, but they have been led by graduate student [Christine Chang](https://www.xtinebot.com/), and supported by the CS Graduate Student Association.  
 * Connecting with potential students at the [NSBE](https://www.nsbe.org/Home.aspx) National Leadership Conference.
 * We created this page to increase our transparency and accountability.  If you notice that we are not following up on the items in progress below, [hold us accountable](mailto:csgsa@colorado.edu)!
+* We have launched a [pilot program](posts/2020-10-07-app-feedback) to provide prospective PhD students with an initial round of feedback on their applications.
 
-## Items in progress (last updated October 1, 2020)
+## Items in progress (last updated October 7, 2020)
 * Adding resources and demographic data on the CS department website; the goal here is to increase transparency.  We know Boulder is a predominantly white city, and want to be honest with that reality before people move here.
 * Collecting data from folks in our department to learn the state of the culture and extract best practices to support our BIPOC (Black, Indigenous, and People of Color) students.
 * A CSGSA bylaw amendment to create an internal Antiracism and Inclusion chair.
