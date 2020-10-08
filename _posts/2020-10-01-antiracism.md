@@ -23,7 +23,7 @@ We have started taking action to dismantle white supremacy in our department in 
 * Our graduate students started meeting biweekly, learning how to be antiracist and planning/coordinating how to take action.  Faculty are also invited to these meetings, but they have been led by graduate student [Christine Chang](https://www.xtinebot.com/), and supported by the CS Graduate Student Association.  
 * Connecting with potential students at the [NSBE](https://www.nsbe.org/Home.aspx) National Leadership Conference.
 * We created this page to increase our transparency and accountability.  If you notice that we are not following up on the items in progress below, [hold us accountable](mailto:csgsa@colorado.edu)!
-* We have launched a [pilot program](posts/2020-10-07-app-feedback) to provide prospective PhD students with an initial round of feedback on their applications.
+* We have launched a [pilot program](../../../posts/2020-10-07-app-feedback) to provide prospective PhD students with an initial round of feedback on their applications.
 
 ## Items in progress (last updated October 7, 2020)
 * Adding resources and demographic data on the CS department website; the goal here is to increase transparency.  We know Boulder is a predominantly white city, and want to be honest with that reality before people move here.
