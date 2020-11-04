@@ -89,6 +89,34 @@ The treasurer's responsibilities are to:
 </div>
 </div>
 
+### CSGSA Anti-racism and Inclusion Chair
+
+{::options parse_block_html="true" /}
+<div class="container">
+<div class="row">
+<div class="col-sm-4">
+{::options parse_block_html="true" /}
+{%assign person = site.data.officers.anti_racism_inclusion_chair%}
+{%if person.photo%}
+![{{person.name}}]({{person.photo}}){:height="300px"}
+{%endif%}
+{{person.name}}
+
+Contact: {{person.contact}}
+</div>
+
+<div class="col-sm-8">
+The Anti-racism and Inclusion Chairs's responsibilities are to:
+
+1. Facilitate student-led discussions on making CU Boulder CS more inclusive and proactively anti-racist (in continuity)
+2. Hold CSGSA accountable for actions we plan to take on community inclusivity 
+3. Serve as a peer reporter for microaggressions by monitoring the student reporting form
+4. Work with the Associate Chair of Inclusive Excellence and our undergraduate leadership to ensure CSGSA efforts are in conjunction with the department efforts on antiracism
+5. These tasks may be delegated to other members by the responsible executive.
+</div>
+</div>
+</div>
+
 ## Department Graduate Committee Student Reps
 
 {::options parse_block_html="true" /}
