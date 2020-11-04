@@ -176,7 +176,7 @@ Contact: {{person.contact}}
 </div>
 
 <div class="col-sm-8">
-[The Graduate and Professional Student Government](https://www.colorado.edu/gpsg/) is the primary advocacy group for graduate and professional students on the CU Boulder campus. They are committed to enhancing the graduate student experience by interacting with CU administration and the University of Colorado Student Government (CUSG) concerning issues such as financial aid, graduate stipends, healthcare, tuition and fees and graduate student well-being. Graduate students from each department and program are solicited to serve on the GPSG Assembly, ensuring diverse representation of the graduate student body. We have an official voting GPSG representative, but any student can attend GPSG meetings. Meetings are held weekly on Mondays, from 4:30 - 5:30 PM.
+[The Graduate and Professional Student Government](https://www.colorado.edu/gpsg/) is the primary advocacy group for graduate and professional students on the CU Boulder campus. They are committed to enhancing the graduate student experience by interacting with CU administration and the University of Colorado Student Government (CUSG) concerning issues such as financial aid, graduate stipends, healthcare, tuition and fees and graduate student well-being. Graduate students from each department and program are solicited to serve on the GPSG Assembly, ensuring diverse representation of the graduate student body. We have an official voting GPSG representative, but any student can attend GPSG meetings. Meetings are held weekly on Wednesdays, from 4 - 5 PM.
 </div>
 </div>
 </div>
