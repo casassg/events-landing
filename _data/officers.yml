@@ -25,6 +25,9 @@ grad_comm:
   - name: Evariste Some
     contact: Evariste.Some@colorado.edu
     photo: assets/img/officers/EvaristeSome.jpg
+  - name: Varsha Koushik
+    contact: Varsha.Koushik@colorado.edu
+    photo: assets/img/officers/Varsha.jpg
 
 exec_comm:
   name: Layne Jackson Hubbard
