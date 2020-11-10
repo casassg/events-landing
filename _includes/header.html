@@ -10,16 +10,50 @@
 				{% if site.slack %}
 					<a class="btn btn-accent btn-block" href="{{site.slack}}" target="_blank"><i class="fa fa-slack" aria-hidden="true"></i> Join on Slack</a>
 				{%endif%}
-				{% if site.telegram %}
-					<a class="btn btn-accent btn-block" href="{{site.telegram}}" target="_blank"><i class="fa fa-telegram" aria-hidden="true"></i> Join on Telegram</a>
-				{%endif%}
+
+				<p class="lead" style="margin-bottom: 0.5em;">Non-periodical activities:</p>
+				<div class="activities-container">
+					{% for punct in site.data.non_periodical_activities %}
+						<a href="{{punct.link}}" target="_blank">
+							<img src="{{punct.logo}}" class="activity-logo">
+						</a>						
+					{% endfor %}
+				</div>
 			</div>
 			<div class="col-md-6 col-md-offset-1">
 				<div class="panel panel-default ">
                     <div class="panel-body">
-                    	{% for point in site.data.what_we_do %}
-							<h4>{{point.title}}</h4>
-							<p>{{point.description}}</p>
+						{% for point in site.data.what_we_do %}
+							{% if point.logo %}
+								{% if point.link %}
+									<a href="{{point.link}}" target="_blank">
+										<div class="container">
+											<img src="{{point.logo}}" class="logo-event">
+											<div class="logo-overlay">
+												<div class="text"> 
+													<p>{{point.description}}</p> 
+												</div>
+											</div>
+										</div>
+									</a>
+								{% else %}
+									<div class="container">
+										<img src="{{point.logo}}" class="logo-event">
+										<div class="logo-overlay">
+											<div class="text"> 
+												<p>{{point.description}}</p> 
+											</div>
+										</div>
+									</div>
+								{% endif %}
+							{% else %}
+								<h4>{{point.title}} 
+									{% if point.link %} 
+									<a href="{{point.link}}" target="_blank"><i class="fa fa-link"></i></a>
+									{% endif %} 
+								</h4> 
+								<p>{{point.description}}</p>
+							{% endif %}
 							{%unless forloop.last %}<hr>{%endunless%}
                     	{% endfor %}
 					</div>

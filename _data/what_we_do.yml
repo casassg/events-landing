@@ -1,12 +1,21 @@
 - title: Workshops & Talks
   description: We teach how to use technologies to create, manage and successfully develop your personal projects.
+  logo: /assets/img/header-events/talks-website.png
 - title: HackUPC
   description: Once a year at Fall, we bring together 700 people of all experience levels, majors and backgrounds to UPC. It provides the space and the resources to express your creativity, ingenuity, and determination to create anything.
+  link: https://hackupc.com/
+  logo: /assets/img/header-events/hackupc-website.png
 - title: HackNights
   description: Smaller and closer hackathons for all kind of profiles creating a cool work atmosphere.
-- title: Travel to hackathons as a group
-  description: Through our Slack workspace we help organize hackers that want to attend hackathons all around the world.
+  link: https://hacknights.dev/
+  logo: /assets/img/header-events/hacknights-website.png
 - title: HackStart
   description: We connect startups with students reversing the traditional dynamic of recruitment for fast-paced startups in Barcelona.
+  link: https://hackstart.dev/
+  logo: /assets/img/header-events/hackstart-website.png
+- title: Travel to hackathons as a group
+  description: Through our Slack workspace we help organize hackers that want to attend hackathons all around the world.
+  logo: /assets/img/header-events/travel-website.png
 - title: Help to organize hackathons
   description: We help organizations and companies to organize their own hackathons apporting our experience in the field.
+  logo: /assets/img/header-events/help-website.png
