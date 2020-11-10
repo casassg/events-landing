@@ -145,6 +145,7 @@ header {
      div.panel {
         @include box-shadow(1px 5px 8px 1px rgba(0,0,0,.19));
         @include border-radius(0);
+
         .panel-body {
             border: 1px $accent-color;
             padding: 10px;
