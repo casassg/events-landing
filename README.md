@@ -65,6 +65,19 @@ If you need a preview image please add it to [assets/img/](assets/img/).
 
 You can change footer links by editing the file  [_data/footer_links.yml](_data/footer_links.yml)
 
+## Add a non-periodical activity
+
+1. Go to [_data/non_periodical_activities.yml](_data/non_periodical_activities.yml).
+2. Copy and paste the following text:
+```
+- title: AdventOfCorona #Activity Name
+  link: https://adventofcorona.hackersatupc.org/#problem/1 #Activity link
+  logo: /assets/img/non-periodical-activities/advent-logo.png #Activity logo
+```
+3. Edit the properties as described in the text you just copied
+
+The logo must be added in [assets/img/non-periodical-activities](assets/img/non-periodical-activities).
+
 ## Global variables
 
 You can change various strings across the site, including the title of your app on [_config.yml](_config.yml)

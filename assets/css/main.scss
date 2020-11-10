@@ -116,8 +116,8 @@ section.social-media {
 }
 
 header {
-    padding-top: 4em;
-    padding-bottom: 4em;
+    padding-top: 3em;
+    padding-bottom: 3em;
     min-height: 80%;
 
     img.logo {
@@ -128,12 +128,77 @@ header {
         margin-bottom: 2em;
     }
 
+    div.activities-container {
+        display: flex;
+        flex-direction: row;
+        flex-wrap: nowrap;
+        justify-content: flex-start;
+        align-items: stretch;
+        align-content: stretch;
+
+        .activity-logo {
+            width: 60%;
+            margin: 5px;
+        }
+    }
+
      div.panel {
         @include box-shadow(1px 5px 8px 1px rgba(0,0,0,.19));
         @include border-radius(0);
         .panel-body {
             border: 1px $accent-color;
             padding: 10px;
+
+            .container {
+                position: relative;
+                width: 100%;
+                align-content: center;
+                padding: 0px;
+
+                .logo-event {
+                    opacity: 1;
+                    display: block;
+                    width: 100%;
+                    height: auto;
+                    transition: .5s ease;
+                    backface-visibility: hidden;
+                    display: block;
+                    margin-left: auto;
+                    margin-right: auto;
+                }
+
+                .logo-overlay {
+                    transition: .5s ease;
+                    opacity: 0;
+                    position: absolute;
+                    top: 50%;
+                    left: 10%;
+                    transform: translate(-5%, -50%);
+                    -ms-transform: translate(-5%, -50%);
+                    text-align: center;
+                }
+
+                &:hover .logo-event {
+                    opacity: 0.1;
+                  }
+                  
+                &:hover .logo-overlay {
+                    opacity: 1;
+                }
+                
+                .text {
+                    color: black;
+                    p {
+                        margin: 0;
+                    }
+                }
+
+            }
+
+            hr {
+                margin-top: 10px;
+                margin-bottom: 10px;
+            }
         }
 
         p {
