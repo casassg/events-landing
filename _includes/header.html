@@ -10,6 +10,15 @@
 				{% if site.slack %}
 					<a class="btn btn-accent btn-block" href="{{site.slack}}" target="_blank"><i class="fa fa-slack" aria-hidden="true"></i> Join on Slack</a>
 				{%endif%}
+
+				<p class="lead" style="margin-bottom: 0.5em;">Non-periodical activities:</p>
+				<div class="activities-container">
+					{% for punct in site.data.punctual_activities %}
+						<a href="{{punct.link}}" target="_blank">
+							<img src="{{punct.logo}}" class="activity-logo">
+						</a>						
+					{% endfor %}
+				</div>
 			</div>
 			<div class="col-md-6 col-md-offset-1">
 				<div class="panel panel-default ">
