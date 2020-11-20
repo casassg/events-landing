@@ -230,7 +230,7 @@
   location: Your house
   url: https://hackfromhome.hackersatupc.org/
   
-- name: CSS animations: good practices and tips
+- name: "CSS animations: good practices and tips"
   image-url: assets/img/css-animations.png
   line: Learn how to create meaningul, easy-to-code and performant css animations.
   date: 2020-11-25 07:00 PM
