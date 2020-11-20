@@ -229,3 +229,11 @@
   end-date: 2020-04-19 00:00 AM
   location: Your house
   url: https://hackfromhome.hackersatupc.org/
+  
+- name: CSS animations: good practices and tips
+  image-url: assets/img/css-animations.png
+  line: Learn how to create meaningul, easy-to-code and performant css animations.
+  date: 2020-11-25 07:00 PM
+  end-date: 2020-11-25 08:00 PM
+  location: Online
+  url: https://www.twitch.tv/hackersupc
