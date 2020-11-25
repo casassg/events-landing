@@ -19,4 +19,4 @@
   logo: /assets/img/header-events/travel-website.png
 - title: Help to organize hackathons
   description: We help organizations and companies to organize their own hackathons apporting our experience in the field.
-  logo: /assets/img/header-events/help-website.png
+  logo: "/assets/img/header-events/help-website.png"
