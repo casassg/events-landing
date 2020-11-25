@@ -1,5 +1,6 @@
 - title: Workshops & Talks
   description: We teach how to use technologies to create, manage and successfully develop your personal projects.
+  link: "https://talks.hackersatupc.org/"
   logo: /assets/img/header-events/talks-website.png
 - title: HackUPC
   description: Once a year at Fall, we bring together 700 people of all experience levels, majors and backgrounds to UPC. It provides the space and the resources to express your creativity, ingenuity, and determination to create anything.
@@ -18,4 +19,4 @@
   logo: /assets/img/header-events/travel-website.png
 - title: Help to organize hackathons
   description: We help organizations and companies to organize their own hackathons apporting our experience in the field.
-  logo: /assets/img/header-events/help-website.png
+  logo: "/assets/img/header-events/help-website.png"
