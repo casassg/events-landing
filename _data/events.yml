@@ -237,3 +237,11 @@
   end-date: 2020-11-25 08:00 PM
   location: Online
   url: https://www.twitch.tv/hackersupc
+  
+- name: "Test Driven Development"
+  image-url: assets/img/test_driven_development.png
+  line: Improve your code with one of the most used practices for software development. 
+  date: 2020-12-09 07:00 PM
+  end-date: 2020-12-09 08:00 PM
+  location: Online
+  url: https://www.twitch.tv/hackersupc
