@@ -1,23 +1,24 @@
 # This populates the Officers page
 
 chair:
-  name: Jessie Finocchiaro
-  contact: jefi8453@colorado.edu
-  photo: assets/img/officers/jessie.jpg
-
-vice_chair:
   name: Emily Jensen
   contact: Emily.Jensen@colorado.edu
   photo: assets/img/officers/EmilyJensen.jpg
 
+vice_chair:
+  name: 
+  contact: 
+  photo: 
+
 treasurer:
-  name: Dylan Fox
-  contact: dylan.fox@colorado.edu
-  photo: assets/img/officers/dylan.jpg
+  name: 
+  contact: 
+  photo: 
   
 anti_racism_inclusion_chair:
   name: Christine Chang
   contact: christine.chang@colorado.edu
+  photo:
 
 grad_comm:
   - name: Amit Rege
@@ -48,12 +49,16 @@ alumni:
     people:
       - name: Stephen Hutt
         years: Spring 2018 - Fall 2019
+      - name: Jessie Finocchiaro
+      - years: Spring 2019 - Fall 2020
   - title: Treasurer
     people:
       - name: Prasanth Prahladan
         years: Fall 2018
       - name: Yash Sapra
         years: Spring - Fall 2019
+      - name: Dylan Fox
+        years: Spring 2019 - Fall 2020
   - title: Graduate Committee
     people:
       - name: Prashil Bhimani
@@ -62,6 +67,8 @@ alumni:
         years: 2017-2019
       - name: Stephen Hutt
         years: 2017-2019
+      - name: Emily Jensen
+        years: 2019-2020
   - title: Executive Committee
     people:
       - name: Cecilia Mauceri
