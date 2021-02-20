@@ -253,3 +253,11 @@
   end-date: 2020-12-20 5:00 PM 
   location: Online
   url: https://www.fib.upc.edu/la-marato
+  
+- name: "Real-time chat application with Socket.io"
+  image-url: assets/img/socket-io.png
+  line: Configure your own server in Socket.io and create a chat in real time. 
+  date: 2021-02-17 07:00 PM
+  end-date: 2021-02-17 08:00 PM
+  location: Online
+  url: https://www.twitch.tv/hackersupc 
