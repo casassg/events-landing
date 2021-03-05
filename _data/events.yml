@@ -261,3 +261,11 @@
   end-date: 2021-02-17 08:00 PM
   location: Online
   url: https://www.twitch.tv/hackersupc 
+
+- name: "HackPlay - 1st Round"
+  image-url: assets/img/hackplay.jpg
+  line: Cycle of talks about videogames.
+  date: 2021-03-10 07:00 PM
+  end-date: 2021-03-10 08:00 PM
+  location: Online
+  url: https://www.twitch.tv/hackersupc 
