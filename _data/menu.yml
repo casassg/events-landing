@@ -13,6 +13,9 @@
 - name: Archive
   url: /archive
 
+  - name: The Neural Network
+  url: /neural-network
+
 - name: Resources and FAQ
   subcategories:
   - name: Graduate Student Handbook
