@@ -10,6 +10,7 @@ If you have a recommendation on someone you want to see featured, please email [
 The interviews from the first year can be found on Izzy's website [here](https://izabelpaguiar.com/nn/).
 
 Newer interviews include:
+ * [Jay Luther](neural-network/jay_luther_nn.pdf)
  * [Owen Martin](neural-network/owen_martin_nn.pdf)
- * Jay Luther (To appear)
  * Kaleb Bishop (To appear)
+ * Evariste Somé (To appear)
