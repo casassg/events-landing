@@ -11,7 +11,8 @@ This semester a group of CS graduate students collaboratively mapped their apart
 
 ![A map with flags where students live]({{"/assets/img/CS_map.png" | absolute_url}}){:class="img-responsive"}
 
-## [What are the neighborhoods around Boulder?  How can I get around?](bouldercsgrads.org/Life-in-Boulder.pdf)
+## [What are the neighborhoods around Boulder?  How can I get around?](../assets/pdf/Life-in-Boulder.pdf)
+Boulder and its larger metro area are publicly traversible by bus under Denver's Regional Transportation District.  Busses run within Boulder and to some of its suburbs.  To the northeast of Boulder are Gunbarrel, Niwot, and Longmont, and towards Denver (southeast) are Superior, Louisville, Lafayette, Broomfield, and Golden.  Within Boulder, there are neighborhoods surrounding campus, each offering different perks.  See the above link for more information about these subrubs and neighborhoods, and getting around in each.  
 
 ## [Boulder Landlord Tenant Handbook](https://bouldercolorado.gov/family-services/landlord-tenant-handbook)
 
