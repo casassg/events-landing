@@ -269,3 +269,11 @@
   end-date: 2021-03-10 08:00 PM
   location: Online
   url: https://www.twitch.tv/hackersupc 
+
+- name: HackUPC 2021
+  line: Online Student Hackathon. 36h. May 14th-16th.
+  image-url: assets/img/hackupc2021.png
+  date: 2021-05-14 6:00 PM 
+  end-date: 2021-05-16 5:00 PM 
+  location: Online
+  url: https://hackupc.com
