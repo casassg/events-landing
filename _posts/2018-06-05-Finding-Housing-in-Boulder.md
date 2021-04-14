@@ -17,7 +17,7 @@ Boulder and its larger metro area are publicly traversible by bus under Denver's
 ## How much can I expect to pay for housing?
 It's hard to say.  Many of our graduate students live with roommates or spouses while some prioritize having their own space; some live in town, and some live a suburb of Boulder.  The exact amount you'll pay is variable, but hopefully this histogram from our 2021 Quality of Life survey can help you make an estimate.  The TA and RA stipdends pay approximately $2500 per month for the 9 month academic year before taxes, while students have the opportunity to earn more in the summer as well.
 
-![Histogram of money spent on housing among CS grad students](../assets/img/housing_cost_histogram.png "Money spent on housing and utilities by CS grad students at CU Boulder")
+![Histogram of money spent on housing among CS grad students](../assets/img/housing_cost_histogram.png)
 
 ## [Boulder Landlord Tenant Handbook](https://bouldercolorado.gov/family-services/landlord-tenant-handbook)
 
