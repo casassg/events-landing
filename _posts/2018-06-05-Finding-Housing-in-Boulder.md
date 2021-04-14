@@ -14,6 +14,11 @@ This semester a group of CS graduate students collaboratively mapped their apart
 ## [What are the neighborhoods around Boulder?  How can I get around?](../../../assets/pdf/Life-in-Boulder.pdf)
 Boulder and its larger metro area are publicly traversible by bus under Denver's Regional Transportation District.  Busses run within Boulder and to some of its suburbs.  To the northeast of Boulder are Gunbarrel, Niwot, and Longmont, and towards Denver (southeast) are Superior, Louisville, Lafayette, Broomfield, and Golden.  Within Boulder, there are neighborhoods surrounding campus, each offering different perks.  See the above link for more information about these subrubs and neighborhoods, and getting around in each.  
 
+## How much can I expect to pay for housing?
+It's hard to say.  Many of our graduate students live with roommates or spouses while some prioritize having their own space; some live in town, and some live a suburb of Boulder.  The exact amount you'll pay is variable, but hopefully this histogram from our 2021 Quality of Life survey can help you make an estimate.  The TA and RA stipdends pay approximately $2500 per month for the 9 month academic year before taxes, while students have the opportunity to earn more in the summer as well.
+
+![Histogram of money spent on housing among CS grad students](../assets/img/housing_cost_histogram.png "Money spent on housing and utilities by CS grad students at CU Boulder")
+
 ## [Boulder Landlord Tenant Handbook](https://bouldercolorado.gov/family-services/landlord-tenant-handbook)
 
 This city website summarizes residential landlord-tenant law for leasing in Boulder. Sounds dry, but it is an excellent resource for informing yourself about the legal protections and risks of leasing. For example, it includes [a model lease agreement](https://www-static.bouldercolorado.gov/docs/bouldermodellease-1-201710111622.pdf?_ga=2.187949483.2049896422.1528123777-1858078977.1527538889). It is good practice to compare any lease offered to you by a landlord to the model lease and discuss any differences between the two. Some highlights from the handbook that you might not be aware of :
