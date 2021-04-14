@@ -15,9 +15,13 @@ This semester a group of CS graduate students collaboratively mapped their apart
 Boulder and its larger metro area are publicly traversible by bus under Denver's Regional Transportation District.  Busses run within Boulder and to some of its suburbs.  To the northeast of Boulder are Gunbarrel, Niwot, and Longmont, and towards Denver (southeast) are Superior, Louisville, Lafayette, Broomfield, and Golden.  Within Boulder, there are neighborhoods surrounding campus, each offering different perks.  See the above link for more information about these subrubs and neighborhoods, and getting around in each.  
 
 ## How much can I expect to pay for housing?
-It's hard to say.  Many of our graduate students live with roommates or spouses while some prioritize having their own space; some live in town, and some live a suburb of Boulder.  The exact amount you'll pay is variable, but hopefully this histogram from our 2021 Quality of Life survey can help you make an estimate.  The TA and RA stipdends pay approximately $2500 per month for the 9 month academic year before taxes, while students have the opportunity to earn more in the summer as well.
+It's hard to say.  Many of our graduate students live with roommates or spouses while some prioritize having their own space; some live in town, and some live a suburb of Boulder.  The exact amount you'll pay is variable, but hopefully this histogram from our 2021 Quality of Life survey can help you make an estimate.  The TA and RA stipdends pay approximately $13000 per semester, or $2800 per month for the 9 month academic year before taxes (approx. $2400 after taxes), while students have the opportunity to earn more in the summer as well.
 
 ![Histogram of money spent on housing among CS grad students](../../../assets/img/housing_cost_histogram.png)
+
+### Is this feasible in Boulder?
+
+[General recommendations](https://nomoredebts.org/financial-education/budgeting-guidelines) suggest spending about 35-40% of your net (after taxes) monthly income on housing and utilities.   Roughly, this means spending about $960 per month on housing and utilities.  Everyone's financial situation is different, so we do not want to make explicit recommendations about whether or not this proportion is right for you and if this is feasible, but we want to be transparent about costs.
 
 ## [Boulder Landlord Tenant Handbook](https://bouldercolorado.gov/family-services/landlord-tenant-handbook)
 
