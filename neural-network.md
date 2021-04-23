@@ -10,6 +10,7 @@ If you have a recommendation on someone you want to see featured, please email [
 The interviews from the first year can be found on Izzy's website [here](https://izabelpaguiar.com/nn/).
 
 Newer interviews include:
+ * [Rebecca Morrison](neural-network/rebecca_morrison_nn.pdf)
  * [Alici Edwards](neural-network/alici_edwards_nn.pdf)
  * [Evariste Somé](neural-network/evariste_some_nn.pdf)
  * [Kaleb Bishop](neural-network/kaleb_bishop_nn.pdf)
@@ -17,7 +18,6 @@ Newer interviews include:
  * [Owen Martin](neural-network/owen_martin_nn.pdf)
 
  Come back soon to learn more about:
- * Rebecca Morrison
  * Vinitha Gadiraju
  * Nasim Sonboli
 
