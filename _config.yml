@@ -58,9 +58,9 @@ youtube: HackersUPC
 github-org: hackupc
 
 # legal
-legal_notice: https://hackupc.com/legal_notice/
-terms_and_conditions: https://hackersatupc.org/assets/docs/HackNights_Terms_And_Conditions.pdf
-privacy_and_cookies: https://hackersatupc.org/assets/docs/Privacy_And_Cookies_Policy.pdf
+legal_notice: https://legal.hackersatupc.org/hackupc/legal_notice
+terms_and_conditions: https://legal.hackersatupc.org/hackupc/terms_and_conditions
+privacy_and_cookies: https://legal.hackersatupc.org/hackupc/privacy_and_cookies
 
 # TIMEZONE
 # Needs to be string from: https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
