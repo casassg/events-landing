@@ -2,7 +2,7 @@
 layout: page
 title: Officers
 ---
-
+If you're interested in reaching the CSGSA board or someone on one of the committees - please send us an email at csgsa@colorado.edu or message us on the #csgsa slack channel!
 ## CSGSA Executive Board 
 
 ### CSGSA Chair
@@ -11,6 +11,7 @@ title: Officers
 <div class="container">
 <div class="row">
 <div class="col-sm-4">
+<div class="card">
 {::options parse_block_html="true" /}
 {%assign person = site.data.officers.chair%}
 {%if person.photo%}
@@ -18,7 +19,10 @@ title: Officers
 {%endif%}
 {{person.name}}
 
-Contact: {{person.contact}}
+Pronouns: {{person.pronouns}}
+
+Bio: {{person.bio}}
+</div>
 </div>
 
 <div class="col-sm-8">
@@ -39,6 +43,7 @@ The chair's responsibilities are to:
 <div class="container">
 <div class="row">
 <div class="col-sm-4">
+<div class="card">
 {::options parse_block_html="true" /}
 {%assign person = site.data.officers.vice_chair%}
 {%if person.photo%}
@@ -46,7 +51,10 @@ The chair's responsibilities are to:
 {%endif%}
 {{person.name}}
 
-Contact: {{person.contact}}
+Pronouns: {{person.pronouns}}
+
+Bio: {{person.bio}}
+</div>
 </div>
 
 <div class="col-sm-8">
@@ -67,6 +75,7 @@ The vice chair's responsibilities are to:
 <div class="container">
 <div class="row">
 <div class="col-sm-4">
+<div class="card">
 {::options parse_block_html="true" /}
 {%assign person = site.data.officers.treasurer%}
 {%if person.photo%}
@@ -74,7 +83,10 @@ The vice chair's responsibilities are to:
 {%endif%}
 {{person.name}}
 
-Contact: {{person.contact}}
+Pronouns: {{person.pronouns}}
+
+Bio: {{person.bio}}
+</div>
 </div>
 
 <div class="col-sm-8">
@@ -95,6 +107,7 @@ The treasurer's responsibilities are to:
 <div class="container">
 <div class="row">
 <div class="col-sm-4">
+<div class="card">
 {::options parse_block_html="true" /}
 {%assign person = site.data.officers.anti_racism_inclusion_chair%}
 {%if person.photo%}
@@ -102,7 +115,10 @@ The treasurer's responsibilities are to:
 {%endif%}
 {{person.name}}
 
-Contact: {{person.contact}}
+Pronouns: {{person.pronouns}}
+
+Bio: {{person.bio}}
+</div>
 </div>
 
 <div class="col-sm-8">
@@ -124,12 +140,16 @@ The Anti-racism and Inclusion Chairs's responsibilities are to:
 <div class="row">
 {%for person in site.data.officers.grad_comm%}
 <div class="col-sm-4">
+<div class="card">
 {%if person.photo%}
-![{{person.name}}]({{person.photo}}){:height="300px"}
+![{{person.name}}]({{person.photo}}){:height="300px"}{:width="250px"}
 {%endif%}
 {{person.name}} 
 
-Contact: {{person.contact}}
+Pronouns: {{person.pronouns}}
+
+Bio: {{person.bio}}
+</div>
 </div>
 {%endfor%}
 </div>
@@ -143,6 +163,7 @@ The Graduate Committee is charged with a broad range of graduate student affairs
 <div class="container">
 <div class="row">
 <div class="col-sm-4">
+<div class="card">
 {::options parse_block_html="true" /}
 {%assign person = site.data.officers.exec_comm%}
 {%if person.photo%}
@@ -150,7 +171,10 @@ The Graduate Committee is charged with a broad range of graduate student affairs
 {%endif%}
 {{person.name}}
 
-Contact: {{person.contact}}
+Pronouns: {{person.pronouns}}
+
+Bio: {{person.bio}}
+</div>
 </div>
 
 <div class="col-sm-8">
@@ -165,6 +189,7 @@ The student member of this committee is considered to be the senior student repr
 <div class="container">
 <div class="row">
 <div class="col-sm-4">
+<div class="card">
 {::options parse_block_html="true" /}
 {%assign person = site.data.officers.gpsg%}
 {%if person.photo%}
@@ -172,7 +197,10 @@ The student member of this committee is considered to be the senior student repr
 {%endif%}
 {{person.name}}
 
-Contact: {{person.contact}}
+Pronouns: {{person.pronouns}}
+
+Bio: {{person.bio}}
+</div>
 </div>
 
 <div class="col-sm-8">

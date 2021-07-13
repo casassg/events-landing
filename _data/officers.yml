@@ -2,47 +2,72 @@
 
 chair:
   name: Emily Jensen
-  contact: Emily.Jensen@colorado.edu
+  contact: Emily.Jensen@
   photo: assets/img/officers/EmilyJensen.jpg
+  pronouns: She/Her/Hers
+  bio: Emily Jensen is a fourth year PhD student advised by Sriram Sankaranarayanan and Brad Hayes. She is an avid fan of 80s records, knitting socks, and recently finished her first trail half marathon!
 
 vice_chair:
-  name: 
-  contact: 
-  photo: 
+  name: Maggie Perkoff 
+  contact: Margaret.Perkoff@
+  photo: assets/img/officers/maggie_perkoff.jpg
+  pronouns: She/Her/Hers
+  bio: Maggie Perkoff is a second year PhD student jointly advised by Clayton Lewis and Jim Martin.  She thinks all activities are more fun when done outdoors - running, working, and eating.
 
 treasurer:
-  name: 
-  contact: 
-  photo: 
+  name: Caleb Escobedo 
+  contact: Caleb.Escobedo@
+  photo: /assets/img/officers/caleb.jpeg
+  pronouns: He/Him/His
+  bio: Caleb Escobedo is a third year PhD student focusing on physical human robot interaction and perception. He is a member of the Human Interaction and Robotics (HIRO) group at CU. While at CU Caleb works to encourage undergraduate students to pursue their academic goals though teaching and mentorship.
   
 anti_racism_inclusion_chair:
   name: Christine Chang
-  contact: christine.chang@colorado.edu
+  contact: christine.chang@
   photo: assets/img/officers/christine_cropped.jpg
+  pronouns: She/Her/Hers
+  bio: Christine started at CU in the 2018 PhD cohort and does research in the Collaborative AI and Robotics Lab. She is passionate about space exploration, robots, mountain biking, and social justice.
 
 grad_comm:
   - name: Amit Rege
     contact: Amit.Rege@colorado.edu
     photo: assets/img/officers/AmitKiranRege.jpeg
-  - name: Arjun Rao
-    contact: Arjun.Rao@colorado.edu
-    photo: assets/img/officers/ArjunRao.JPG
-  - name: Evariste Some
-    contact: Evariste.Some@colorado.edu
-    photo: assets/img/officers/EvaristeSome.jpg
-  - name: Varsha Koushik
-    contact: Varsha.Koushik@colorado.edu
-    photo: assets/img/officers/Varsha.jpg
+    pronouns: He/Him/His
+    bio:  I am a PhD student working on Machine Learning, advised by Prof. Claire Monteleoni. In particular, I’m interested in learning scenarios with minimal supervision and interpretability. When I’m free, I enjoy reading history and lifting weights.
+  - name: Max Donovan
+    contact: William.Donovan@
+    photo: assets/img/officers/Max_Donovan.jpg
+    pronouns: He/Him/His
+    bio: Max Donovan is a first year masters student in the research track interested in environmental and biological modeling applications. As a CSGSA representative, Max is interested in contributing to an empathetic and supportive community by honing his skills as a listener and an advocate.
+  - name: Nikhith Sannidhi
+    contact: Nikhith.Sannidhi@
+    photo: assets/img/officers/Nikhith_Sannidhi.jpg
+    pronouns: He/Him/His
+    bio: Hey there! I'm a research-based Master's student in our beloved Computer Science department. I kicked off my MS program in Spring 2021 and I'm in my second semester right now. I am currently working on change pattern analysis in ML systems under the supervision of Prof. Danny Dig.  My free time in 5 words - Walking, Biking, Badminton, Chess and Cooking! And a BBT watcher, dog lover and a travel freak forever!
+  - name: Owen Martin
+    contact: Owen.Martin@
+    photo: assets/img/officers/Owen_Martin.png
+    pronouns: He/Him/His
+    bio: Owen Martin is a second-year PhD student studying emergent collective behavior in swarm systems and synchronization on complex networks. He loves the solitude of nature found via backpacking, climbing, or birdwatching, and likes to creatively write or draw about what he finds.
+  - name: Vinitha Gadiraju
+    contact: Vinitha.Gadiraju@
+    photo: assets/img/officers/VinithaGadiraju.jpeg
+    pronouns: She/Her/Hers
+    bio: Hello! My name is Vinitha Gadiraju and I am a 4th year Ph.D. student in the Computer Science department. I work with Dr. Shaun Kane in the Superhuman Computing Lab and we design educational tools and toys for blind or visually impaired children. I grew up in Portland, Oregon and got my Bachelor’s Degree in Computer Science and Psychology from the University of Oregon. When I’m not at work, I love to draw, paint, cook, and pet sit! 
 
 exec_comm:
-  name: Layne Jackson Hubbard
-  contact: Layne.Hubbard@colorado.edu
-  photo: assets/img/officers/layne.jpg
+  name: Namratha Mysore Keshavaprakash
+  contact: Namratha.MysoreKeshavaprakash@
+  photo: assets/img/officers/Namratha_Mysore_Keshavaprakash.png
+  pronouns: 
+  bio: Namratha Mysore Keshavaprakash is a first-year master's student in the Computer Science department. Prior to this, she worked in the software industry for 4 years. She is interested in building applications which have a deep impact in users daily life. Her hobbies include painting,  reading, and cooking.
 
 gpsg:
   name: Jay Luther
   contact: James.Luther@colorado.edu
   photo: assets/img/officers/JamesLuther.jpg
+  pronouns: He/Him/His 
+  bio: Jay is a 2nd-year graduate student studying for a PhD in Computer Science & Cognitive Science under Dr. Tamara Sumner. His research is focused on using Artificial Intelligence and Learning Sciences to improve the quality of adult education. In his free time, he enjoys relaxing with a good book or board game, playing music, and playing/watching sports.
 
 alumni:
   - title: chair
@@ -50,7 +75,7 @@ alumni:
       - name: Stephen Hutt
         years: Spring 2018 - Fall 2019
       - name: Jessie Finocchiaro
-      - years: Spring 2019 - Fall 2020
+        years: Spring 2019 - Fall 2020
   - title: Treasurer
     people:
       - name: Prasanth Prahladan
@@ -69,10 +94,18 @@ alumni:
         years: 2017-2019
       - name: Emily Jensen
         years: 2019-2020
+      - name: Arjun Rao
+        years: 2019 - Spring 2021
+      - name: Evariste Some
+        years: 2020 - Spring 2021
+      - name: Varsha Koushik
+        years: 2020 - Spring 2021
   - title: Executive Committee
     people:
       - name: Cecilia Mauceri
         years: 2017-2019
+      - name: Layne Hubbard
+        years: 2019-2021
   - title: Web Guru
     people:
       - name: Gerard Casas
