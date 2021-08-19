@@ -29,11 +29,6 @@ anti_racism_inclusion_chair:
   bio: Christine started at CU in the 2018 PhD cohort and does research in the Collaborative AI and Robotics Lab. She is passionate about space exploration, robots, mountain biking, and social justice.
 
 grad_comm:
-  - name: Amit Rege
-    contact: Amit.Rege@colorado.edu
-    photo: assets/img/officers/AmitKiranRege.jpeg
-    pronouns: He/Him/His
-    bio:  I am a PhD student working on Machine Learning, advised by Prof. Claire Monteleoni. In particular, I’m interested in learning scenarios with minimal supervision and interpretability. When I’m free, I enjoy reading history and lifting weights.
   - name: Max Donovan
     contact: William.Donovan@
     photo: assets/img/officers/Max_Donovan.jpg
@@ -63,11 +58,10 @@ exec_comm:
   bio: Namratha Mysore Keshavaprakash is a first-year master's student in the Computer Science department. Prior to this, she worked in the software industry for 4 years. She is interested in building applications which have a deep impact in users daily life. Her hobbies include painting,  reading, and cooking.
 
 gpsg:
-  name: Jay Luther
-  contact: James.Luther@colorado.edu
-  photo: assets/img/officers/JamesLuther.jpg
-  pronouns: He/Him/His 
-  bio: Jay is a 2nd-year graduate student studying for a PhD in Computer Science & Cognitive Science under Dr. Tamara Sumner. His research is focused on using Artificial Intelligence and Learning Sciences to improve the quality of adult education. In his free time, he enjoys relaxing with a good book or board game, playing music, and playing/watching sports.
+  name: Megan Caruso
+  photo: assets/img/officers/MeganCaruso.jpg
+  pronouns: She/Her/Hers
+  bio: Megan is a second year PhD student in the Emotive Computing Lab working on eye tracking and cognition, advised by Sidney D’Mello. You’ll find her boxing, spending time outdoors, and looking for any excuse to initiate random dancing. She loves meeting and connecting with people.
 
 alumni:
   - title: chair
@@ -100,12 +94,18 @@ alumni:
         years: 2020 - Spring 2021
       - name: Varsha Koushik
         years: 2020 - Spring 2021
+      - name: Amit Rege
+        years: 2020 - Spring 2021
   - title: Executive Committee
     people:
       - name: Cecilia Mauceri
         years: 2017-2019
       - name: Layne Hubbard
         years: 2019-2021
+  - title: GPSG Senator
+    people:
+      - name: Jay Luther
+        years: 2020-2021
   - title: Web Guru
     people:
       - name: Gerard Casas

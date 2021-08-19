@@ -142,7 +142,7 @@ The Anti-racism and Inclusion Chairs's responsibilities are to:
 <div class="col-sm-4">
 <div class="card">
 {%if person.photo%}
-![{{person.name}}]({{person.photo}}){:height="300px"}{:width="250px"}
+![{{person.name}}]({{person.photo}}){:height="300px"}{:width="300px"}
 {%endif%}
 {{person.name}} 
 
@@ -193,7 +193,7 @@ The student member of this committee is considered to be the senior student repr
 {::options parse_block_html="true" /}
 {%assign person = site.data.officers.gpsg%}
 {%if person.photo%}
-![{{person.name}}]({{person.photo}}){:height="300px"}
+![{{person.name}}]({{person.photo}}){:height="300px"}{:width="300px"}
 {%endif%}
 {{person.name}}
 
