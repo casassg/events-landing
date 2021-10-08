@@ -6,5 +6,3 @@ layout: base
 {%include weekly.html %}
 {%include newsletter.html %}
 {%include carousel.html %}
-
-
