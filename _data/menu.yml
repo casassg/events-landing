@@ -9,6 +9,8 @@
     url: /officers
   - name: Bylaws
     url: /bylaws
+  - name: Projects
+    url: /projects
 
 - name: Archive
   url: /archive
