@@ -19,6 +19,7 @@ Each major project will be described and tracked here for easy reference and acc
 **Main Contact:** CSGSA Chair
 
 **History:**
+- 18 October 2021: Presented this page to CSGSA meeting, met with positive feedback. Discussed setting up an archive page to hold previous projects.
 - 04 October 2021: Lack of documentation following Town Halls was discussed in today's meeting. Emily created initial draft of this tracking page.
 
 ## TAs with Difficult Students
@@ -30,9 +31,10 @@ Each major project will be described and tracked here for easy reference and acc
 
 **Next Action Item:** Delegate to the Lead TAs to document and integrate into TA training curriculum.
 
-**Main Contact:** CSGSA Chair, for now
+**Main Contact:** CS Lead TAs
 
 **History:**
+- 18 October 2021: Lead TAs started discussion at montly TA meeting. CSGSA will check in periodically but is no longer leading the project.
 - 04 October 2021: Decided to delegate to Lead TAs.
 - Early Fall 2021: Problem presented to Graduate Committee, working out best group to take responsibility.
 - Spring 2021 Town Hall: Problem initially presented to department administration. 
