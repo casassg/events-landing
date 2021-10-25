@@ -19,6 +19,7 @@ Each major project will be described and tracked here for easy reference and acc
 **Main Contact:** CSGSA Chair
 
 **History:**
+- 25 October 2021: Page is now publicly posted on this website menu. Will continue to update projects on a weekly basis and incorporate into workflows.
 - 18 October 2021: Presented this page to CSGSA meeting, met with positive feedback. Discussed setting up an archive page to hold previous projects.
 - 04 October 2021: Lack of documentation following Town Halls was discussed in today's meeting. Emily created initial draft of this tracking page.
 
@@ -29,7 +30,7 @@ Each major project will be described and tracked here for easy reference and acc
 
 **Proposed Solution:** Create a short, concrete description of steps to take and who to contact. We suggest a progression from individual discussions with student, instructor intervention, and escalation to the department chair and associate chairs of (under)graduate education.
 
-**Next Action Item:** Delegate to the Lead TAs to document and integrate into TA training curriculum.
+**Next Action Item:** Revisit at end of the semester to see what progress Lead TAs have made.
 
 **Main Contact:** CS Lead TAs
 
