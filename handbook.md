@@ -222,7 +222,7 @@ Contact her at:
 The handbook is the Computer Science department supplement to the [Graduate School policies and procedures](https://www.colorado.edu/graduateschool/current-students/graduate-school-policies-and-procedures). At writing, the Graduate school policies covered
 
 - Graduate School Rules
-- Concurrent Bachelor's/Master's degree program guidelines 
+- Concurrent Bachelor's/Master's degree program guidelines
 - Graduate School Grievance Policy
     * Appeal Form
 - Graduate Student Bill of Rights and Responsibilities
