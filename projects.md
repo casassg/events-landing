@@ -19,6 +19,7 @@ Each major project will be described and tracked here for easy reference and acc
 **Main Contact:** CSGSA Chair
 
 **History:**
+- 01 November 2021: Discussed how to improve accountability for issues brought up during Town Hall. Proposed setting a follow-up agenda for the next meeting during the current meeting. This is a broader discussion on how to most effectively solicit student feedback, which depends on awareness. Possibly improve visibility during orientation.
 - 25 October 2021: Page is now publicly posted on this website menu. Will continue to update projects on a weekly basis and incorporate into workflows.
 - 18 October 2021: Presented this page to CSGSA meeting, met with positive feedback. Discussed setting up an archive page to hold previous projects.
 - 04 October 2021: Lack of documentation following Town Halls was discussed in today's meeting. Emily created initial draft of this tracking page.
@@ -52,6 +53,7 @@ Each major project will be described and tracked here for easy reference and acc
 **Main Contact:** Graduate Committee representatives
 
 **History:**
+- 01 November 2021: Graduate Committee is considering waiving PMP requirement for students with work experience who have taken the internship class. Committee representatives have sent out a survey to students to get their feedback on the proposal.
 - Spring 2021: Majority of work on this project completed before tracking began.
 
 <!--- Template
