@@ -5,68 +5,68 @@ title: Bylaws
 
 ## Overview
 
-The Computer Science Graduate Students Association (CSGSA) is a student organization run by and for graduate students from the Computer Science Department at CU Boulder. Its main goal is to foster community amongst graduate students in the Department of Computer Science and other affiliated departments/institutes. To encourage such community, the CSGSA will arrange social events, professional development events, and serve as a central forum of representation for graduate students, representing graduate students’ interests to the department and broader university administration. In addition the CSGSA will inform and support graduate students throughout their program of study.  
+The Computer Science Graduate Students Association (CSGSA) is a student organization run by and for graduate students from the Computer Science Department at CU Boulder. Its main goal is to foster community amongst graduate students in the Department of Computer Science and other affiliated departments/institutes. To encourage such a community, the CSGSA will arrange social events, and serve as a central forum of representation for graduate students, representing graduate students’ interests to the department and broader university administration. In addition, the CSGSA will inform and support graduate students throughout their program of study.  
 
 ## Responsibilities
 
-The CSGSA has three main responsibilities.
+The CSGSA has the following main responsibilities.
 
 ### Social
 
-- The CSGSA arranges and promote events each semester 
-- Events will be varied and appeal to a variety of audiences.  
-- Members will be notified of events with plenty of notice and guidance given as to expected atmosphere (e.g. family friendly) 
-- Promote awareness of CSGSA activities to current students 
-  
-### Professional Development
-
-- The CSGSA supports students in their personal and professional development  
-- The CSGSA represents the graduate student population to external services such as Career Services, ISSS etc as they prepare their programme of events. 
-- The CSGSA shall work with other groups within the university to provide events and programming relevant to the needs of its membership 
+- The CSGSA arranges and promote events each semester in coordination with the department leadership
+- Events will be varied and appeal to a variety of audiences.
+- Members will be notified of events with plenty of notice and guidance given as to expected atmosphere (e.g. family friendly)
+- Promote awareness of CSGSA activities to current students
   
 ### Graduate Student Representation
 
-- The CSGSA shall appoint representatives to UGGS, Computer Science Executive Committee, Computer Science Graduate Committee and other organisations as appropriate.  
-- The CSGSA shall act as advocate for the views and opinions of its membership. 
+- The CSGSA shall appoint representatives to GPSG, Computer Science Executive Committee, Computer Science Graduate Committee, and other organisations as appropriate.
+- The CSGSA shall act as advocate for the views and opinions of its membership.
 
 ## Personnel
 
 ### Executive Committee
 
-The CSGSA has a three person executive: a Chair, Vice-Chair, and Treasurer.  The responsibilities of these members are outlined below.
+The CSGSA has a four person executive: a Chair, Vice-Chair, Treasurer, and Antiracism and Inclusion Chair.  The responsibilities of these members are outlined below.
 
 1. Chair 
-    - Manage all open projects 
-    - Run meetings of the CSGSA 
-    - Arrange meetings and develop agenda 
-    - Represent graduate students to Department and University where appropriate 
-    - Assign responsibilities to members as appropriate 
+    - Manage all open projects
+    - Run meetings of the CSGSA
+    - Arrange meetings and develop agenda
+    - Represent graduate students to Department and University where appropriate
+    - Assign responsibilities to members as appropriate
 
 2. Vice-Chair 
-    - Run CSGSA meetings in the chairs absence 
-    - Manage and maintain membership records 
-    - Manage regular email communication with members and student body 
-    - Be responsible for minutes of meetings 
-    - Assist the Chair where necessary 
+    - Run CSGSA meetings in the chair’s absence
+    - Manage and maintain organizational documents
+    - Manage regular email communication with members and student body
+    - Be responsible for minutes of meetings
+    - Assist the Chair where necessary
 
 3. Treasurer 
-    - Handle any and all financial matters 
-    - Apply for funding each year from multiple sources 
-    - Submit reimbursement forms when needed  
-    - Assist the Chair where necessary 
-    - Report regularly on financial status of the organization 
+    - Handle any and all financial matters
+    - Apply for funding each year from multiple sources
+    - Submit reimbursement forms when needed
+    - Assist the Chair where necessary
+    - Report regularly on financial status of the organization
 
-These tasks may be delegated to other members by the responsible executive.
+4. Antiracism and Inclusion Chair
+    - Facilitate student-led discussions on making CU Boulder CS more inclusive and proactively anti-racist (in continuity)
+    - Hold CSGSA accountable for actions we plan to take on community inclusivity
+    - Advocate for graduate students in inclusion and equity issues and provide input and feedback to the department, college, and/or campus as appropriate.
+    - Serve on the department Diversity, Equity, and Inclusion Committee
+    - Work with the Associate Chair of Inclusive Excellence and our undergraduate leadership to ensure CSGSA efforts are in conjunction with the department efforts on antiracism. These tasks may be delegated to other members.
 
-All three members of the executive committee should be elected no later than the last day of classes in the fall semester. The elected term begins the first day of classes in the spring semester.
+All four members of the executive committee should be elected no later than the last day of classes in the fall semester. The elected term begins the first day of classes in the spring semester.
 
 ### Committee Representatives
 
 There are three representatives to external organizations who will also be elected by the membership of the CSGSA.
 
-- UGGS representative 
-- CS Department Executive Committee representative(s) 
-- CS Department Graduate Committee representative(s) 
+- GPSG representative
+- CS Department Executive Committee representative(s)
+- CS Department Graduate Committee representative(s)
+ 
   
 ### Ad Hoc Committees
 
@@ -76,15 +76,14 @@ At any time the formation of an ad-hoc committee may be appropriate (e.g. a cert
 
 ### Membership
 
-The Vice Chair approves membership and maintains the roster.  Members must be either:
+The following will automatically be considered as members:
 
-- A graduate student in the Department of Computer Science 
-- A graduate student in an affiliated Department/Institute 
-- A graduate student working in a Computer Science or affiliated Department/Institute lab 
-  
+- A graduate student in the Department of Computer Science
+- A graduate student in an affiliated Department/Institute
+- A graduate student working in a Computer Science or affiliated Department/Institute lab
+
 Those who don’t meet these criteria may become members by arrangement with the Vice Chair.
-
-The Vice Chair is responsible for maintaining the membership roster. To become a member, students should express interest to the Vice Chair. 
+ 
 
 ### Procedures
 
