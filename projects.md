@@ -53,6 +53,7 @@ Each major project will be described and tracked here for easy reference and acc
 **Main Contact:** Graduate Committee representatives
 
 **History:**
+- 08 November 2021: Graduate Committee sent a survey getting feedback from students about possible PMP waiver. Clarification that all MS tracks can take the internship class, we are debating whether it can be used to substitute a different class.
 - 01 November 2021: Graduate Committee is considering waiving PMP requirement for students with work experience who have taken the internship class. Committee representatives have sent out a survey to students to get their feedback on the proposal.
 - Spring 2021: Majority of work on this project completed before tracking began.
 
