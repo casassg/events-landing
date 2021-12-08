@@ -10,6 +10,7 @@ If you have a recommendation on someone you want to see featured, please email [
 The interviews from the first year can be found on Izzy's website [here](https://izabelpaguiar.com/nn/).
 
 Newer interviews include:
+ * [Jay Seabrum] (neural-network/jay_seabrum_nn.pdf)
  * [Sagi Shaier](neural-network/sagi_shaier_nn.pdf)
  * [Nasim Sonboli](neural-network/nasim_sonboli_nn.pdf)
  * [Vinitha Gadiraju](neural-network/vinitha_gadiraju_nn.pdf)
