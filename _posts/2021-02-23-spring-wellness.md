@@ -9,7 +9,7 @@ image: /assets/img/events/02-25-2022-wellness-friday.png
 To help Computer Science Graduate Students and Faculty in maintaining wellness, CSGSA is organizing a series of sessions this Spring.
 
 ### Kickoff Event this Friday
-The Spring Wellness Fridays will kickoff this Friday, 25th February with 'Declutter your Mind with the Breath!' session at 5PM in association.
+The Spring Wellness Fridays will kickoff this Friday, 25th February with 'Declutter your Mind with the Breath!' session at 5PM.
 
 [Dr. Karthik Mohan](https://www.ece.uw.edu/people/karthik-mohan/) will be leading the session. He is a Breath and Meditation instructor with Art of Living, an AI Practitioner and a Faculty Member at the University of Washington.
 
