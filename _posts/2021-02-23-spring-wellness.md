@@ -4,7 +4,7 @@ author: CSGSA
 date: 2022-02-23
 image: /assets/img/events/02-25-2022-wellness-friday.png
 ---
-### Spring 2022 Wellness Fridays: Kickoff
+### Spring 2022, Wellness Fridays: Kickoff
 
 To help Computer Science Graduate Students and Faculty in maintaining wellness, CSGSA is organizing a series of sessions this Spring.
 
