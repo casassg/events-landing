@@ -3,17 +3,17 @@ layout: page
 title: Officers
 ---
 If you're interested in reaching the CSGSA board or someone on one of the committees - please send us an email at csgsa@colorado.edu or message us on the #csgsa slack channel!
-## CSGSA Executive Board 
+## CSGSA Executive Board
 
 ### CSGSA Chair
 
 {::options parse_block_html="true" /}
 <div class="container">
 <div class="row">
+{%assign person = site.data.officers.chair%}
 <div class="col-sm-4">
 <div class="card">
 {::options parse_block_html="true" /}
-{%assign person = site.data.officers.chair%}
 {%if person.photo%}
 ![{{person.name}}]({{person.photo}}){:height="300px"}
 {%endif%}
@@ -28,11 +28,11 @@ Bio: {{person.bio}}
 <div class="col-sm-8">
 The chair's responsibilities are to:
 
-1. Manage all open projects 
-2. Run meetings of the CSGSA 
-3. Arrange meetings and develop agenda 
-4. Represent graduate students to Department and University where appropriate 
-5. Assign responsibilities to members as appropriate 
+1. Manage all open projects
+2. Run meetings of the CSGSA
+3. Arrange meetings and develop agenda
+4. Represent graduate students to Department and University where appropriate
+5. Assign responsibilities to members as appropriate
 </div>
 </div>
 </div>
@@ -60,11 +60,11 @@ Bio: {{person.bio}}
 <div class="col-sm-8">
 The vice chair's responsibilities are to:
 
-1. Run CSGSA meetings in the chairs absence 
-2. Manage and maintain membership records 
-3. Manage regular email communication with members and student body 
-4. Be responsible for minutes of meetings 
-5. Assist the Chair where necessary 
+1. Run CSGSA meetings in the chairs absence
+2. Manage and maintain membership records
+3. Manage regular email communication with members and student body
+4. Be responsible for minutes of meetings
+5. Assist the Chair where necessary
 </div>
 </div>
 </div>
@@ -92,10 +92,10 @@ Bio: {{person.bio}}
 <div class="col-sm-8">
 The treasurer's responsibilities are to:
 
-1. Handle any and all financial matters 
-2. Apply for funding each year from multiple sources 
-3. Submit reimbursement forms when needed 
-4. Assist the Chair where necessary 
+1. Handle any and all financial matters
+2. Apply for funding each year from multiple sources
+3. Submit reimbursement forms when needed
+4. Assist the Chair where necessary
 5. Report regularly on financial status of the organization
 </div>
 </div>
@@ -116,8 +116,9 @@ The treasurer's responsibilities are to:
 {{person.name}}
 
 Pronouns: {{person.pronouns}}
-
+{%if person.bio%}
 Bio: {{person.bio}}
+{%endif%}
 </div>
 </div>
 
@@ -125,7 +126,7 @@ Bio: {{person.bio}}
 The Anti-racism and Inclusion Chairs's responsibilities are to:
 
 1. Facilitate student-led discussions on making CU Boulder CS more inclusive and proactively anti-racist (in continuity)
-2. Hold CSGSA accountable for actions we plan to take on community inclusivity 
+2. Hold CSGSA accountable for actions we plan to take on community inclusivity
 3. Serve as a peer reporter for microaggressions by monitoring the student reporting form
 4. Work with the Associate Chair of Inclusive Excellence and our undergraduate leadership to ensure CSGSA efforts are in conjunction with the department efforts on antiracism
 5. These tasks may be delegated to other members by the responsible executive.
@@ -133,18 +134,21 @@ The Anti-racism and Inclusion Chairs's responsibilities are to:
 </div>
 </div>
 
-## Department Graduate Committee Student Reps
+## Department Graduate Committee Student Representatives
+
+The Graduate Committee is charged with a broad range of graduate student affairs, both for Masters and PhD students. This committee reviews all applications for admission to the Masters and Doctoral programs in Computer Science. All problems regarding any proposed changes to both the Master’s program and the Ph.D. program are handled by this Graduate Committee. It is also responsible for defining course content, considering new course offerings, and other issues for the graduate degree programs. There are three student representatives on the Graduate Committee, two PhD students and one Masters student.
+
+
 
 {::options parse_block_html="true" /}
 <div class="container">
-<div class="row">
 {%for person in site.data.officers.grad_comm%}
-<div class="col-sm-4">
+<div class="col-sm-6">
 <div class="card">
 {%if person.photo%}
 ![{{person.name}}]({{person.photo}}){:height="300px"}{:width="300px"}
 {%endif%}
-{{person.name}} 
+{{person.name}}
 
 Pronouns: {{person.pronouns}}
 
@@ -153,12 +157,8 @@ Bio: {{person.bio}}
 </div>
 {%endfor%}
 </div>
-</div>
-
-The Graduate Committee is charged with a broad range of graduate student affairs, both for Masters and PhD students. This committee reviews all applications for admission to the Masters and Doctoral programs in Computer Science. All problems regarding any proposed changes to both the Master’s program and the Ph.D. program are handled by this Graduate Committee. It is also responsible for defining course content, considering new course offerings, and other issues for the graduate degree programs. There are three student representatives on the Graduate Committee, two PhD students and one Masters student.
 
 ## Department Executive Committee Student Representative
-
 {::options parse_block_html="true" /}
 <div class="container">
 <div class="row">
@@ -183,7 +183,7 @@ The student member of this committee is considered to be the senior student repr
 </div>
 </div>
 
-## GPSG Student Reps
+## GPSG Student Representatives
 
 {::options parse_block_html="true" /}
 <div class="container">
@@ -196,10 +196,12 @@ The student member of this committee is considered to be the senior student repr
 ![{{person.name}}]({{person.photo}}){:height="300px"}{:width="300px"}
 {%endif%}
 {{person.name}}
-
+{%if person.pronouns%}
 Pronouns: {{person.pronouns}}
-
+{%endif%}
+{%if person.bio%}
 Bio: {{person.bio}}
+{%endif%}
 </div>
 </div>
 
@@ -219,4 +221,3 @@ We're sad to see you go! Thanks for all your help.
   * {{ person.years }} &raquo; {{ person.name }}
   {% endfor %}
 {% endfor %}
-
