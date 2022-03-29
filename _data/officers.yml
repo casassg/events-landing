@@ -26,6 +26,7 @@ anti_racism_inclusion_chair:
   contact: evariste.some@
   photo: assets/img/officers/evariste_some.jpg
   pronouns: He/Him/His
+  bio: My name is Evariste Some, a 5th year PhD student in the Computer Science Dept.- TCP - Wireless Engineering. I research with Prof. Al. Gasiewski in the Center for Environmental Technology Lab, ECE, on the coherency of multiple SDR receivers, Direction of Arrival, Beamforming, MIMO. Also, I often make time to socialize, cook African food, exercise, support others students community group.
 
 grad_comm:
   - name: Max Donovan
@@ -58,9 +59,9 @@ exec_comm:
 
 gpsg:
   name: Naga Sai Meenakshi Sistla
-  # photo: assets/img/officers/naga_sistla.jpg
-  # pronouns: X
-  # bio: X
+  photo: assets/img/officers/meenakshi_sistla.jpg
+  pronouns: She/Her/Hers
+  bio: Meenakshi is a second year Master's Student studying Computer Science. She loves to spend time reading about all things known to mankind, cooking( experimenting with food as she calls it) and dancing to Bollywood and Pop music. She is currently trying to learn Hip Hop!  She is a fan of all things related to Japanese culture, including J rock and pop music and can be caught day dreaming about the next most interesting thing she should do!
 
 alumni:
   - title: Chair
