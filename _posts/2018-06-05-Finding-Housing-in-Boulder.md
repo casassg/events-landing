@@ -11,8 +11,12 @@ This semester a group of CS graduate students collaboratively mapped their apart
 
 ![A map with flags where students live]({{"/assets/img/CS_map.png" | absolute_url}}){:class="img-responsive"}
 
+## [Summary of Fall 2021 CSGSA Housing Survey](../../../2021/04/03/fall-21-housing-survey-summary)
+
+CSGSA conducted a Housing Survey in Fall 2021 to get an overview of the graduate students housing. This summary is meant to provide with prospective students an overview of the housing options and associated monthly costs, commute time etc.
+
 ## [What are the neighborhoods around Boulder?  How can I get around?](../../../assets/pdf/S22-Life-in-Boulder.pdf)
-Boulder and its larger metro area are publicly traversible by bus under Denver's Regional Transportation District.  Busses run within Boulder and to some of its suburbs.  To the northeast of Boulder are Gunbarrel, Niwot, and Longmont, and towards Denver (southeast) are Superior, Louisville, Lafayette, Broomfield, and Golden.  Within Boulder, there are neighborhoods surrounding campus, each offering different perks.  See the above link for more information about these subrubs and neighborhoods, and getting around in each.  
+Boulder and its larger metro area are publicly traversible by bus under Denver's Regional Transportation District.  Busses run within Boulder and to some of its suburbs.  To the northeast of Boulder are Gunbarrel, Niwot, and Longmont, and towards Denver (southeast) are Superior, Louisville, Lafayette, Broomfield, and Golden.  Within Boulder, there are neighborhoods sumrrounding campus, each offering different perks.  See the above link for more information about these subrubs and neighborhoods, and getting around in each.  
 
 ## How much can I expect to pay for housing?
 It's hard to say.  Many of our graduate students live with roommates or spouses while some prioritize having their own space; some live in town, and some live a suburb of Boulder.  The exact amount you'll pay is variable, but hopefully this histogram from our 2021 Quality of Life survey can help you make an estimate.  The TA and RA stipdends pay approximately $13000 per semester, or $2800 per month for the 9 month academic year before taxes (approx. $2400 after taxes), while students have the opportunity to earn more in the summer as well.
