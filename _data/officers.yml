@@ -1,32 +1,32 @@
 # This populates the Officers page
 
 chair:
-  name: Emily Jensen
-  contact: Emily.Jensen@
-  photo: assets/img/officers/EmilyJensen.jpg
-  pronouns: She/Her/Hers
-  bio: Emily Jensen is a fourth year PhD student advised by Sriram Sankaranarayanan and Brad Hayes. She is an avid fan of 80s records, knitting socks, and recently finished her first trail half marathon!
-
-vice_chair:
-  name: Maggie Perkoff 
+  name: Maggie Perkoff
   contact: Margaret.Perkoff@
   photo: assets/img/officers/maggie_perkoff.jpg
   pronouns: She/Her/Hers
   bio: Maggie Perkoff is a second year PhD student jointly advised by Clayton Lewis and Jim Martin.  She thinks all activities are more fun when done outdoors - running, working, and eating.
 
-treasurer:
-  name: Caleb Escobedo 
-  contact: Caleb.Escobedo@
-  photo: /assets/img/officers/caleb.jpeg
-  pronouns: He/Him/His
-  bio: Caleb Escobedo is a third year PhD student focusing on physical human robot interaction and perception. He is a member of the Human Interaction and Robotics (HIRO) group at CU. While at CU Caleb works to encourage undergraduate students to pursue their academic goals though teaching and mentorship.
-  
-anti_racism_inclusion_chair:
-  name: Christine Chang
-  contact: christine.chang@
-  photo: assets/img/officers/christine_cropped.jpg
+vice_chair:
+  name: Aishwarya Satwani
+  contact: Aishwarya.Satwani@
+  photo: assets/img/officers/aishwarya_satwani.jpg
   pronouns: She/Her/Hers
-  bio: Christine started at CU in the 2018 PhD cohort and does research in the Collaborative AI and Robotics Lab. She is passionate about space exploration, robots, mountain biking, and social justice.
+  bio: Aishwarya Satwani is a first year research-based Master’s student. She is interested in reading books, painting, volunteer work and organizing fun events!
+
+treasurer:
+  name: Neerab Kumar Pathipaka
+  contact: Neerab.Pathipaka@
+  photo: /assets/img/officers/neerab_pathipaka.jpg
+  pronouns: He/Him/His
+  bio: Hey! I am Neerab. I am in second semester of my Master’s program in Computer Science. I am passionate to bring a sense of belongingness among students at CU and working on a project for the same under the Prof. Danny Dig. In my free time i love to play basketball, hockey and cooking.
+
+anti_racism_inclusion_chair:
+  name: Evariste Somé
+  contact: evariste.some@
+  photo: assets/img/officers/evariste_some.jpg
+  pronouns: He/Him/His
+  bio: My name is Evariste Some, a 5th year PhD student in the Computer Science Dept.- TCP - Wireless Engineering. I research with Prof. Al. Gasiewski in the Center for Environmental Technology Lab, ECE, on the coherency of multiple SDR receivers, Direction of Arrival, Beamforming, MIMO. Also, I often make time to socialize, cook African food, exercise, support others students community group.
 
 grad_comm:
   - name: Max Donovan
@@ -48,28 +48,30 @@ grad_comm:
     contact: Vinitha.Gadiraju@
     photo: assets/img/officers/VinithaGadiraju.jpeg
     pronouns: She/Her/Hers
-    bio: Hello! My name is Vinitha Gadiraju and I am a 4th year Ph.D. student in the Computer Science department. I work with Dr. Shaun Kane in the Superhuman Computing Lab and we design educational tools and toys for blind or visually impaired children. I grew up in Portland, Oregon and got my Bachelor’s Degree in Computer Science and Psychology from the University of Oregon. When I’m not at work, I love to draw, paint, cook, and pet sit! 
+    bio: Hello! My name is Vinitha Gadiraju and I am a 4th year Ph.D. student in the Computer Science department. I work with Dr. Shaun Kane in the Superhuman Computing Lab and we design educational tools and toys for blind or visually impaired children. I grew up in Portland, Oregon and got my Bachelor’s Degree in Computer Science and Psychology from the University of Oregon. When I’m not at work, I love to draw, paint, cook, and pet sit!
 
 exec_comm:
   name: Namratha Mysore Keshavaprakash
   contact: Namratha.MysoreKeshavaprakash@
   photo: assets/img/officers/Namratha_Mysore_Keshavaprakash.png
-  pronouns: 
+  pronouns: She/Her/Hers
   bio: Namratha Mysore Keshavaprakash is a first-year master's student in the Computer Science department. Prior to this, she worked in the software industry for 4 years. She is interested in building applications which have a deep impact in users daily life. Her hobbies include painting,  reading, and cooking.
 
 gpsg:
-  name: Megan Caruso
-  photo: assets/img/officers/MeganCaruso.jpg
+  name: Naga Sai Meenakshi Sistla
+  photo: assets/img/officers/meenakshi_sistla.jpg
   pronouns: She/Her/Hers
-  bio: Megan is a second year PhD student in the Emotive Computing Lab working on eye tracking and cognition, advised by Sidney D’Mello. You’ll find her boxing, spending time outdoors, and looking for any excuse to initiate random dancing. She loves meeting and connecting with people.
+  bio: Meenakshi is a second year Master's Student studying Computer Science. She loves to spend time reading about all things known to mankind, cooking( experimenting with food as she calls it) and dancing to Bollywood and Pop music. She is currently trying to learn Hip Hop!  She is a fan of all things related to Japanese culture, including J rock and pop music and can be caught day dreaming about the next most interesting thing she should do!
 
 alumni:
-  - title: chair
+  - title: Chair
     people:
       - name: Stephen Hutt
         years: Spring 2018 - Fall 2019
       - name: Jessie Finocchiaro
         years: Spring 2019 - Fall 2020
+      - name: Emily Jensen
+        years: Spring 2020 - Fall 2021
   - title: Treasurer
     people:
       - name: Prasanth Prahladan
@@ -78,6 +80,14 @@ alumni:
         years: Spring - Fall 2019
       - name: Dylan Fox
         years: Spring 2019 - Fall 2020
+      - name: Caleb Escobedo
+        years: Spring 2020 - Fall 2021
+
+  - title: CSGSA Anti-racism and Inclusion Chair
+    people:
+      - name: Christine Chang
+        years: Spring 2020 - Fall 2021
+
   - title: Graduate Committee
     people:
       - name: Prashil Bhimani
@@ -96,16 +106,21 @@ alumni:
         years: 2020 - Spring 2021
       - name: Amit Rege
         years: 2020 - Spring 2021
+
   - title: Executive Committee
     people:
       - name: Cecilia Mauceri
         years: 2017-2019
       - name: Layne Hubbard
         years: 2019-2021
-  - title: GPSG Senator
+
+  - title: GPSG Student Representative
     people:
       - name: Jay Luther
-        years: 2020-2021
+        years: Fall 2020 - Spring 2021
+      - name: Megan Caruso
+        years: Fall 2021
+
   - title: Web Guru
     people:
       - name: Gerard Casas
