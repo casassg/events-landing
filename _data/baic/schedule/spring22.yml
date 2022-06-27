@@ -1,0 +1,75 @@
+- abstract: "Introduction to BAIC"
+  date: 2022-01-28
+  summary: |
+    The Biweekly Antiracism and Inclusion Conversation will be on the theme of:
+      What does DEI mean for us?
+      What can we do to bring impactful actions in the CS Department?
+      We will also present a number of selected subjects that could be discussed throughout the spring semester.
+      The session will be led by Evariste Some.
+
+
+- abstract: "Microaggressions"
+  date: 2022-02-11
+  summary: This microaggressions workshop will be a 60-minute modified workshop designed for the Computer Science Dept. to become aware of and explore various microaggressions, evaluate language and word choices and improve civil discourse and open exchange with others. The workshop will be led by Montez Butts and Anthony Siracusa from the Center for Inclusion and Social Change.
+  resources:
+    -  text: ODECE Programs
+       url : "https://www.colorado.edu/odece/programs"
+
+- abstract: Black History Month & Its Origins
+  date: 2022-02-05
+  summary: |
+   In 1926, Carter D. Woodson and the ASALH (Association for the Study of African American Life and History) launched “Negro History Week” to promote the studying of African American history as a discipline and to celebrate the accomplishments of African Americans. Today Black History Month recognizes the contributions of the African diaspora to the United States and our global communities. This session highlights how understanding the importance of Black History is essential for all members of the university community as we build BOLD, equitable, and interdisciplinary scholarship.  This workshop will be led by  John Robinson-Miller IV from the Center for African & African American Studies-CU.
+   Discussed points:
+     Black History Month History
+     Black History at CU Boulder
+     Anti-Black Racism
+     Guiding questions
+      What does this have to do with me?
+      Why is celebrating Black history important?
+      What do I need to know to be a more inclusive community member?
+
+
+  resources:
+    - text: Center for African and African American Studies
+      url: "https://www.colorado.edu/center/caaas/"
+
+- abstract: "Implicit Bias"
+  date: 2022-03-11
+  summary: We all have implicit biases. What is an implicit bias in social identity and what can we do about it? Implicit Bias is a 60-minute introductory workshop designed for the Computer Science Dept. to understand unconscious bias, embrace diversity and implement strategies and behaviors to challenge implicit bias. This workshop will be led by Anthony Siracusa and Montez Butts from ODECE.
+  resources:
+    -  text: ODECE Programs
+       url : "https://www.colorado.edu/odece/programs"
+
+- abstract: "LGBTQ+ International Students - Challenges and Support Strategies"
+  date: 2022-04-15
+  summary: During this conversation, ISSS will give a presentation on the unique challenges that LGBTQ+ international students face in the United States, provide immigration-related resources that are available for this student population, and explain how the CU Boulder community can support students with these intersecting identities. All members of the CU Boulder community are welcome to attend. For questions, please contact ryan.goos@colorado.edu.
+  resources:
+    - text: Immigration Equality
+      url: "https://immigrationequality.org"
+    - text: "USCIS Asylum"
+      url: "https://www.uscis.gov/humanitarian/refugees-and-asylum/asylum"
+    - text: Asylum based on an LGBTQ
+      url : "https://www.lgbtasylumproject.org"
+
+- abstract: "UndocuAlly training"
+  date: 2022-04-08
+  summary: |
+    This is a 2 hour training—co-presented by the CISC and our faculty allies—intended to help campus better support undocumented students and create a more welcoming campus environment through:
+    Understanding terminology and the make-up of our undocumented community
+    Understanding the history of U.S. immigration and how it has led to the current situation
+    Understanding DACA and ASSET and how they may impact CU Boulder students
+    Understanding challenges, opportunities, and resources for undocumented students on campus
+    Presented by the CISC, Stephanie Roberts.
+
+
+  resources:
+    -  text: ODECE Programs
+       url : "https://www.colorado.edu/odece/programs"
+
+- abstract: "Intersectionality"
+  date: 2022-04-22
+  summary: |
+   The acknowledgement that everyone has their own unique experiences of discrimination and oppression and we must consider everything and anything that can marginalize people – gender, race, class, sexual orientation, physical ability, etc.  This workshop will be led by Anthony Siracusa and Montez Butts from ODECE. Intersectionality is a 60-minute workshop designed for staff and students to recognize that multiple identities intersect and interact with each other and how those identities can affect their privilege in society."
+  resources:
+    -  text: ODECE Programs
+       url : "https://www.colorado.edu/odece/programs"
