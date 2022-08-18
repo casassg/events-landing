@@ -1,9 +1,9 @@
 ---
 layout: page
-title: 2021 Winter CS Grad Scavenger Hunt
+title: 2022 Orientation CS Grad Scavenger Hunt
 ---
 
-<p class="lead">Get ready to join the 2021 Scavenger Hunt. Solve the anagrams by finding the location shown in the image. Look around to find a text that is an anagram.</p>
+<p class="lead">Get ready to join the 2022 Scavenger Hunt. Solve the anagrams by finding the location shown in the image. Look around to find a text that is an anagram.</p>
 
 <p class="lead">Once you are done, send your answers in the button below.</p>
 
@@ -51,8 +51,6 @@ Each image has an anagram assigned. Find the picture location to solve the anagr
     </div>
   </section>
 
-Check out the full version of the images [here](https://www.dropbox.com/sh/5x7xcddt67m8xst/AABIBsLEt0_B1E1UX9bF2sM1a?dl=0).
-
 
 ## End form
 
@@ -60,7 +58,7 @@ Done already? Send your answers here.
 
 <div class="row">
   <div class="col-md-5">
-    <a class="btn btn-accent btn-block" href="https://forms.gle/k17zM5zYB1dgpQHz8" target="_blank">
+    <a class="btn btn-accent btn-block" href="https://forms.gle/JSoCgA2Y9rV9z8GM7" target="_blank">
       Send answers
     </a>
   </div>
