@@ -1,0 +1,46 @@
+- abstract: "Biweekly Antiracism and Inclusion Conversations Joint Kick-off (Staff, Faculty and Grad Students)"
+  date: 2022-09-09
+  summary: "CS Graduate students, professors and staff members would be presenting their vision/work/advice/recommendation/etc. to creating and maintaining an environment dedicated to diversity equity and inclusion, one where all students, faculty, and staff feel a sense of belonging, and are welcomed and valued. The session will be virtual format. The zoom link can be found in the CSGSA calendar."
+  time: "2pm-3.30pm"
+# TODO do JIC sessions need registration?
+- abstract: "The Journey to Inclusive Cultures 101"
+  date: 2022-09-23
+  summary: |
+    The Journey to Inclusive Cultures (JIC) 101, First of a three-part course. This foundational 90 minute workshop is designed to provide participants with shared definitions of core concepts in DEI work. We also provide context for how and why DEI conversations became commonplace in our current social context, and we ask participants to identify where they are currently on their DEI journey. Offered by the Inclusive Culture Team. Speakers will be Montez Butts, MA and Anthony C. Siracusa, Ph.D.
+
+    Goals:
+      * Explore the importance of identity for all
+      * Provide context for this moment
+      * Introduce the concept of anti-racism
+      * Introduce the concept of implicit bias
+      * Introduce the concept of microaggressions
+      * Identify where we are on our DEI Journey
+
+- abstract: "The Journey to Inclusive Cultures 201"
+  date: 2022-10-21
+  summary: |
+    The Journey to Inclusive Cultures (JIC) 201, Second part of a three-part course. This workshop encourages participants to go deeper in their understanding of social identities and power. We discuss how we are socialized around aspects of identity, how this socialization leads to dominant and subordinated groups in society, and we explain how the space between our individual identity and our group based identities is a space where transformation can take place.
+
+    Goals:
+    * Check levels on where we are on our journey
+    * Learn about and Discuss the Cycle of Socialization
+    * Learn about Dominant and Subordinated Groups
+    * Explore your knowledge of social identities
+
+# - abstract: Coming soon
+#   date: 2022-10-21
+#   summary : Coming soon
+
+- abstract: "The Journey to Inclusive Cultures 202"
+  date: 2022-11-11
+  summary : |
+    The Journey of Inclusive Cultures (JIC) 202, Third and Final part of the course. This workshop 120 minutes builds on the consciousness and awareness developed in the first two workshops by adding skills and techniques for creating more inclusive cultures. We explain how to observe and identify oppressive behaviors, how to engage in one on one conversations to address oppressive behaviors, and we outline strategies for intervening in group settings when oppressive behaviors show up. At each stage, we emphasize restoring and repairing relationships to ensure we can stay together on our journey to inclusive culture.
+
+    Goals:
+      * Learn how to PAN (pay attention now) and practice this skill
+      * Learn skills for crucial one on one conversations and practice this skill
+      * Learn how to intervene when you witness oppressive behaviors or language in group settings and practice this skill
+
+- abstract: Feature on Women's Leadership Panel
+  date: 2022-12-02
+  summary: Coming Soon
