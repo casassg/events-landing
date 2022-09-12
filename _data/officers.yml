@@ -29,39 +29,31 @@ anti_racism_inclusion_chair:
   bio: My name is Evariste Some, a 5th year PhD student in the Computer Science Dept.- TCP - Wireless Engineering. I research with Prof. Al. Gasiewski in the Center for Environmental Technology Lab, ECE, on the coherency of multiple SDR receivers, Direction of Arrival, Beamforming, MIMO. Also, I often make time to socialize, cook African food, exercise, support others students community group.
 
 grad_comm:
-  - name: Max Donovan
-    contact: William.Donovan@
-    photo: assets/img/officers/Max_Donovan.jpg
-    pronouns: He/Him/His
-    bio: Max Donovan is a first year masters student in the research track interested in environmental and biological modeling applications. As a CSGSA representative, Max is interested in contributing to an empathetic and supportive community by honing his skills as a listener and an advocate.
-  - name: Nikhith Sannidhi
-    contact: Nikhith.Sannidhi@
-    photo: assets/img/officers/Nikhith_Sannidhi.jpg
-    pronouns: He/Him/His
-    bio: Hey there! I'm a research-based Master's student in our beloved Computer Science department. I kicked off my MS program in Spring 2021 and I'm in my second semester right now. I am currently working on change pattern analysis in ML systems under the supervision of Prof. Danny Dig.  My free time in 5 words - Walking, Biking, Badminton, Chess and Cooking! And a BBT watcher, dog lover and a travel freak forever!
-  - name: Owen Martin
-    contact: Owen.Martin@
-    photo: assets/img/officers/Owen_Martin.png
-    pronouns: He/Him/His
-    bio: Owen Martin is a second-year PhD student studying emergent collective behavior in swarm systems and synchronization on complex networks. He loves the solitude of nature found via backpacking, climbing, or birdwatching, and likes to creatively write or draw about what he finds.
-  - name: Vinitha Gadiraju
-    contact: Vinitha.Gadiraju@
-    photo: assets/img/officers/VinithaGadiraju.jpeg
+  - name: Corey Murphy
+    contact : Corey.Murphey@
+    photo: assets/img/officers/corey_murphey.jpg
     pronouns: She/Her/Hers
-    bio: Hello! My name is Vinitha Gadiraju and I am a 4th year Ph.D. student in the Computer Science department. I work with Dr. Shaun Kane in the Superhuman Computing Lab and we design educational tools and toys for blind or visually impaired children. I grew up in Portland, Oregon and got my Bachelor’s Degree in Computer Science and Psychology from the University of Oregon. When I’m not at work, I love to draw, paint, cook, and pet sit!
+    bio: Corey is a second-year Ph.D. student interested in scientific computing, numerical computation, and computational fluid dynamics. As a classically-trained lyric soprano, Corey loves singing so much that she is trying to incorporate it into her research. In her spare time, she loves playing music, swimming, running, reading, and cuddling with her three Golden Retrievers.
+
+  - name: Spencer Wilson
+    contact: Spencer.Wilson@
+    photo: assets/img/officers/spencer_wilson.jpg
+    pronouns: He/Him/His
+    bio: Spencer Wilson is a first year MS-CSEN student in the research track interested in accessibility enabled by technology in the classroom. His hobbies include cooking, doodling, mentoring, netflix, scuba diving, skiing, teaching, and yoga.
 
 exec_comm:
-  name: Namratha Mysore Keshavaprakash
-  contact: Namratha.MysoreKeshavaprakash@
-  photo: assets/img/officers/Namratha_Mysore_Keshavaprakash.png
-  pronouns: She/Her/Hers
-  bio: Namratha Mysore Keshavaprakash is a first-year master's student in the Computer Science department. Prior to this, she worked in the software industry for 4 years. She is interested in building applications which have a deep impact in users daily life. Her hobbies include painting,  reading, and cooking.
+  name: Rohan Das
+  contact: Rohan.Das@
+  photo: assets/img/officers/rohan_das.jpg
+  pronouns: He/Him/His
+  bio: Rohan is a second year Master's student and is advised by Dr. Katharina Kann. He is interested in building tools for low resource languages by grounding language models in linguistic theory. Rohan is an amateur aquascaper and he enjoys attending concerts and reading long form sports journalism.
 
 gpsg:
-  name: Naga Sai Meenakshi Sistla
-  photo: assets/img/officers/meenakshi_sistla.jpg
+  name: Nikhul Hulle
+  contact: Nikhil.Hulle@
+  photo: assets/img/officers/nikhil_hulle.jpg
   pronouns: She/Her/Hers
-  bio: Meenakshi is a second year Master's Student studying Computer Science. She loves to spend time reading about all things known to mankind, cooking( experimenting with food as she calls it) and dancing to Bollywood and Pop music. She is currently trying to learn Hip Hop!  She is a fan of all things related to Japanese culture, including J rock and pop music and can be caught day dreaming about the next most interesting thing she should do!
+  bio: I am first year Master's student. In my free time you will find me binging on TV shows, watching Manchester United break hearts or playing badminton. During my time here at CU Boulder, I intend to gain vital academic experience from a great set of professors that the CS department houses and hope to shape my skills that will help me add value in the work I will do.
 
 alumni:
   - title: Chair
@@ -106,6 +98,14 @@ alumni:
         years: 2020 - Spring 2021
       - name: Amit Rege
         years: 2020 - Spring 2021
+      - name: Max Donavan
+        years: Fall 2021 - Summer 2022
+      - name: Nikith Sannidhi
+        years: Fall 2021 - Summer 2022
+      - name: Owen Martin
+        years: Fall 2021 - Summer 2022
+      - name: Vinitha Gadiraju
+        years: Fall 2021 - Summer 2022
 
   - title: Executive Committee
     people:
@@ -113,6 +113,8 @@ alumni:
         years: 2017-2019
       - name: Layne Hubbard
         years: 2019-2021
+      - name: Namratha Mysore Keshavaprakash
+        years: 2021-2022
 
   - title: GPSG Student Representative
     people:
@@ -120,6 +122,8 @@ alumni:
         years: Fall 2020 - Spring 2021
       - name: Megan Caruso
         years: Fall 2021
+      - name : Naga Sai Meenakshi Sistla
+        years: Spring 2022
 
   - title: Web Guru
     people:
