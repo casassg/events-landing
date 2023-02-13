@@ -277,3 +277,19 @@
   end-date: 2021-05-16 5:00 PM 
   location: Online
   url: https://hackupc.com
+
+- name: HackUPC 2022
+  line: Hybrid Student Hackathon. 36h. April 29th-1st May.
+  image-url: assets/img/hackupc2022.png
+  date: 2022-04-29 6:00 PM 
+  end-date: 2022-05-1 5:00 PM 
+  location: Hybrid (Campus Nord & Online)
+  url: https://2022.hackupc.com
+  
+- name: bitsxlaMarato 2022
+  line: La Marató hackathon. 36h. Dec 16th-18th.
+  image-url: assets/img/bitsxlamarato2022.jpg
+  date: 2022-12-16 6:00 PM 
+  end-date: 2022-12-18 4:30 PM 
+  location: Campus Nord
+  url: https://www.fib.upc.edu/la-marato
