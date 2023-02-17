@@ -272,7 +272,7 @@
 
 - name: HackUPC 2021
   line: Online Student Hackathon. 36h. May 14th-16th.
-  image-url: assets/img/hackupc2021.png
+  image-url: https://2021.hackupc.com/ogimage.png
   date: 2021-05-14 6:00 PM 
   end-date: 2021-05-16 5:00 PM 
   location: Online
@@ -288,7 +288,7 @@
 
 - name: HackUPC 2022
   line: Hybrid Student Hackathon. 36h. April 29th-1st May.
-  image-url: assets/img/hackupc2022.png
+  image-url: https://2022.hackupc.com/ogimage.png
   date: 2022-04-29 6:00 PM 
   end-date: 2022-05-1 5:00 PM 
   location: Hybrid (Campus Nord & Online)
@@ -304,7 +304,7 @@
 
 - name: HackUPC 2023
   line: BarcelonaTech's Student Hackathon. 600 hackers. 36h. May 12-14.
-  image-url: assets/img/hackupc2023.png
+  image-url: https://hackupc.com/ogimage.png
   date: 2023-05-12 6:00 PM 
   end-date: 2023-05-14 4:30 PM 
   location: Campus Nord
