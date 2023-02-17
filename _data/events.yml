@@ -293,3 +293,11 @@
   end-date: 2022-12-18 4:30 PM 
   location: Campus Nord
   url: https://www.fib.upc.edu/la-marato
+
+- name: HackUPC 2023
+  line: BarcelonaTech's Student Hackathon. 600 hackers. 36h. May 12-14.
+  image-url: assets/img/hackupc2023.png
+  date: 2023-05-12 6:00 PM 
+  end-date: 2023-05-14 4:30 PM 
+  location: Campus Nord
+  url: https://hackupc.com
