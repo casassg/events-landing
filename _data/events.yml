@@ -188,7 +188,7 @@
   date: 2019-12-13 6:00 PM 
   end-date: 2019-12-15 4:30 PM 
   location: Campus Nord
-  url: https://www.fib.upc.edu/la-marato
+  url: https://www.fib.upc.edu/ca/la-marato/edicions-anteriors/la-marato-2019
   
 - name: Probabilistic data structures in Golang
   line: We will discuss how multiple algorithms/data structures are used.
@@ -252,7 +252,7 @@
   date: 2020-12-18 5:00 PM 
   end-date: 2020-12-20 5:00 PM 
   location: Online
-  url: https://www.fib.upc.edu/la-marato
+  url: https://www.fib.upc.edu/ca/la-marato/edicions-anteriors/la-marato-2020
   
 - name: "Real-time chat application with Socket.io"
   image-url: assets/img/socket-io.png
@@ -277,6 +277,14 @@
   end-date: 2021-05-16 5:00 PM 
   location: Online
   url: https://2021.hackupc.com
+
+- name: bitsxlaMarato 2021
+  line: La Marató hackathon. 36h. Dec 16th-18th.
+  image-url: assets/img/bitsxlamarato2019.jpg
+  date: 2022-12-16 6:00 PM 
+  end-date: 2022-12-18 4:30 PM 
+  location: Campus Nord
+  url: https://www.fib.upc.edu/ca/la-marato/edicions-anteriors/hackaton-la-salut-mental
 
 - name: HackUPC 2022
   line: Hybrid Student Hackathon. 36h. April 29th-1st May.
