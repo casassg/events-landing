@@ -80,32 +80,32 @@ alumni:
           - name: Christine Chang
             years: Spring 2020 - Fall 2021
 
-    - title: Graduate Committee
-      people:
-          - name: Prashil Bhimani
-            years: 2018-2019
-          - name: John Stechschulte
-            years: 2017-2019
-          - name: Stephen Hutt
-            years: 2017-2019
-          - name: Emily Jensen
-            years: 2019-2020
-          - name: Arjun Rao
-            years: 2019 - Spring 2021
-          - name: Evariste Some
-            years: 2020 - Spring 2021
-          - name: Varsha Koushik
-            years: 2020 - Spring 2021
-          - name: Amit Rege
-            years: 2020 - Spring 2021
-          - name: Max Donavan
-            years: Fall 2021 - Summer 2022
-          - name: Nikith Sannidhi
-            years: Fall 2021 - Summer 2022
-          - name: Owen Martin
-            years: Fall 2021 - Summer 2022
-          - name: Vinitha Gadiraju
-            years: Fall 2021 - Summer 2022
+  - title: Graduate Committee
+    people:
+      - name: Prashil Bhimani
+        years: 2018-2019
+      - name: John Stechschulte
+        years: 2017-2019
+      - name: Stephen Hutt
+        years: 2017-2019
+      - name: Emily Jensen
+        years: 2019-2020
+      - name: Arjun Rao
+        years: 2019 - Spring 2021
+      - name: Evariste Some
+        years: 2020 - Spring 2021
+      - name: Varsha Koushik
+        years: 2020 - Spring 2021
+      - name: Amit Rege
+        years: 2020 - Spring 2021
+      - name: Max Donavan
+        years: Fall 2021 - Summer 2022
+      - name: Nikhith Sannidhi
+        years: Fall 2021 - Summer 2022
+      - name: Owen Martin
+        years: Fall 2021 - Summer 2022
+      - name: Vinitha Gadiraju
+        years: Fall 2021 - Summer 2022
 
     - title: Executive Committee
       people:
