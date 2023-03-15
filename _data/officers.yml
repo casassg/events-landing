@@ -22,11 +22,11 @@ treasurer:
     bio: Ruchi Dhamnani is a first-year M.S. student. She believes in living in the present moment and has various hobbies like painting, reading blogs, and watching digital content and movies in her free time
 
 anti_racism_inclusion_chair:
-    name: Evariste Somé
-    contact: evariste.some@
-    photo: assets/img/officers/evariste_some.jpg
+    name: Prasanth Prahladan
+    contact: Prasanth.Prahladan@
+    photo: assets/img/officers/prasanth_prahladan.jpg
     pronouns: He/Him/His
-    bio: My name is Evariste Some, a 5th year PhD student in the Computer Science Dept.- TCP - Wireless Engineering. I research with Prof. Al. Gasiewski in the Center for Environmental Technology Lab, ECE, on the coherency of multiple SDR receivers, Direction of Arrival, Beamforming, MIMO. Also, I often make time to socialize, cook African food, exercise, support others students community group.
+    bio: Prasanth Prahladan is currently pursuing his PhD in Computer Science on building safe and reliable information infrastructures at the University of Colorado Boulder. His research explores the use of formal methods to ensure the functional correctness of system architectures with a primary focus on the verification of 5G Control Plane protocols. Additionally, he has worked on the problem of dynamic resource allocation in data-centers and dynamic spectrum sharing. His research publications include works on the design of mergeable replicated data types (MRDT) and on applying AI/ML techniques to improve the performance of network systems like DOCSIS 4.1 networks and caching within data-centric networks. His research proposal titled "Future of the Autonomous Self" was selected as one of the top-100 ideas in the NSF 2026 Idea Challenge. As a science communicator, he has hosted two public talks at the Fiske Planetarium under the Science Under the Dome talk-series.
 
 grad_comm:
     - name: Corey Murphey
@@ -49,11 +49,11 @@ exec_comm:
     bio: Rohan is a second year Master's student and is advised by Dr. Katharina Kann. He is interested in building tools for low resource languages by grounding language models in linguistic theory. Rohan is an amateur aquascaper and he enjoys attending concerts and reading long form sports journalism.
 
 gpsg:
-    name: Nikhul Hulle
-    contact: Nikhil.Hulle@
-    photo: assets/img/officers/nikhil_hulle.jpg
-    pronouns: She/Her/Hers
-    bio: I am first year Master's student. In my free time you will find me binging on TV shows, watching Manchester United break hearts or playing badminton. During my time here at CU Boulder, I intend to gain vital academic experience from a great set of professors that the CS department houses and hope to shape my skills that will help me add value in the work I will do.
+    name: OPEN POSITION (This could be you!)
+    contact: NA
+    photo: assets/img/officers/dreycey_albin.jpg
+    pronouns: NA
+    bio: NA
 
 alumni:
     - title: Chair
