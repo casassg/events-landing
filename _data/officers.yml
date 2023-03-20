@@ -1,11 +1,11 @@
 # This populates the Officers page
 
 chair:
-    name: Maggie Perkoff
-    contact: Margaret.Perkoff@
-    photo: assets/img/officers/maggie_perkoff.jpg
+    name: James Luther
+    contact: James.Luther
+    photo: assets/img/officers/james_luther.jpg
     pronouns: She/Her/Hers
-    bio: Maggie Perkoff is a second year PhD student jointly advised by Clayton Lewis and Jim Martin.  She thinks all activities are more fun when done outdoors - running, working, and eating.
+    bio: Jay Luther is a third-year Ph.D. student currently between advisors. He enjoys games of all kinds, reading, and hiking in the front range.
 
 vice_chair:
     name: Dreycey Albin
