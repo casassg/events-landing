@@ -26,6 +26,7 @@ text-align:right;
     <th>Hours (hr/wk)</th>
     <th>Tuition Waiver</th>
     <th>Health Insurance</th>
+    <th>Student Fees</th>
     <th>Example Duties</th>
     <th>Courses Taught</th>
   </tr>
@@ -33,6 +34,7 @@ text-align:right;
     <td>Research Assistant (RA) at 50% appointment </td>
     <td>$13,885 / semester*</td>
     <td>20</td>
+    <td>	&#9989; </td>
     <td>	&#9989; </td>
     <td>	&#9989; </td>
     <td>Do research</td>
@@ -44,6 +46,7 @@ text-align:right;
     <td>20</td>
     <td>	&#9989; </td>
     <td>	&#9989; </td>
+    <td>	&#9989; </td>
     <td>Teach recitation<br>Hold office hours<br>Grade</td>
     <td>Undergraduate Only</td>
   </tr>
@@ -51,6 +54,7 @@ text-align:right;
     <td>Course Manager (CM)</td>
     <td>$25 / hr</td>
     <td>&lt;= 20**</td>
+    <td></td>
     <td></td>
     <td></td>
     <td>Responsibilities vary by course, but can include grading, administration and office hours. Will not include teaching recitation </td>
@@ -62,12 +66,13 @@ text-align:right;
     <td>&lt;= 20**</td>
     <td></td>
     <td></td>
+    <td></td>
     <td>Responsibilities vary by course, but can include grading, interview grading. Will not include teaching recitation </td>
     <td>Both undergraduate and graduate classes</td>
   </tr>
 </table>
 
-'*' This amount is distributed monthly. The fall semester has 4 months, and the spring semester has 5. So the monthly earnings are $3471 and $2777 respectively. Also, post proposal PhD students in the CS department get a raise to $13,053 / semester.
+'*' This amount is distributed monthly. The monthly earnings is $3,085. Also, post proposal PhD students in the CS department get a raise to $3268/mo.
 
 '**' Course Manager and Course Grader hours depend on course enrollment.
 
