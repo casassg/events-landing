@@ -3,8 +3,8 @@
 chair:
     name: James Luther
     contact: James.Luther
-    photo: assets/img/officers/james_luther.jpg
-    pronouns: She/Her/Hers
+    photo: assets/img/officers/james_luther.jpeg
+    pronouns: He/Him/His
     bio: Jay Luther is a third-year Ph.D. student currently between advisors. He enjoys games of all kinds, reading, and hiking in the front range.
 
 vice_chair:
@@ -58,74 +58,96 @@ gpsg:
 alumni:
     - title: Chair
       people:
-          - name: Stephen Hutt
-            years: Spring 2018 - Fall 2019
-          - name: Jessie Finocchiaro
-            years: Spring 2019 - Fall 2020
+          - name: Maggie Perkoff
+            years: Spring 2022 - Fall 2022
           - name: Emily Jensen
             years: Spring 2020 - Fall 2021
+          - name: Jessie Finocchiaro
+            years: Spring 2019 - Fall 2020
+          - name: Stephen Hutt
+            years: Spring 2018 - Fall 2019
+          
+
+    - title: Vice Chair
+      people:
+          - name: Aishwarya Satwani 
+            years: Spring 2022 - Fall 2022
+
     - title: Treasurer
       people:
-          - name: Prasanth Prahladan
-            years: Fall 2018
-          - name: Yash Sapra
-            years: Spring - Fall 2019
-          - name: Dylan Fox
-            years: Spring 2019 - Fall 2020
+          - name: Neerab Kumar Pathipaka
+            years: Spring 2022 - Fall 2022
           - name: Caleb Escobedo
             years: Spring 2020 - Fall 2021
+          - name: Dylan Fox
+            years: Spring 2019 - Fall 2020
+          - name: Yash Sapra
+            years: Spring - Fall 2019
+          - name: Prasanth Prahladan
+            years: Fall 2018
 
     - title: CSGSA Anti-racism and Inclusion Chair
       people:
+          - name: Evariste Some
+            years: Spring 2022 - Fall 2022
           - name: Christine Chang
             years: Spring 2020 - Fall 2021
 
     - title: Graduate Committee
       people:
+          - name: Vinitha Gadiraju
+            years: Fall 2021 - Summer 2022
+          - name: Owen Martin
+            years: Fall 2021 - Summer 2022
+          - name: Nikith Sannidhi
+            years: Fall 2021 - Summer 2022
+          - name: Max Donavan
+            years: Fall 2021 - Summer 2022
+          - name: Amit Rege
+            years: 2020 - Spring 2021
+          - name: Varsha Koushik
+            years: 2020 - Spring 2021
+          - name: Evariste Some
+            years: 2020 - Spring 2021
+          - name: Arjun Rao
+            years: 2019 - Spring 2021
+          - name: Emily Jensen
+            years: 2019-2020
           - name: Prashil Bhimani
             years: 2018-2019
           - name: John Stechschulte
             years: 2017-2019
           - name: Stephen Hutt
             years: 2017-2019
-          - name: Emily Jensen
-            years: 2019-2020
-          - name: Arjun Rao
-            years: 2019 - Spring 2021
-          - name: Evariste Some
-            years: 2020 - Spring 2021
-          - name: Varsha Koushik
-            years: 2020 - Spring 2021
-          - name: Amit Rege
-            years: 2020 - Spring 2021
-          - name: Max Donavan
-            years: Fall 2021 - Summer 2022
-          - name: Nikith Sannidhi
-            years: Fall 2021 - Summer 2022
-          - name: Owen Martin
-            years: Fall 2021 - Summer 2022
-          - name: Vinitha Gadiraju
-            years: Fall 2021 - Summer 2022
+          
+          
 
     - title: Executive Committee
       people:
-          - name: Cecilia Mauceri
-            years: 2017-2019
-          - name: Layne Hubbard
-            years: 2019-2021
           - name: Namratha Mysore Keshavaprakash
             years: 2021-2022
+          - name: Layne Hubbard
+            years: 2019-2021
+          - name: Cecilia Mauceri
+            years: 2017-2019
+
 
     - title: GPSG Student Representative
       people:
-          - name: Jay Luther
-            years: Fall 2020 - Spring 2021
-          - name: Megan Caruso
-            years: Fall 2021
+          - name: Nikhil Hulle
+            years: Fall 2022
           - name: Naga Sai Meenakshi Sistla
             years: Spring 2022
+          - name: Megan Caruso
+            years: Fall 2021
+          - name: Jay Luther
+            years: Fall 2020 - Spring 2021
+
 
     - title: Web Guru
       people:
+          - name: Abhishek Purushothama
+            years: Fall 2021 - Fall 2022
           - name: Gerard Casas
             years: Spring 2018
+

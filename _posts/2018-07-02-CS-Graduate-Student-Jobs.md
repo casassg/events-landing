@@ -22,7 +22,7 @@ text-align:right;
 <table>
   <tr>
     <th>Title</th>
-    <th>Pay (2018-2019)</th>
+    <th>Pay (2022-2023)</th>
     <th>Hours (hr/wk)</th>
     <th>Tuition Waiver</th>
     <th>Health Insurance</th>
@@ -31,60 +31,71 @@ text-align:right;
   </tr>
   <tr>
     <td>Research Assistant (RA) at 50% appointment </td>
-    <td>$12,324 / semester*</td>
+    <td>$13,885 / semester*</td>
     <td>20</td>
-    <td>X</td>
-    <td>X</td>
+    <td>	&#9989; </td>
+    <td>	&#9989; </td>
     <td>Do research</td>
     <td></td>
   </tr>
   <tr>
     <td>Teaching Assistant (TA) at 50% appointment </td>
-    <td>$12,324 / semester*</td>
+    <td>$13,885 / semester*</td>
     <td>20</td>
-    <td>X</td>
-    <td>X</td>
+    <td>	&#9989; </td>
+    <td>	&#9989; </td>
     <td>Teach recitation<br>Hold office hours<br>Grade</td>
     <td>Undergraduate Only</td>
   </tr>
   <tr>
-    <td>Graduate Student Staff (GSS)</td>
-    <td>$15 / hr</td>
+    <td>Course Manager (CM)</td>
+    <td>$25 / hr</td>
     <td>&lt;= 20**</td>
     <td></td>
     <td></td>
     <td>Responsibilities vary by course, but can include grading, administration and office hours. Will not include teaching recitation </td>
     <td>Both undergraduate and graduate classes</td>
   </tr>
+  <tr>
+    <td>Course Grader (CG)</td>
+    <td>$17 / hr</td>
+    <td>&lt;= 20**</td>
+    <td></td>
+    <td></td>
+    <td>Responsibilities vary by course, but can include grading, interview grading. Will not include teaching recitation </td>
+    <td>Both undergraduate and graduate classes</td>
+  </tr>
 </table>
 
-'*' This amount is distributed monthly. The fall semester has 4 months, and the spring semester has 5. So the monthly earnings are $3081 and $2465 respectively. Also, post proposal PhD students in the CS department get a raise to $13,053 / semester.
+'*' This amount is distributed monthly. The fall semester has 4 months, and the spring semester has 5. So the monthly earnings are $3471 and $2777 respectively. Also, post proposal PhD students in the CS department get a raise to $13,053 / semester.
 
-'**' GSS hours depend on course enrollment.
+'**' Course Manager and Course Grader hours depend on course enrollment.
 
 There are a few other rarer jobs, such as lead TA and graduate part time instructor (GPTI), but the above are the most common.
 
 ## How to get one of these jobs
 
-Rajshree sends out a survey about three months before each semester to look for TAs, and GSS for courses. She then works with the curriculum/TA sub-committee to try and match the respondents with available courses. You can also find out about courses that need TAs, GSS from Rajshree. For PhD students, your research advisor might occasionally ask you to TA their course.
+Rajshree sends out a survey about three months before each semester to look for TAs, and CM, CGs for courses. She then works with the curriculum/TA sub-committee to try and match the respondents with available courses. You can also find out about courses that need TAs, CM, CGs from Rajshree. For PhD students, your research advisor might occasionally ask you to TA their course.
 
-For upper-level courses, you need to have taken the course before or have relevant experience in order to qualify to be a TA or GSS.  
+For upper-level courses, you need to have taken the course before or have relevant experience in order to qualify to be a TA or CM, CGs.  
 
 Typically, TAs are assigned with the following priorities
 
 1. PhD students with funding commitment
 2. PhD students without funding commitment and MS students who have previously held TAs
-3. Outstanding GSS are also at times considered for TA positions, if needed.
+3. Outstanding CM, CGs are also at times considered for TA positions, if needed.
 
 At all priority levels, you must perform your TA duties well. Students who have previously held TA positions and underperformed do not get picked up again.  
 
-GSS positions mostly go to Masters students.
+CM, CG positions mostly go to Masters students.
 
 If you want an RA, you need to speak to a professor with research funding and convince them to hire you. For PhD students, the professor who funds your RA is typically your research advisor.
 
+<!-- might be used in future -->
+<div hidden> 
 ## How many hours will I get?
 
-Hours for GSS vary based on the enrollment in the courses, and are usually determined just before the start of the semester. In general, more students mean more available hours.
+Hours for CM, CGs vary based on the enrollment in the courses, and are usually determined just before the start of the semester. In general, more students mean more available hours.
 
 I went through the historical FCQs of courses being offered Fall 2018 to get an idea of past enrollment. Larger course size means more hours will be available. The department has been growing steadily for the past few years and interest in topics can vary, but the historical numbers can give you a rough idea of how many hours you might get.
 
@@ -276,6 +287,7 @@ I went through the historical FCQs of courses being offered Fall 2018 to get an 
     <td class="right_align">34</td>
   </tr>
 </table>
+</div>
 
 ## Maximum Hours
 
