@@ -4,9 +4,9 @@ name: Computer Science Graduate Student Association at University of Colorado Bo
 logo: assets/img/logo.png
 
 front_photo: 
-  photo:  assets/img/cropped_gsa.jpg
+  photo: assets/img/group_spring_23.jpg
   alt:  Seven people pose outside for a group photo
-  caption: Some of the current members of the CSGSA leadership committee. <br/>Back row- Gerard, John, Jay, and Stephen. <br/>Front Row- Srinjita, Cecilia, Jessie, and Ian
+  caption: Current members of the CSGSA leadership committee. <br/>From the left - Prashanth, Jay, Dreycey, Rohan, Corey, Spencer, Chiranthan, Paresha, Ruchi.
 
 original_repo: https://github.com/cucsgsa/events-landing
 description: CS Graduate Student Association at CU website

@@ -49,11 +49,25 @@ exec_comm:
     bio: Rohan is a second year Master's student and is advised by Dr. Katharina Kann. He is interested in building tools for low resource languages by grounding language models in linguistic theory. Rohan is an amateur aquascaper and he enjoys attending concerts and reading long form sports journalism.
 
 gpsg:
-    name: OPEN POSITION (This could be you!)
-    contact: NA
-    photo: assets/img/officers/dreycey_albin.jpg
-    pronouns: NA
-    bio: NA
+    - name: Chiranthan Sridhar
+      contact: Chiranthan.Sridhar@
+      photo: assets/img/officers/chiranthan_sridhar.jpg
+      pronouns: He/Him/His
+      bio: Chiranthan is a first year MSCS student researching in field of Natural Language Processing, currently in understanding and evaluating factuality of language models. He likes to swim, listen to music and play piano.
+      
+    - name: Paresha Farastu
+      contact: Paresha.Farastu@
+      photo: assets/img/officers/paresha_farastu.jpg
+      pronouns: She/Her/Hers
+      bio: Paresha is a second-year Master's student in Computer Science and is broadly interested in tech ethics. She finds joy in taking bike rides, going for walks, contemplating philosophy, creating lists, and engaging in profound musings about the cosmos.
+
+webguru:
+    name: Chiranthan Sridhar
+    contact: Chiranthan.Sridhar@
+    photo: assets/img/officers/chiranthan_sridhar.jpg
+    pronouns: He/Him/His
+    bio: Chiranthan is a first year MSCS student researching in field of Natural Language Processing, currently in understanding and evaluating factuality of language models. He likes to swim, listen to music and play piano.
+    
 
 alumni:
     - title: Chair
