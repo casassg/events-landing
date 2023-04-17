@@ -33,6 +33,7 @@ The chair's responsibilities are to:
 3. Arrange meetings and develop agenda
 4. Represent graduate students to Department and University where appropriate
 5. Assign responsibilities to members as appropriate
+
 </div>
 </div>
 </div>
@@ -60,11 +61,12 @@ Bio: {{person.bio}}
 <div class="col-sm-8">
 The vice chair's responsibilities are to:
 
-1. Run CSGSA meetings in the chairs absence
-2. Manage and maintain membership records
+1. Run CSGSA meetings in the chair’s absence
+2. Manage and maintain organizational documents
 3. Manage regular email communication with members and student body
 4. Be responsible for minutes of meetings
 5. Assist the Chair where necessary
+
 </div>
 </div>
 </div>
