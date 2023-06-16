@@ -27,7 +27,7 @@ Outside of a research assistantship or teaching assistantship, there are a numbe
 - [International Students Emergency Financial Grants](https://www.colorado.edu/isss/students/current-students/information-all-international-students/financial-support-opportunities)
 
 ## External Fellowships
-Even more opportunities can be found at [this page](https://github.com/chinasaokolo/csGraduateFellowships) put together by [Chinasa T.Okolo](http://www.cs.cornell.edu/~chinasa/) at Cornell University.
+Even more opportunities can be found at [this page](https://www.colorado.edu/cs/admissions/graduate-admissions/funding-opportunities/external-funding-opportunities-graduate) and [this page](https://github.com/chinasaokolo/csGraduateFellowships) put together by [Chinasa T.Okolo](http://www.cs.cornell.edu/~chinasa/) at Cornell University.
 
 ### Open to All Students
 
