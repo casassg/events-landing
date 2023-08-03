@@ -1,18 +1,18 @@
 # This populates the Officers page
 
 chair:
-    name: James Luther
-    contact: James.Luther
-    photo: assets/img/officers/james_luther.jpeg
-    pronouns: He/Him/His
-    bio: Jay Luther is a third-year Ph.D. student currently between advisors. He enjoys games of all kinds, reading, and hiking in the front range.
+    name: Corey Lynn Murphey
+    contact: Corey.Murphey@
+    photo: assets/img/officers/corey_murphey.jpg
+    pronouns: She/Her/Hers
+    bio: Corey is a second-year Ph.D. student interested in scientific computing, numerical computation, and computational fluid dynamics. As a classically-trained lyric soprano, Corey loves singing so much that she is trying to incorporate it into her research. In her spare time, she loves playing music, swimming, running, reading, and cuddling with her three Golden Retrievers.
 
 vice_chair:
-    name: Dreycey Albin
-    contact: Dreycey.Albin@
-    photo: assets/img/officers/dreycey_albin.jpg
+    name: Spencer Wilson
+    contact: Spencer.Wilson@
+    photo: assets/img/officers/spencer_wilson.jpg
     pronouns: He/Him/His
-    bio: Dreycey Albin is a third year PhD student in the Computer Science Department. He enjoys extreme sports, extreme heat, and gentle conversations.
+    bio: Spencer Wilson is a first year MS-CSEN student in the research track interested in accessibility enabled by technology in the classroom. His hobbies include cooking, doodling, mentoring, netflix, scuba diving, skiing, teaching, and yoga.
 
 treasurer:
     name: Ruchi Dhamnani
@@ -72,6 +72,8 @@ webguru:
 alumni:
     - title: Chair
       people:
+          - name: Jay Luther
+            years: Spring 2023
           - name: Maggie Perkoff
             years: Spring 2022 - Fall 2022
           - name: Emily Jensen
@@ -84,6 +86,8 @@ alumni:
 
     - title: Vice Chair
       people:
+          - name: Dreycey Albin
+            years: Spring 2023
           - name: Aishwarya Satwani 
             years: Spring 2022 - Fall 2022
 
