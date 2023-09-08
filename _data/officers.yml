@@ -35,25 +35,25 @@ grad_comm:
       pronouns: He/Him/His
       bio: Sourav Chakraborty is a second year PhD student in computer science working in the field of reinforcement learning. When not thinking about work, he treats himself to the world of films, books and music.
 
-    - name: Spencer Wilson
-      contact: Spencer.Wilson@
-      photo: assets/img/officers/spencer_wilson.jpg
+    - name: Pawin Taechoyotin
+      contact: Pawin.Taechoyotin@
       pronouns: He/Him/His
-      bio: Spencer Wilson is a first year MS-CSEN student in the research track interested in accessibility enabled by technology in the classroom. His hobbies include cooking, doodling, mentoring, netflix, scuba diving, skiing, teaching, and yoga.
+      photo: assets/img/officers/pawin.jpg
+      bio:  Pawin Taechoyotin is a second year MS-CSEN student in the research track. His interests include High performance computing, Computer Vision and NLP. His currently doing research in Representation Learning. His hobbies are Coding and reading technology articles.
 
 exec_comm:
-    name: Rohan Das
-    contact: Rohan.Das@
-    photo: assets/img/officers/rohan_das.jpg
+    name: Hemanth Rao
+    contact: Hemanth.Rao@
     pronouns: He/Him/His
-    bio: Rohan is a second year Master's student and is advised by Dr. Katharina Kann. He is interested in building tools for low resource languages by grounding language models in linguistic theory. Rohan is an amateur aquascaper and he enjoys attending concerts and reading long form sports journalism.
+    photo: assets/img/officers/hemanth_rao.jpg
+    bio: Hemanth is a second year Master's student, with a research emphasis on reinforcement learning. Beyond academia, he enjoys traveling and hiking.
 
 gpsg:
     - name: Chiranthan Sridhar
       contact: Chiranthan.Sridhar@
       photo: assets/img/officers/chiranthan_sridhar.jpg
       pronouns: He/Him/His
-      bio: Chiranthan is a first year MSCS student researching in field of Natural Language Processing, currently in understanding and evaluating factuality of language models. He likes to swim, listen to music and play piano.
+      bio: Chiranthan is a second year MSCS student researching in field of Natural Language Processing, currently on evaluation of Dialogue Systems. He likes to swim, listen to music and play piano.
       
     - name: Paresha Farastu
       contact: Paresha.Farastu@
@@ -66,7 +66,7 @@ webguru:
     contact: Chiranthan.Sridhar@
     photo: assets/img/officers/chiranthan_sridhar.jpg
     pronouns: He/Him/His
-    bio: Chiranthan is a first year MSCS student researching in field of Natural Language Processing, currently in understanding and evaluating factuality of language models. He likes to swim, listen to music and play piano.
+    bio: Chiranthan is a second year MSCS student researching in field of Natural Language Processing, currently on evaluation of Dialogue Systems. He likes to swim, listen to music and play piano.
     
 
 alumni:
