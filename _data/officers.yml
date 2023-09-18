@@ -5,7 +5,7 @@ chair:
     contact: Corey.Murphey@
     photo: assets/img/officers/corey_murphey.jpg
     pronouns: She/Her/Hers
-    bio: Corey is a second-year Ph.D. student interested in scientific computing, numerical computation, and computational fluid dynamics. As a classically-trained lyric soprano, Corey loves singing so much that she is trying to incorporate it into her research. In her spare time, she loves playing music, swimming, running, reading, and cuddling with her three Golden Retrievers.
+    bio: Corey is a Ph.D. student interested in scientific computing, numerical computation, and computational fluid dynamics. As a classically-trained lyric soprano, Corey loves singing so much that she is trying to incorporate it into her research. In her spare time, she loves playing music, swimming, running, reading, and cuddling with her three Golden Retrievers.
 
 vice_chair:
     name: Spencer Wilson
@@ -113,6 +113,10 @@ alumni:
 
     - title: Graduate Committee
       people:
+          - name: Spencer Wilson
+            years: Fall 2022 - Spring 2023
+          - name: Corey Lynn Murphey
+            years: Fall 2022 - Spring 2023
           - name: Vinitha Gadiraju
             years: Fall 2021 - Summer 2022
           - name: Owen Martin
@@ -142,6 +146,8 @@ alumni:
 
     - title: Executive Committee
       people:
+          - name: Rohan Das
+            years: Fall 2022 - Spring 2023
           - name: Namratha Mysore Keshavaprakash
             years: 2021-2022
           - name: Layne Hubbard
