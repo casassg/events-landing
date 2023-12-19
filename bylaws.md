@@ -91,15 +91,25 @@ Those who don’t meet these criteria may become members by arrangement with the
 - Meeting Details: The Chair shall distribute a meeting agenda to members at least 24 hours prior to the meeting. 
 - Meeting attendance: Executive committee members and elected representatives are expected to attend all meetings. 
 - Social Events: It is expected that at least two social events shall be held each semester and the events be diverse in nature. 
-- Charter Amendments: Changes to the charter may be proposed by the executive committee at any time.  The deliberation period for any proposed change is 2 weeks.  If any dissenting opinion is expressed by CSGSA members within the deliberation period, the Chair will call for a vote in the next meeting.  If no dissenting opinion is expressed or a majority of participants votes to adopt the change, the Chair will incorporate it. 
-- Annual Charter Review: The CSGSA will review this charter during the first meeting of the spring semester. 
+- Commonly Accepted Public Forum (CAPF):
+  - currently Slack
+  - This can change in future terms. This can be changed without bylaw amendment process given reasonable conditions.
+- Bylaw Amendments:
+  - Directly Responsible Individual (DRI): here shall be the proposing member(s) of the executive committee and any proxies designated by these proposing member(s) 
+  - Proposals: Changes to the bylaws may be proposed by the CS-GSA executive committee at any time. The DRI(s) must be listed on the proposal. The proposal must be published  to the CAPF. 
+  - Discussion period: The discussion period for any proposed change is two academic weeks during a fall or spring semester. During the discussion period, dissenting opinions by CSGSA members must be published to the CAPF, then the DRIs are encouraged to discuss the dissent and consider modifications to the proposal. A change to the proposal triggered by dissenting opinion does not require a new discussion period (however, it may be chosen by the DRI(s) at their discretion). 
+  - Voting period: Once the discussion period has ended and proposal modifications are complete, then the online voting period may begin. This will take place over one academic week with a verified voting process using surveys or other acceptable online tools distributed to all CS-GSA members through the CAPF. 
+  - Voting conditions: Quorum is not required, however a simple-majority of submitted votes must agree with the proposal. 
+  - Background note: quorum is not required as we have never seen quorum met on any survey of our members 
+  - Background note: hyper-majority is not required as a simple majority is believed to be sufficient in allowing the CS-GSA leadership to execute policies effectively while giving the members a voice 
+  - Ratification: Once the voting period ends, the CS-GSA chair shall review the results of the vote. If voting conditions are met, then the CS-GSA chair shall ratify the change at the next open meeting. If the CS-GSA chair, the vice chair shall perform this duty. If voting conditions are not met, then the proposal is rejected and can be reconsidered at a later date.  
 
 ### Voting
 
-All votes will be conducted online, and voting will be open for one week.
+All votes will be conducted online and published to the CAPF, and voting will be open for one week.
 
 - General elections of the executive committee will be held annually, no later than the last day of classes in the fall semester. The elected term begins the first day of classes in the spring semester. 
 - Elections for representatives to UGGS, the Graduate Committee, and the Department Executive Committee will be held annually, during the spring semester.  The elected term begins the first day of classes in the fall semester. 
 - The date of the elections will be announced two weeks in advance, during which time members may nominate themselves. 
-- Charter updates, as described above, will also be conducted online for one week. 
+- Bylaw updates, as described above, will also be conducted online for one week. 
 - A vote of no confidence can be initiated by a member at a CSGSA meeting.
