@@ -4,9 +4,9 @@ name: Computer Science Graduate Student Association at University of Colorado Bo
 logo: assets/img/logo.png
 
 front_photo: 
-  photo: assets/img/group_fall_23.jpg
-  alt:  CSGSA leadership committee of Fall 23
-  caption: Current members of the CSGSA leadership committee. <br/>Top left to right -  Chiranthan (GPSG rep), Ruchi (CSGSA treasurer), Corey (CSGSA chair), Sourav (GradComm PhD rep), Hemanth (ExecComm rep), Abijith (Member at large)<br/> Bottom left to right - Prasanth (DEI Chair), Spencer (CSGSA Vice Chair), Pawin (GradComm MS rep).
+  photo: assets/img/group_spring_24.jpg
+  alt:  CSGSA leadership committee of Spring 24
+  caption: Current members of the CSGSA leadership committee.
 
 original_repo: https://github.com/cucsgsa/events-landing
 description: CS Graduate Student Association at CU website
