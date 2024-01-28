@@ -342,3 +342,19 @@
   end-date: 2023-11-18 6:00 AM
   location: Aula Estudi
   url: https://hacknights.dev/
+
+- name: bitsxlaMarato 2023
+  line: La Marató hackathon. 36h. Dec 16th-18th.
+  image-url: assets/img/bitsxlamarato2010.jpg
+  date: 2023-12-15 6:00 PM 
+  end-date: 2023-12-17 4:30 PM 
+  location: Campus Nord
+  url: https://www.fib.upc.edu/la-marato
+
+- name: HackNight Episode I
+  line: Spend a night hacking in good company.
+  image-url: assets/img/hacknight-i.jpg
+  date: 2024-02-23 9:00 PM
+  end-date: 2024-02-24 6:00 AM
+  location: Aula Estudi
+  url: https://hacknights.dev/
