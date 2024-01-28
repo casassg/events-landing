@@ -302,6 +302,22 @@
   location: Campus Nord
   url: https://www.fib.upc.edu/la-marato
 
+- name: HackNight Episode I
+  line: Spend a night hacking in good company.
+  image-url: assets/img/hacknight-i.jpg
+  date: 2023-03-24 9:00 PM
+  end-date: 2023-03-25 6:00 AM
+  location: Aula Estudi
+  url: https://hacknights.dev/
+
+- name: HackNight Episode II
+  line: Spend a night hacking in good company.
+  image-url: assets/img/hacknight-ii.jpg
+  date: 2023-04-28 9:00 PM
+  end-date: 2023-04-29 6:00 AM
+  location: Aula Estudi
+  url: https://hacknights.dev/
+
 - name: HackUPC 2023
   line: BarcelonaTech's Student Hackathon. 600 hackers. 36h. May 12-14.
   image-url: https://hackupc.com/ogimage.png
@@ -309,3 +325,20 @@
   end-date: 2023-05-14 4:30 PM 
   location: Campus Nord
   url: https://hackupc.com
+
+- name: HackNight Episode III
+  line: Spend a night hacking in good company.
+  image-url: assets/img/hacknight-iii.jpg
+  date: 2023-09-29 9:00 PM
+  end-date: 2023-09-30 6:00 AM
+  location: Aula Estudi
+  url: https://hacknights.dev/
+
+
+- name: HackNight Episode IV
+  line: Spend a night hacking in good company.
+  image-url: assets/img/hacknight-iv.jpg
+  date: 2023-11-17 9:00 PM
+  end-date: 2023-11-18 6:00 AM
+  location: Aula Estudi
+  url: https://hacknights.dev/
