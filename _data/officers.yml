@@ -1,32 +1,32 @@
 # This populates the Officers page
 
 chair:
-    name: Corey Lynn Murphey
-    contact: Corey.Murphey@
-    photo: assets/img/officers/corey_murphey.jpg
+    name: Erika Hunhoff
+    contact: Erika.Hunhoff@
+    photo: assets/img/officers/erika_hunhoff.jpg
     pronouns: She/Her/Hers
-    bio: Corey is a Ph.D. student interested in scientific computing, numerical computation, and computational fluid dynamics. As a classically-trained lyric soprano, Corey loves singing so much that she is trying to incorporate it into her research. In her spare time, she loves playing music, swimming, running, reading, and cuddling with her three Golden Retrievers.
+    bio: Erika is a 5th year Ph.D. candidate in the Systems and Networking Lab. Erika is passionate about creating computing environments that are friendly to newcomers. In her spare time, she loves spending time with her spouse, two dogs, and cat; she also enjoys reading, running, and drawing.
 
 vice_chair:
-    name: Spencer Wilson
-    contact: Spencer.Wilson@
-    photo: assets/img/officers/spencer_wilson.jpg
+    name: Kevin Lane
+    contact: Kevin.Lane@
+    photo: assets/img/officers/kevin_lane.jpg
     pronouns: He/Him/His
-    bio: Spencer Wilson is a first year MS-CSEN student in the research track interested in accessibility enabled by technology in the classroom. His hobbies include cooking, doodling, mentoring, netflix, scuba diving, skiing, teaching, and yoga.
+    bio: Kevin is a first year research-based M.S. student interested in studying geospatial machine learning.  Prior to coming to CU Boulder, he worked in Boston as a software engineer on large scale data pipelines.  Before that, his working background largely was centered around outdoor education, where he’s worked as a swim instructor, raft guide, and sailing instructor.  In his spare time, Kevin is an avid musician, runner/hiker, snowboarder, boardgame enthusiast, and baseball fan.  
 
 treasurer:
-    name: Ruchi Dhamnani
-    contact: Ruchi.Dhamnani@
-    photo: /assets/img/officers/pic-ruchi.jpg
-    pronouns: She/Her/Hers
-    bio: Ruchi Dhamnani is a first-year M.S. student. She believes in living in the present moment and has various hobbies like painting, reading blogs, and watching digital content and movies in her free time
+    name: Nour Rahal-Arabi
+    contact: Nour.Rahal-Arabi@
+    photo: /assets/img/officers/nour_rahal-arabi.jpg
+    pronouns: He/Him/His
+    bio: Nour is an MS student interested in machine learning and mathematical approaches for modeling infectious disease dynamics. He enjoys skiing, rock climbing, cooking, and reading in his spare time.
 
 anti_racism_inclusion_chair:
-    name: Prasanth Prahladan
-    contact: Prasanth.Prahladan@
-    photo: assets/img/officers/prasanth_prahladan.jpg
-    pronouns: He/Him/His
-    bio: Prasanth Prahladan is currently pursuing his PhD in Computer Science on building safe and reliable information infrastructures at the University of Colorado Boulder. His research explores the use of formal methods to ensure the functional correctness of system architectures with a primary focus on the verification of 5G Control Plane protocols. Additionally, he has worked on the problem of dynamic resource allocation in data-centers and dynamic spectrum sharing. His research publications include works on the design of mergeable replicated data types (MRDT) and on applying AI/ML techniques to improve the performance of network systems like DOCSIS 4.1 networks and caching within data-centric networks. His research proposal titled "Future of the Autonomous Self" was selected as one of the top-100 ideas in the NSF 2026 Idea Challenge. As a science communicator, he has hosted two public talks at the Fiske Planetarium under the Science Under the Dome talk-series.
+    name: Shipra Singh
+    contact: Shipra.Singh@
+    photo: assets/img/officers/shipra_singh.jpg
+    pronouns: She/Her/Hers
+    bio: Shipra Singh is a first year MS-CSEN student interested in pursuing research in Quantum Computing. She loves Greek and Roman classics, poetry, and music. She can often be found stargazing on a cloudless night, wondering about the existence of the universe.
 
 grad_comm:
     - name: Sourav Chakraborty
@@ -42,18 +42,17 @@ grad_comm:
       bio:  Pawin Taechoyotin is a second year MS-CSEN student in the research track. His interests include High performance computing, Computer Vision and NLP. His currently doing research in Representation Learning. His hobbies are Coding and reading technology articles.
 
 exec_comm:
-    name: Hemanth Rao
-    contact: Hemanth.Rao@
-    pronouns: He/Him/His
-    photo: assets/img/officers/hemanth_rao.jpg
-    bio: Hemanth is a second year Master's student, with a research emphasis on reinforcement learning. Beyond academia, he enjoys traveling and hiking.
-
+    name: Julia Romero
+    contact: Julia.Romero@
+    pronouns: Coming soon!
+    photo: assets/img/officers/flowers.png
+    bio: Coming soon!
 gpsg:
-    - name: Chiranthan Sridhar
-      contact: Chiranthan.Sridhar@
-      photo: assets/img/officers/chiranthan_sridhar.jpg
-      pronouns: He/Him/His
-      bio: Chiranthan is a second year MSCS student researching in field of Natural Language Processing, currently on evaluation of Dialogue Systems. He likes to swim, listen to music and play piano.
+    - name: Arnib Alam
+      contact: Arnib.Alam@
+      photo: assets/img/officers/arnib_alam.jpg
+      pronouns: She/Hers/Her
+      bio: Arnib is a first-year MS-CSEN student in the research track. Her interests include High performance computing, Distributed systems and ML with the focus to develop innovative solutions to improve system design. She holds a Master’s degree in Electrical Engineering and has worked in Taiwan for four years. During this period, she extensively traveled and actively participated in language/cultural group exchanges. Her hobbies include exploring places, baking, dancing and rapping.
       
 webguru:
     name: Chiranthan Sridhar
@@ -66,6 +65,8 @@ webguru:
 alumni:
     - title: Chair
       people:
+          - name: Corey Lynn Murphey
+            years: Fall 2023
           - name: Jay Luther
             years: Spring 2023
           - name: Maggie Perkoff
@@ -80,6 +81,8 @@ alumni:
 
     - title: Vice Chair
       people:
+          - name: Spencer Wilson
+            years: Fall 2023
           - name: Dreycey Albin
             years: Spring 2023
           - name: Aishwarya Satwani 
@@ -87,6 +90,8 @@ alumni:
 
     - title: Treasurer
       people:
+          - name: Ruchi Dhamnani
+            years: Fall 2023
           - name: Neerab Kumar Pathipaka
             years: Spring 2022 - Fall 2022
           - name: Caleb Escobedo
@@ -100,6 +105,8 @@ alumni:
 
     - title: CSGSA Anti-racism and Inclusion Chair
       people:
+          - name: Prasanth Prahladan
+            years: Fall 2023
           - name: Evariste Some
             years: Spring 2022 - Fall 2022
           - name: Christine Chang
@@ -140,6 +147,8 @@ alumni:
 
     - title: Executive Committee
       people:
+          - name: Hemanth Rao
+            years: Fall 2023
           - name: Rohan Das
             years: Fall 2022 - Spring 2023
           - name: Namratha Mysore Keshavaprakash
@@ -152,6 +161,8 @@ alumni:
 
     - title: GPSG Student Representative
       people:
+          - name: Chiranthan Sridhar
+            years: Fall 2023
           - name: Paresha Farastu
             years: Spring 2023
           - name: Nikhil Hulle
