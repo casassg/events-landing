@@ -44,9 +44,10 @@ grad_comm:
 exec_comm:
     name: Julia Romero
     contact: Julia.Romero@
-    pronouns: Coming soon!
-    photo: assets/img/officers/flowers.png
-    bio: Coming soon!
+    pronouns: She/Her/Hers
+    photo: assets/img/officers/julia_romero.png
+    bio: Julia is a 4th year Ph.D. student in Computer Science with a background in Biomedical Engineering. Her research focus is developing sensing, signal processing, and machine and deep learning algorithms for sensor data collected by mobile/wearable/ubiquitous computing devices, including multi-sensor and multi-modal systems. Julia loves coding, music, skiing, and running, and she is especially passionate about racing ultramarathons in the mountains.
+
 gpsg:
     - name: Arnib Alam
       contact: Arnib.Alam@
