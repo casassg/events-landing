@@ -17,7 +17,7 @@
 
 - name: The Neural Network
   url: /neural-network
-  visible: hide 
+  #visible: hide 
 
 - name: Resources and FAQ
   subcategories:

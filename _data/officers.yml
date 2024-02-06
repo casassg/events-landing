@@ -45,16 +45,35 @@ exec_comm:
     name: Julia Romero
     contact: Julia.Romero@
     pronouns: She/Her/Hers
-    photo: assets/img/officers/julia_romero.png
+    photo: assets/img/officers/julia_romero.jpg
     bio: Julia is a 4th year Ph.D. student in Computer Science with a background in Biomedical Engineering. Her research focus is developing sensing, signal processing, and machine and deep learning algorithms for sensor data collected by mobile/wearable/ubiquitous computing devices, including multi-sensor and multi-modal systems. Julia loves coding, music, skiing, and running, and she is especially passionate about racing ultramarathons in the mountains.
 
+deia:
+    - name: Shipra Singh
+      contact: Shipra.Singh@
+      photo: assets/img/officers/shipra_singh.jpg
+      pronouns: She/Her/Hers
+      bio: Shipra Singh is a first year MS-CSEN student interested in pursuing research in Quantum Computing. She loves Greek and Roman classics, poetry, and music. She can often be found stargazing on a cloudless night, wondering about the existence of the universe.
+    
+    - name: Josh Myers-Dean
+      contact: Josh.Myers-dean@
+      photo: assets/img/officers/josh_myers.png
+      pronouns: He/Him/His
+      bio: Josh Myers-Dean is a 3rd year PhD Student in Computer Science, primarily interested in accessibility and image segmentation. Josh is also passionate about engaging youth in computational tinkering activities and has been co-designing curricula with the ITLP here at CU. Outside of work, he enjoys running, climbing, biking, cooking, and knitting.
+
 gpsg:
+    - name: Chiranthan Sridhar
+      contact: Chiranthan.Sridhar@
+      photo: assets/img/officers/chiranthan_sridhar.jpg
+      pronouns: He/Him/His
+      bio: Chiranthan is a second year MSCS student researching in field of Natural Language Processing, currently on evaluation of Dialogue Systems. He likes to swim, listen to music and play piano.
+    
     - name: Arnib Alam
       contact: Arnib.Alam@
       photo: assets/img/officers/arnib_alam.jpg
       pronouns: She/Hers/Her
       bio: Arnib is a first-year MS-CSEN student in the research track. Her interests include High performance computing, Distributed systems and ML with the focus to develop innovative solutions to improve system design. She holds a Master’s degree in Electrical Engineering and has worked in Taiwan for four years. During this period, she extensively traveled and actively participated in language/cultural group exchanges. Her hobbies include exploring places, baking, dancing and rapping.
-      
+  
 webguru:
     name: Chiranthan Sridhar
     contact: Chiranthan.Sridhar@
@@ -162,8 +181,6 @@ alumni:
 
     - title: GPSG Student Representative
       people:
-          - name: Chiranthan Sridhar
-            years: Fall 2023
           - name: Paresha Farastu
             years: Spring 2023
           - name: Nikhil Hulle

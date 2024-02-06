@@ -10,6 +10,7 @@ If you have a recommendation on someone you want to see featured, please email [
 The interviews from the first year can be found on Izzy's website [here](https://izabelpaguiar.com/nn/).
 
 Newer interviews include:
+ * [Mohsena Ashraf](neural-network/mohsena_ashraf_nn.pdf)
  * [Jay Seabrum](neural-network/jay-seabrum_nn.pdf)
  * [Sagi Shaier](neural-network/sagi_shaier_nn.pdf)
  * [Nasim Sonboli](neural-network/nasim_sonboli_nn.pdf)
@@ -20,8 +21,4 @@ Newer interviews include:
  * [Kaleb Bishop](neural-network/kaleb_bishop_nn.pdf)
  * [Jay Luther](neural-network/jay_luther_nn.pdf)
  * [Owen Martin](neural-network/owen_martin_nn.pdf)
-
- Come back soon to learn more about:
- * Varsha Koushik
- * Nikita Menon
 
