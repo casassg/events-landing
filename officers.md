@@ -148,7 +148,7 @@ The Graduate Committee is charged with a broad range of graduate student affairs
 <div class="col-sm-6">
 <div class="card">
 {%if person.photo%}
-![{{person.name}}]({{person.photo}}){:height="300px"}{:width="300px"}
+![{{person.name}}]({{person.photo}}){:height="300px"}{:width="260px"}
 {%endif%}
 {{person.name}}
 
@@ -169,7 +169,7 @@ Bio: {{person.bio}}
 {::options parse_block_html="true" /}
 {%assign person = site.data.officers.exec_comm%}
 {%if person.photo%}
-![{{person.name}}]({{person.photo}}){:height="300px"}
+![{{person.name}}]({{person.photo}}){:height="300px"}{:width="300px"}
 {%endif%}
 {{person.name}}
 
@@ -183,6 +183,26 @@ Bio: {{person.bio}}
 The student member of this committee is considered to be the senior student representative. This committee usually meets once a week and is concerned with all Department issues: budget, space, promotions, etc. The Executive Committee also reviews applications from prospective new faculty members. The student representative sits on both the Executive Committee and the Search Committee with one full vote. This position provides an excellent opportunity to see how an academic Department is really run. Sometimes the representative is required to poll graduate student opinion and is usually in charge of taking prospective new faculty members out to lunch with a group of graduate students.
 </div>
 </div>
+</div>
+
+
+## Student Representative for the DEIA (Diversity, Equity, Inclusion, and Accessibility) Committee
+{::options parse_block_html="true" /}
+<div class="container">
+{%for person in site.data.officers.deia%}
+<div class="col-sm-6">
+<div class="card">
+{%if person.photo%}
+![{{person.name}}]({{person.photo}}){:height="300px"}{:width="300px"}
+{%endif%}
+{{person.name}}
+
+Pronouns: {{person.pronouns}}
+
+Bio: {{person.bio}}
+</div>
+</div>
+{%endfor%}
 </div>
 
 ## GPSG Student Representatives
